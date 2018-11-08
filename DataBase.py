@@ -3,34 +3,29 @@
 
 class DataBase:
     def __init__(self):
-        self.dic = {}
+        self.db = {}
 
     def set_value(self, key, val):
-        if self.is_key(key):
-            self.dic[key] = val
+        if key not in self.db:
+            self.db[key] = val
             return True
         else:
+            print "can't add value"
             return False
 
     def get_value(self, key):
-        if self.is_key(key):
-            return self.dic[key]
+        if key in self.db:
+            return self.db[key]
         return "invalid key"
 
     def delete_value(self, key):
-        if key in self.dic:
-            return self.dic.pop(key)
+        if key in self.db:
+            return self.db.pop(key)
         return "invalid key"
 
-    def is_key(self, key):
-        if type(key) == str or type(key) == tuple or type(key) == int:
-            return True
-        return False
+    def set_obj(self, obj):
+        self.db = obj
 
-
-class File_Data:
-    def __init__(self):
-        self.file = "C:/Users/cyber/Documents/GitHyb/DataBase"
 
 if __name__ == '__main__':
     a = DataBase()
@@ -39,4 +34,3 @@ if __name__ == '__main__':
     assert a.get_value("a") == 11
     assert a.get_value("b") == 22
     assert a.delete_value("a") == 11
-    assert a.is_key("b")
