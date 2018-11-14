@@ -10,7 +10,7 @@ class DataBase:
             self.db[key] = val
             return True
         else:
-            print "can't add value"
+            print "can't add value or key alredy exist"
             return False
 
     def get_value(self, key):

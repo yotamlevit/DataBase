@@ -3,6 +3,7 @@
 from DataBase import *
 import pickle
 import sys
+import os
 
 path_to_tool = sys.argv[0].split("/")
 path_to_tool.pop()
@@ -19,13 +20,17 @@ class File_serialization(DataBase):
     def __init__(self):
         DataBase.__init__(self)
         print DATA_FILE
-        with open(DATA_FILE, "rb") as file_data:
-            self.db = pickle.load(file_data)
+        if os.stat(DATA_FILE).st_size != 0:
+            with open(DATA_FILE, "rb") as file_data:
+                self.db = pickle.load(file_data)
 
-    def write_to_file(self):
+    def write_to_data(self):
         with open(DATA_FILE, "wb") as file_data:
             pickle.dump(self.db, file_data)
 
+    def read_from_data(self):
+        with open(DATA_FILE, "rb") as file_data:
+            self.db = pickle.load(file_data)
 
 
 def main():
@@ -33,9 +38,9 @@ def main():
     Add Documentation here
     """
     o = File_serialization()
-    o.set_value(1, "a")
-    o.set_value(2, "b")
-    o.write_to_file()
+    o.set_value(5, "a")
+    o.set_value(7, "b")
+    o.write_to_data()
 
 
 if __name__ == '__main__':
