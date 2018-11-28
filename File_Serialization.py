@@ -24,13 +24,18 @@ class File_serialization(DataBase):
             with open(DATA_FILE, "rb") as file_data:
                 self.db = pickle.load(file_data)
 
-    def write_to_data(self):
+    def set_value(self, key, val):
         with open(DATA_FILE, "wb") as file_data:
+            self.db = pickle.load(self.db, file_data)
+            DataBase.set_value(key, val)
             pickle.dump(self.db, file_data)
 
-    def read_from_data(self):
+    def get_value(self, key):
         with open(DATA_FILE, "rb") as file_data:
             self.db = pickle.load(file_data)
+            ret = DataBase.get_value(key)
+            pickle.dump(self.db, file_data)
+        return ret
 
 
 def main():

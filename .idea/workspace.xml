@@ -35,7 +35,7 @@
       <file leaf-file-name="File_Serialization.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/File_Serialization.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="28" column="43" selection-start="675" selection-end="675" vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="884">
+            <state line="28" column="10" selection-start="648" selection-end="648" vertical-scroll-proportion="0.0" vertical-offset="46" max-vertical-offset="969">
               <folding>
                 <element signature="e#25#47#0" expanded="true" />
               </folding>
@@ -46,7 +46,7 @@
       <file leaf-file-name="File_Sync.py" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/File_Sync.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="34" selection-start="187" selection-end="187" vertical-scroll-proportion="0.19572368" vertical-offset="0" max-vertical-offset="608">
+            <state line="23" column="18" selection-start="673" selection-end="673" vertical-scroll-proportion="0.42361864" vertical-offset="0" max-vertical-offset="923">
               <folding>
                 <element signature="e#25#74#0" expanded="true" />
               </folding>
@@ -125,7 +125,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -146,6 +145,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -393,6 +393,45 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/DataBase.py">
       <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="54" selection-start="277" selection-end="277" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="697">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/File_Serialization.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="43" selection-start="675" selection-end="675" vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="884">
+          <folding>
+            <element signature="e#25#47#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/File_Sync.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="34" selection-start="187" selection-end="187" vertical-scroll-proportion="0.0" vertical-offset="34" max-vertical-offset="459">
+          <folding>
+            <element signature="e#25#74#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="42" selection-start="37" selection-end="241" vertical-scroll-proportion="0.0" vertical-offset="204" max-vertical-offset="493">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tesst.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="32" selection-start="0" selection-end="820" vertical-scroll-proportion="0.0" vertical-offset="21" max-vertical-offset="697">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataBase.py">
+      <provider selected="true" editor-type-id="text-editor">
         <state line="22" column="24" selection-start="488" selection-end="488" vertical-scroll-proportion="0.0" vertical-offset="89" max-vertical-offset="697">
           <folding />
         </state>
@@ -458,7 +497,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/File_Serialization.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="43" selection-start="675" selection-end="675" vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="884">
+        <state line="28" column="10" selection-start="648" selection-end="648" vertical-scroll-proportion="0.0" vertical-offset="46" max-vertical-offset="969">
           <folding>
             <element signature="e#25#47#0" expanded="true" />
           </folding>
@@ -467,7 +506,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/File_Sync.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="34" selection-start="187" selection-end="187" vertical-scroll-proportion="0.19572368" vertical-offset="0" max-vertical-offset="608">
+        <state line="23" column="18" selection-start="673" selection-end="673" vertical-scroll-proportion="0.42361864" vertical-offset="0" max-vertical-offset="923">
           <folding>
             <element signature="e#25#74#0" expanded="true" />
           </folding>
