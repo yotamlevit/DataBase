@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 
 
-class DataBase:
+class DataBase(object):
     def __init__(self):
         self.db = {}
 
@@ -10,7 +10,6 @@ class DataBase:
             self.db[key] = val
             return True
         else:
-            print "can't add value or key alredy exist"
             return False
 
     def get_value(self, key):

@@ -5,10 +5,10 @@ p1
 sI2
 S'b'
 p2
-sI5
-S'a'
+sI3
+S'c'
 p3
-sI7
-S'b'
+sI4
+S'd'
 p4
 s.

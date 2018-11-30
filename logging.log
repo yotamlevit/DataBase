@@ -1,0 +1,435 @@
+(Thread-0  ) 2018-11-29 18:43:15,322 DEBUG    starting
+(Thread-1  ) 2018-11-29 18:43:15,322 DEBUG    starting
+(Thread-0  ) 2018-11-29 18:43:15,322 DEBUG    args: (1, 'a')
+(Thread-1  ) 2018-11-29 18:43:15,323 DEBUG    args: (2, 'b')
+(Thread-2  ) 2018-11-29 18:43:15,323 DEBUG    starting
+(Thread-3  ) 2018-11-29 18:43:15,325 DEBUG    starting
+(Thread-2  ) 2018-11-29 18:43:15,325 DEBUG    args: (3, 'c')
+(Thread-3  ) 2018-11-29 18:43:15,325 DEBUG    args: (4, 'd')
+(Thread-0  ) 2018-11-29 18:43:17,329 DEBUG    Exiting
+(Thread-1  ) 2018-11-29 18:43:17,329 DEBUG    Exiting
+(Thread-3  ) 2018-11-29 18:43:17,331 DEBUG    Exiting
+(Thread-2  ) 2018-11-29 18:43:17,331 DEBUG    Exiting
+(Thread-0  ) 2018-11-29 18:43:42,486 DEBUG    starting
+(Thread-1  ) 2018-11-29 18:43:42,486 DEBUG    starting
+(Thread-0  ) 2018-11-29 18:43:42,487 DEBUG    args: 1
+(Thread-1  ) 2018-11-29 18:43:42,487 DEBUG    args: 2
+(Thread-2  ) 2018-11-29 18:43:42,487 DEBUG    starting
+(Thread-2  ) 2018-11-29 18:43:42,489 DEBUG    args: 3
+(Thread-3  ) 2018-11-29 18:43:42,490 DEBUG    starting
+(Thread-3  ) 2018-11-29 18:43:42,490 DEBUG    args: 4
+(Thread-1  ) 2018-11-29 18:43:44,492 DEBUG    Exiting
+(Thread-3  ) 2018-11-29 18:43:44,492 DEBUG    Exiting
+(Thread-2  ) 2018-11-29 18:43:44,492 DEBUG    Exiting
+(Thread-0  ) 2018-11-29 18:43:44,492 DEBUG    Exiting
+(Thread-0  ) 2018-11-29 18:45:02,775 DEBUG    starting - args: 1
+(Thread-1  ) 2018-11-29 18:45:02,775 DEBUG    starting - args: 2
+(Thread-2  ) 2018-11-29 18:45:02,776 DEBUG    starting - args: 3
+(Thread-3  ) 2018-11-29 18:45:02,776 DEBUG    starting - args: 4
+(Thread-1  ) 2018-11-29 18:45:04,779 DEBUG    Exiting
+(Thread-0  ) 2018-11-29 18:45:04,779 DEBUG    Exiting
+(Thread-2  ) 2018-11-29 18:45:04,779 DEBUG    Exiting
+(Thread-3  ) 2018-11-29 18:45:04,779 DEBUG    Exiting
+(Thread-0  ) 2018-11-29 18:45:09,598 DEBUG    starting - args: 1
+(Thread-1  ) 2018-11-29 18:45:09,598 DEBUG    starting - args: 2
+(Thread-2  ) 2018-11-29 18:45:09,598 DEBUG    starting - args: 3
+(Thread-3  ) 2018-11-29 18:45:09,601 DEBUG    starting - args: 4
+(Thread-0  ) 2018-11-29 18:45:11,604 DEBUG    Exiting
+(Thread-3  ) 2018-11-29 18:45:11,604 DEBUG    Exiting
+(Thread-2  ) 2018-11-29 18:45:11,604 DEBUG    Exiting
+(Thread-1  ) 2018-11-29 18:45:11,604 DEBUG    Exiting
+(Thread-0  ) 2018-11-29 18:46:12,290 DEBUG    starting - args: 1
+(Thread-1  ) 2018-11-29 18:46:12,292 DEBUG    starting - args: 2
+(Thread-2  ) 2018-11-29 18:46:12,292 DEBUG    starting - args: 3
+(Thread-3  ) 2018-11-29 18:46:12,292 DEBUG    starting - args: 4
+(Thread-1  ) 2018-11-29 18:46:14,296 DEBUG    Exiting
+(Thread-2  ) 2018-11-29 18:46:14,296 DEBUG    Exiting
+(Thread-3  ) 2018-11-29 18:46:14,296 DEBUG    Exiting
+(Thread-0  ) 2018-11-29 18:46:14,296 DEBUG    Exiting
+(Thread-0  ) 2018-11-29 18:46:28,381 DEBUG    starting - args: 1
+(Thread-1  ) 2018-11-29 18:46:28,381 DEBUG    starting - args: 2
+(Thread-2  ) 2018-11-29 18:46:28,382 DEBUG    starting - args: 3
+(Thread-3  ) 2018-11-29 18:46:28,384 DEBUG    starting - args: 4
+(Thread-0  ) 2018-11-29 18:46:30,384 DEBUG    Exiting
+(Thread-2  ) 2018-11-29 18:46:30,385 DEBUG    Exiting
+(Thread-1  ) 2018-11-29 18:46:30,385 DEBUG    Exiting
+(Thread-3  ) 2018-11-29 18:46:30,385 DEBUG    Exiting
+(Thread-0  ) 2018-11-29 18:46:43,352 DEBUG    starting - args: 1
+(Thread-1  ) 2018-11-29 18:46:43,354 DEBUG    starting - args: 2
+(Thread-2  ) 2018-11-29 18:46:43,354 DEBUG    starting - args: 3
+(Thread-3  ) 2018-11-29 18:46:43,355 DEBUG    starting - args: 4
+(Thread-2  ) 2018-11-29 18:46:45,358 DEBUG    Exiting
+(Thread-1  ) 2018-11-29 18:46:45,358 DEBUG    Exiting
+(Thread-0  ) 2018-11-29 18:46:45,358 DEBUG    Exiting
+(Thread-3  ) 2018-11-29 18:46:45,358 DEBUG    Exiting
+(Thread-0  ) 2018-11-29 18:47:59,885 DEBUG    starting - args: 1
+(Thread-1  ) 2018-11-29 18:47:59,887 DEBUG    starting - args: 2
+(Thread-2  ) 2018-11-29 18:47:59,888 DEBUG    starting - args: 3
+(Thread-3  ) 2018-11-29 18:47:59,888 DEBUG    starting - args: 4
+(Thread-0  ) 2018-11-29 18:48:01,891 DEBUG    Exiting
+(Thread-1  ) 2018-11-29 18:48:01,891 DEBUG    Exiting
+(Thread-3  ) 2018-11-29 18:48:01,891 DEBUG    Exiting
+(Thread-2  ) 2018-11-29 18:48:01,891 DEBUG    Exiting
+(Thread-0  ) 2018-11-29 18:48:40,122 DEBUG    starting - args: (1, 'a')
+(Thread-1  ) 2018-11-29 18:48:40,124 DEBUG    starting - args: (2, 'b')
+(Thread-2  ) 2018-11-29 18:48:40,125 DEBUG    starting - args: (3, 'c')
+(Thread-3  ) 2018-11-29 18:48:40,125 DEBUG    starting - args: (4, 'd')
+(Thread-1  ) 2018-11-29 18:48:42,132 DEBUG    Exiting
+(Thread-2  ) 2018-11-29 18:48:42,132 DEBUG    Exiting
+(Thread-0  ) 2018-11-29 18:48:42,132 DEBUG    Exiting
+(Thread-3  ) 2018-11-29 18:48:42,135 DEBUG    Exiting
+(Thread-0  ) 2018-11-29 18:49:06,476 DEBUG    starting - args: (1, 'a')
+(Thread-1  ) 2018-11-29 18:49:06,476 DEBUG    starting - args: (2, 'b')
+(Thread-2  ) 2018-11-29 18:49:06,477 DEBUG    starting - args: (3, 'c')
+(Thread-3  ) 2018-11-29 18:49:06,479 DEBUG    starting - args: (4, 'd')
+(Thread-0  ) 2018-11-29 18:49:08,482 DEBUG    Exiting
+(Thread-1  ) 2018-11-29 18:49:08,483 DEBUG    Exiting
+(Thread-2  ) 2018-11-29 18:49:08,483 DEBUG    Exiting
+(Thread-3  ) 2018-11-29 18:49:08,483 DEBUG    Exiting
+(Thread-0  ) 2018-11-29 18:51:52,698 DEBUG    starting - args: (1, 'a')
+(Thread-1  ) 2018-11-29 18:51:52,700 DEBUG    starting - args: (2, 'b')
+(Thread-2  ) 2018-11-29 18:51:52,700 DEBUG    starting - args: (3, 'c')
+(Thread-3  ) 2018-11-29 18:51:52,701 DEBUG    starting - args: (4, 'd')
+(Thread-0  ) 2018-11-29 18:51:54,706 DEBUG    Exiting
+(Thread-1  ) 2018-11-29 18:51:54,706 DEBUG    Exiting
+(Thread-3  ) 2018-11-29 18:51:54,707 DEBUG    Exiting
+(Thread-2  ) 2018-11-29 18:51:54,707 DEBUG    Exiting
+(Thread-0  ) 2018-11-29 18:52:26,562 DEBUG    starting - args: (1, 'a')
+(Thread-1  ) 2018-11-29 18:52:26,562 DEBUG    starting - args: (2, 'b')
+(Thread-2  ) 2018-11-29 18:52:26,563 DEBUG    starting - args: (3, 'c')
+(Thread-3  ) 2018-11-29 18:52:26,565 DEBUG    starting - args: (4, 'd')
+(Thread-1  ) 2018-11-29 18:52:28,565 DEBUG    Exiting
+(Thread-0  ) 2018-11-29 18:52:28,565 DEBUG    Exiting
+(Thread-2  ) 2018-11-29 18:52:28,568 DEBUG    Exiting
+(Thread-3  ) 2018-11-29 18:52:28,569 DEBUG    Exiting
+(Thread-0  ) 2018-11-29 18:53:31,890 DEBUG    starting - args: (1, 'a')
+(Thread-1  ) 2018-11-29 18:53:31,891 DEBUG    starting - args: (2, 'b')
+(Thread-2  ) 2018-11-29 18:53:31,891 DEBUG    starting - args: (3, 'c')
+(Thread-3  ) 2018-11-29 18:53:31,892 DEBUG    starting - args: (4, 'd')
+(Thread-1  ) 2018-11-29 18:53:33,926 DEBUG    Exiting
+(Thread-3  ) 2018-11-29 18:53:33,926 DEBUG    Exiting
+(Thread-0  ) 2018-11-29 18:53:33,926 DEBUG    Exiting
+(Thread-2  ) 2018-11-29 18:53:33,926 DEBUG    Exiting
+(Thread-0  ) 2018-11-29 18:55:06,963 DEBUG    starting - args: (1, 'a')
+(Thread-1  ) 2018-11-29 18:55:06,963 DEBUG    starting - args: (2, 'b')
+(Thread-2  ) 2018-11-29 18:55:06,964 DEBUG    starting - args: (3, 'c')
+(Thread-3  ) 2018-11-29 18:55:06,964 DEBUG    starting - args: (4, 'd')
+(Thread-0  ) 2018-11-29 18:55:08,973 DEBUG    Exiting
+(Thread-1  ) 2018-11-29 18:55:08,976 DEBUG    Exiting
+(Thread-2  ) 2018-11-29 18:55:08,976 DEBUG    Exiting
+(Thread-3  ) 2018-11-29 18:55:08,976 DEBUG    Exiting
+(Thread-0  ) 2018-11-29 18:55:43,354 DEBUG    starting - args: (1, 'a')
+(Thread-1  ) 2018-11-29 18:55:43,355 DEBUG    starting - args: (2, 'b')
+(Thread-2  ) 2018-11-29 18:55:43,355 DEBUG    starting - args: (3, 'c')
+(Thread-3  ) 2018-11-29 18:55:43,355 DEBUG    starting - args: (4, 'd')
+(Thread-1  ) 2018-11-29 18:55:45,358 DEBUG    Exiting
+(Thread-2  ) 2018-11-29 18:55:45,359 DEBUG    Exiting
+(Thread-0  ) 2018-11-29 18:55:45,359 DEBUG    Exiting
+(Thread-3  ) 2018-11-29 18:55:45,361 DEBUG    Exiting
+(Thread-0  ) 2018-11-29 18:55:56,127 DEBUG    starting - args: (1, 'a')
+(Thread-1  ) 2018-11-29 18:55:56,128 DEBUG    starting - args: (2, 'b')
+(Thread-2  ) 2018-11-29 18:55:56,128 DEBUG    starting - args: (3, 'c')
+(Thread-3  ) 2018-11-29 18:55:56,130 DEBUG    starting - args: (4, 'd')
+(Thread-1  ) 2018-11-29 18:55:58,132 DEBUG    Exiting
+(Thread-0  ) 2018-11-29 18:55:58,132 DEBUG    Exiting
+(Thread-2  ) 2018-11-29 18:55:58,134 DEBUG    Exiting
+(Thread-3  ) 2018-11-29 18:55:58,134 DEBUG    Exiting
+(Thread-0  ) 2018-11-29 18:56:10,130 DEBUG    starting - args: (1, 'a')
+(Thread-1  ) 2018-11-29 18:56:10,131 DEBUG    starting - args: (2, 'b')
+(Thread-2  ) 2018-11-29 18:56:10,131 DEBUG    starting - args: (3, 'c')
+(Thread-3  ) 2018-11-29 18:56:10,131 DEBUG    starting - args: (4, 'd')
+(Thread-1  ) 2018-11-29 18:56:12,135 DEBUG    Exiting
+(Thread-0  ) 2018-11-29 18:56:12,135 DEBUG    Exiting
+(Thread-2  ) 2018-11-29 18:56:12,137 DEBUG    Exiting
+(Thread-3  ) 2018-11-29 18:56:12,137 DEBUG    Exiting
+(Thread-0  ) 2018-11-29 18:56:14,075 DEBUG    starting - args: (1, 'a')
+(Thread-1  ) 2018-11-29 18:56:14,075 DEBUG    starting - args: (2, 'b')
+(Thread-2  ) 2018-11-29 18:56:14,078 DEBUG    starting - args: (3, 'c')
+(Thread-3  ) 2018-11-29 18:56:14,078 DEBUG    starting - args: (4, 'd')
+(Thread-0  ) 2018-11-29 18:56:15,953 DEBUG    starting - args: (1, 'a')
+(Thread-1  ) 2018-11-29 18:56:15,954 DEBUG    starting - args: (2, 'b')
+(Thread-2  ) 2018-11-29 18:56:15,956 DEBUG    starting - args: (3, 'c')
+(Thread-3  ) 2018-11-29 18:56:15,957 DEBUG    starting - args: (4, 'd')
+(Thread-1  ) 2018-11-29 18:56:17,960 DEBUG    Exiting
+(Thread-2  ) 2018-11-29 18:56:17,960 DEBUG    Exiting
+(Thread-0  ) 2018-11-29 18:56:17,961 DEBUG    Exiting
+(Thread-0  ) 2018-11-29 18:57:09,898 DEBUG    starting - args: (1, 'a')
+(Thread-1  ) 2018-11-29 18:57:09,898 DEBUG    starting - args: (2, 'b')
+(Thread-2  ) 2018-11-29 18:57:09,898 DEBUG    starting - args: (3, 'c')
+(Thread-3  ) 2018-11-29 18:57:09,900 DEBUG    starting - args: (4, 'd')
+(Thread-0  ) 2018-11-29 18:57:11,904 DEBUG    Exiting
+(Thread-1  ) 2018-11-29 18:57:11,904 DEBUG    Exiting
+(Thread-2  ) 2018-11-29 18:57:11,904 DEBUG    Exiting
+(Thread-3  ) 2018-11-29 18:57:11,905 DEBUG    Exiting
+(Thread-0  ) 2018-11-29 18:57:15,831 DEBUG    starting - args: (1, 'a')
+(Thread-1  ) 2018-11-29 18:57:15,832 DEBUG    starting - args: (2, 'b')
+(Thread-2  ) 2018-11-29 18:57:15,832 DEBUG    starting - args: (3, 'c')
+(Thread-3  ) 2018-11-29 18:57:15,832 DEBUG    starting - args: (4, 'd')
+(Thread-1  ) 2018-11-29 18:57:17,836 DEBUG    Exiting
+(Thread-3  ) 2018-11-29 18:57:17,838 DEBUG    Exiting
+(Thread-2  ) 2018-11-29 18:57:17,841 DEBUG    Exiting
+(Thread-0  ) 2018-11-29 18:57:17,841 DEBUG    Exiting
+(Thread-0  ) 2018-11-29 18:57:20,095 DEBUG    starting - args: (1, 'a')
+(Thread-1  ) 2018-11-29 18:57:20,095 DEBUG    starting - args: (2, 'b')
+(Thread-2  ) 2018-11-29 18:57:20,096 DEBUG    starting - args: (3, 'c')
+(Thread-3  ) 2018-11-29 18:57:20,098 DEBUG    starting - args: (4, 'd')
+(Thread-0  ) 2018-11-29 18:57:22,101 DEBUG    Exiting
+(Thread-1  ) 2018-11-29 18:57:22,101 DEBUG    Exiting
+(Thread-3  ) 2018-11-29 18:57:22,102 DEBUG    Exiting
+(Thread-2  ) 2018-11-29 18:57:22,104 DEBUG    Exiting
+(Thread-0  ) 2018-11-29 18:57:27,831 DEBUG    starting - args: (1, 'a')
+(Thread-1  ) 2018-11-29 18:57:27,831 DEBUG    starting - args: (2, 'b')
+(Thread-2  ) 2018-11-29 18:57:27,832 DEBUG    starting - args: (3, 'c')
+(Thread-3  ) 2018-11-29 18:57:27,832 DEBUG    starting - args: (4, 'd')
+(Thread-1  ) 2018-11-29 18:57:29,836 DEBUG    Exiting
+(Thread-3  ) 2018-11-29 18:57:29,836 DEBUG    Exiting
+(Thread-0  ) 2018-11-29 18:57:29,836 DEBUG    Exiting
+(Thread-2  ) 2018-11-29 18:57:29,836 DEBUG    Exiting
+(Thread-0  ) 2018-11-29 18:58:04,183 DEBUG    starting - args: (1, 'a')
+(Thread-1  ) 2018-11-29 18:58:04,184 DEBUG    starting - args: (2, 'b')
+(Thread-2  ) 2018-11-29 18:58:04,184 DEBUG    starting - args: (3, 'c')
+(Thread-3  ) 2018-11-29 18:58:04,184 DEBUG    starting - args: (4, 'd')
+(Thread-0  ) 2018-11-29 18:58:04,187 DEBUG    Exiting
+(Thread-1  ) 2018-11-29 18:58:04,187 DEBUG    Exiting
+(Thread-2  ) 2018-11-29 18:58:04,190 DEBUG    Exiting
+(Thread-3  ) 2018-11-29 18:58:04,190 DEBUG    Exiting
+(Thread-0  ) 2018-11-29 18:58:08,480 DEBUG    starting - args: (1, 'a')
+(Thread-1  ) 2018-11-29 18:58:08,482 DEBUG    starting - args: (2, 'b')
+(Thread-2  ) 2018-11-29 18:58:08,482 DEBUG    starting - args: (3, 'c')
+(Thread-3  ) 2018-11-29 18:58:08,483 DEBUG    starting - args: (4, 'd')
+(Thread-1  ) 2018-11-29 18:58:08,486 DEBUG    Exiting
+(Thread-2  ) 2018-11-29 18:58:08,486 DEBUG    Exiting
+(Thread-0  ) 2018-11-29 18:58:08,487 DEBUG    Exiting
+(Thread-0  ) 2018-11-29 18:58:14,380 DEBUG    starting - args: (1, 'a')
+(Thread-1  ) 2018-11-29 18:58:14,381 DEBUG    starting - args: (2, 'b')
+(Thread-2  ) 2018-11-29 18:58:14,381 DEBUG    starting - args: (3, 'c')
+(Thread-3  ) 2018-11-29 18:58:14,382 DEBUG    starting - args: (4, 'd')
+(Thread-0  ) 2018-11-29 18:58:14,387 DEBUG    Exiting
+(Thread-1  ) 2018-11-29 18:58:14,387 DEBUG    Exiting
+(Thread-2  ) 2018-11-29 18:58:14,387 DEBUG    Exiting
+(Thread-3  ) 2018-11-29 18:58:14,388 DEBUG    Exiting
+(Thread-0  ) 2018-11-29 18:58:23,648 DEBUG    starting - args: (1, 'a')
+(Thread-1  ) 2018-11-29 18:58:23,648 DEBUG    starting - args: (2, 'b')
+(Thread-2  ) 2018-11-29 18:58:23,648 DEBUG    starting - args: (3, 'c')
+(Thread-3  ) 2018-11-29 18:58:23,650 DEBUG    starting - args: (4, 'd')
+(Thread-1  ) 2018-11-29 18:58:23,653 DEBUG    Exiting
+(Thread-0  ) 2018-11-29 18:58:23,654 DEBUG    Exiting
+(Thread-3  ) 2018-11-29 18:58:23,654 DEBUG    Exiting
+(Thread-2  ) 2018-11-29 18:58:23,654 DEBUG    Exiting
+(Thread-0  ) 2018-11-29 18:59:20,441 DEBUG    starting - args: (1, 'a')
+(Thread-1  ) 2018-11-29 18:59:20,441 DEBUG    starting - args: (2, 'b')
+(Thread-2  ) 2018-11-29 18:59:20,444 DEBUG    starting - args: (3, 'c')
+(Thread-3  ) 2018-11-29 18:59:20,444 DEBUG    starting - args: (4, 'd')
+(Thread-1  ) 2018-11-29 18:59:20,447 DEBUG    Exiting
+(Thread-0  ) 2018-11-29 18:59:20,447 DEBUG    Exiting
+(Thread-3  ) 2018-11-29 18:59:20,448 DEBUG    Exiting
+(Thread-0  ) 2018-11-29 18:59:29,469 DEBUG    starting - args: (1, 'a')
+(Thread-1  ) 2018-11-29 18:59:29,469 DEBUG    starting - args: (2, 'b')
+(Thread-2  ) 2018-11-29 18:59:29,470 DEBUG    starting - args: (3, 'c')
+(Thread-3  ) 2018-11-29 18:59:29,470 DEBUG    starting - args: (4, 'd')
+(Thread-1  ) 2018-11-29 18:59:29,473 DEBUG    Exiting
+(Thread-0  ) 2018-11-29 18:59:29,473 DEBUG    Exiting
+(Thread-3  ) 2018-11-29 18:59:29,474 DEBUG    Exiting
+(Thread-2  ) 2018-11-29 18:59:29,474 DEBUG    Exiting
+(Thread-0  ) 2018-11-29 18:59:47,713 DEBUG    starting - args: (1, 'a')
+(Thread-1  ) 2018-11-29 18:59:47,713 DEBUG    starting - args: (2, 'b')
+(Thread-2  ) 2018-11-29 18:59:47,714 DEBUG    starting - args: (3, 'c')
+(Thread-3  ) 2018-11-29 18:59:47,714 DEBUG    starting - args: (4, 'd')
+(Thread-2  ) 2018-11-29 18:59:47,720 DEBUG    Exiting
+(Thread-0  ) 2018-11-29 18:59:47,721 DEBUG    Exiting
+(Thread-1  ) 2018-11-29 18:59:47,721 DEBUG    Exiting
+(Thread-3  ) 2018-11-29 18:59:47,723 DEBUG    Exiting
+(Thread-0  ) 2018-11-29 19:00:21,095 DEBUG    starting - args: (1, 'a')
+(Thread-1  ) 2018-11-29 19:00:21,095 DEBUG    starting - args: (2, 'b')
+(Thread-2  ) 2018-11-29 19:00:21,096 DEBUG    starting - args: (3, 'c')
+(Thread-3  ) 2018-11-29 19:00:21,098 DEBUG    starting - args: (4, 'd')
+(Thread-3  ) 2018-11-29 19:00:23,101 DEBUG    Exiting
+(Thread-2  ) 2018-11-29 19:00:23,101 DEBUG    Exiting
+(Thread-0  ) 2018-11-29 19:00:23,102 DEBUG    Exiting
+(Thread-1  ) 2018-11-29 19:00:23,102 DEBUG    Exiting
+(Thread-0  ) 2018-11-29 19:00:29,697 DEBUG    starting - args: (1, 'a')
+(Thread-1  ) 2018-11-29 19:00:29,697 DEBUG    starting - args: (2, 'b')
+(Thread-2  ) 2018-11-29 19:00:29,698 DEBUG    starting - args: (3, 'c')
+(Thread-3  ) 2018-11-29 19:00:29,700 DEBUG    starting - args: (4, 'd')
+(Thread-0  ) 2018-11-29 19:00:31,703 DEBUG    Exiting
+(Thread-1  ) 2018-11-29 19:00:31,703 DEBUG    Exiting
+(Thread-3  ) 2018-11-29 19:00:31,703 DEBUG    Exiting
+(Thread-2  ) 2018-11-29 19:00:31,703 DEBUG    Exiting
+(Thread-0  ) 2018-11-29 19:00:47,700 DEBUG    starting - args: (1, 'a')
+(Thread-1  ) 2018-11-29 19:00:47,700 DEBUG    starting - args: (2, 'b')
+(Thread-2  ) 2018-11-29 19:00:47,701 DEBUG    starting - args: (3, 'c')
+(Thread-3  ) 2018-11-29 19:00:47,703 DEBUG    starting - args: (4, 'd')
+(Thread-1  ) 2018-11-29 19:00:49,707 DEBUG    Exiting
+(Thread-0  ) 2018-11-29 19:00:49,710 DEBUG    Exiting
+(Thread-2  ) 2018-11-29 19:00:49,710 DEBUG    Exiting
+(Thread-0  ) 2018-11-29 19:01:02,233 DEBUG    starting - args: (1, 'a')
+(Thread-1  ) 2018-11-29 19:01:02,233 DEBUG    starting - args: (2, 'b')
+(Thread-2  ) 2018-11-29 19:01:02,234 DEBUG    starting - args: (3, 'c')
+(Thread-3  ) 2018-11-29 19:01:02,236 DEBUG    starting - args: (4, 'd')
+(Thread-1  ) 2018-11-29 19:01:04,239 DEBUG    Exiting
+(Thread-0  ) 2018-11-29 19:01:04,239 DEBUG    Exiting
+(Thread-3  ) 2018-11-29 19:01:04,240 DEBUG    Exiting
+(Thread-2  ) 2018-11-29 19:01:04,240 DEBUG    Exiting
+(Thread-0  ) 2018-11-29 19:01:27,578 DEBUG    starting - args: (1, 'a')
+(Thread-1  ) 2018-11-29 19:01:27,578 DEBUG    starting - args: (2, 'b')
+(Thread-2  ) 2018-11-29 19:01:27,578 DEBUG    starting - args: (3, 'c')
+(Thread-3  ) 2018-11-29 19:01:27,579 DEBUG    starting - args: (4, 'd')
+(Thread-1  ) 2018-11-29 19:01:29,584 DEBUG    Exiting
+(Thread-0  ) 2018-11-29 19:01:29,584 DEBUG    Exiting
+(Thread-3  ) 2018-11-29 19:01:29,584 DEBUG    Exiting
+(Thread-0  ) 2018-11-29 19:05:16,690 DEBUG    starting - args: (1, 'a')
+(Thread-1  ) 2018-11-29 19:05:16,690 DEBUG    starting - args: (2, 'b')
+(Thread-2  ) 2018-11-29 19:05:16,691 DEBUG    starting - args: (3, 'c')
+(Thread-3  ) 2018-11-29 19:05:16,691 DEBUG    starting - args: (4, 'd')
+(Thread-0  ) 2018-11-29 19:05:18,694 DEBUG    Exiting
+(Thread-2  ) 2018-11-29 19:05:18,696 DEBUG    Exiting
+(Thread-1  ) 2018-11-29 19:05:18,696 DEBUG    Exiting
+(Thread-0  ) 2018-11-29 19:06:12,769 DEBUG    starting - args: (1, 'a')
+(Thread-1  ) 2018-11-29 19:06:12,769 DEBUG    starting - args: (2, 'b')
+(Thread-2  ) 2018-11-29 19:06:12,770 DEBUG    starting - args: (3, 'c')
+(Thread-3  ) 2018-11-29 19:06:12,770 DEBUG    starting - args: (4, 'd')
+(Thread-1  ) 2018-11-29 19:06:14,783 DEBUG    Exiting
+(Thread-2  ) 2018-11-29 19:06:14,785 DEBUG    Exiting
+(Thread-3  ) 2018-11-29 19:06:14,786 DEBUG    Exiting
+(Thread-0  ) 2018-11-29 19:06:14,786 DEBUG    Exiting
+(Thread-0  ) 2018-11-29 19:06:34,132 DEBUG    starting - args: (1, 'a')
+(Thread-1  ) 2018-11-29 19:06:34,134 DEBUG    starting - args: (2, 'b')
+(Thread-2  ) 2018-11-29 19:06:34,134 DEBUG    starting - args: (3, 'c')
+(Thread-3  ) 2018-11-29 19:06:34,135 DEBUG    starting - args: (4, 'd')
+(Thread-1  ) 2018-11-29 19:06:36,138 DEBUG    Exiting
+(Thread-2  ) 2018-11-29 19:06:36,138 DEBUG    Exiting
+(Thread-0  ) 2018-11-29 19:06:36,138 DEBUG    Exiting
+(Thread-3  ) 2018-11-29 19:06:36,138 DEBUG    Exiting
+(Thread-0  ) 2018-11-29 19:08:03,043 DEBUG    starting - args: (1, 'a')
+(Thread-1  ) 2018-11-29 19:08:03,045 DEBUG    starting - args: (2, 'b')
+(Thread-2  ) 2018-11-29 19:08:03,046 DEBUG    starting - args: (3, 'c')
+(Thread-3  ) 2018-11-29 19:08:03,046 DEBUG    starting - args: (4, 'd')
+(Thread-3  ) 2018-11-29 19:08:05,049 DEBUG    Exiting
+(Thread-2  ) 2018-11-29 19:08:05,052 DEBUG    Exiting
+(Thread-0  ) 2018-11-29 19:08:05,052 DEBUG    Exiting
+(Thread-1  ) 2018-11-29 19:08:05,052 DEBUG    Exiting
+(Thread-0  ) 2018-11-29 19:08:16,628 DEBUG    starting - args: (1, 'a')
+(Thread-1  ) 2018-11-29 19:08:16,628 DEBUG    starting - args: (2, 'b')
+(Thread-2  ) 2018-11-29 19:08:16,630 DEBUG    starting - args: (3, 'c')
+(Thread-3  ) 2018-11-29 19:08:16,631 DEBUG    starting - args: (4, 'd')
+(Thread-0  ) 2018-11-29 19:08:18,634 DEBUG    Exiting
+(Thread-1  ) 2018-11-29 19:08:18,634 DEBUG    Exiting
+(Thread-3  ) 2018-11-29 19:08:18,634 DEBUG    Exiting
+(Thread-0  ) 2018-11-29 19:09:50,596 DEBUG    starting - args: (1, 'a')
+(Thread-1  ) 2018-11-29 19:09:50,598 DEBUG    starting - args: (2, 'b')
+(Thread-2  ) 2018-11-29 19:09:50,598 DEBUG    starting - args: (3, 'c')
+(Thread-3  ) 2018-11-29 19:09:50,598 DEBUG    starting - args: (4, 'd')
+(Thread-3  ) 2018-11-29 19:09:52,602 DEBUG    Exiting
+(Thread-0  ) 2018-11-29 19:09:52,604 DEBUG    Exiting
+(Thread-2  ) 2018-11-29 19:09:52,604 DEBUG    Exiting
+(Thread-1  ) 2018-11-29 19:09:52,604 DEBUG    Exiting
+(Thread-0  ) 2018-11-29 19:11:35,602 DEBUG    starting - args: (1, 'a')
+(Thread-1  ) 2018-11-29 19:11:35,654 DEBUG    starting - args: (2, 'b')
+(Thread-2  ) 2018-11-29 19:11:35,703 DEBUG    starting - args: (3, 'c')
+(Thread-3  ) 2018-11-29 19:11:35,755 DEBUG    starting - args: (4, 'd')
+(Thread-0  ) 2018-11-29 19:11:37,609 DEBUG    Exiting
+(Thread-1  ) 2018-11-29 19:11:37,655 DEBUG    Exiting
+(Thread-2  ) 2018-11-29 19:11:37,704 DEBUG    Exiting
+(Thread-3  ) 2018-11-29 19:11:37,756 DEBUG    Exiting
+(Thread-0  ) 2018-11-29 19:11:45,098 DEBUG    starting - args: (1, 'a')
+(Thread-1  ) 2018-11-29 19:11:45,148 DEBUG    starting - args: (2, 'b')
+(Thread-2  ) 2018-11-29 19:11:45,198 DEBUG    starting - args: (3, 'c')
+(Thread-3  ) 2018-11-29 19:11:45,250 DEBUG    starting - args: (4, 'd')
+(Thread-0  ) 2018-11-29 19:11:47,098 DEBUG    Exiting
+(Thread-1  ) 2018-11-29 19:11:47,154 DEBUG    Exiting
+(Thread-2  ) 2018-11-29 19:11:47,207 DEBUG    Exiting
+(Thread-3  ) 2018-11-29 19:11:47,255 DEBUG    Exiting
+(Thread-0  ) 2018-11-29 19:12:22,339 DEBUG    starting - args: (1, 'a')
+(Thread-1  ) 2018-11-29 19:12:22,341 DEBUG    starting - args: (2, 'b')
+(Thread-2  ) 2018-11-29 19:12:22,341 DEBUG    starting - args: (3, 'c')
+(Thread-3  ) 2018-11-29 19:12:22,342 DEBUG    starting - args: (4, 'd')
+(Thread-2  ) 2018-11-29 19:12:24,345 DEBUG    Exiting
+(Thread-1  ) 2018-11-29 19:12:24,345 DEBUG    Exiting
+(Thread-3  ) 2018-11-29 19:12:24,345 DEBUG    Exiting
+(Thread-0  ) 2018-11-29 19:12:24,345 DEBUG    Exiting
+(Thread-0  ) 2018-11-29 19:12:33,164 DEBUG    starting - args: (1, 'a')
+(Thread-1  ) 2018-11-29 19:12:33,164 DEBUG    starting - args: (2, 'b')
+(Thread-2  ) 2018-11-29 19:12:33,164 DEBUG    starting - args: (3, 'c')
+(Thread-3  ) 2018-11-29 19:12:33,165 DEBUG    starting - args: (4, 'd')
+(Thread-0  ) 2018-11-29 19:12:35,170 DEBUG    Exiting
+(Thread-1  ) 2018-11-29 19:12:35,170 DEBUG    Exiting
+(Thread-2  ) 2018-11-29 19:12:35,171 DEBUG    Exiting
+(Thread-0  ) 2018-11-29 19:12:49,384 DEBUG    starting - args: (1, 'a')
+(Thread-1  ) 2018-11-29 19:12:49,384 DEBUG    starting - args: (2, 'b')
+(Thread-2  ) 2018-11-29 19:12:49,384 DEBUG    starting - args: (3, 'c')
+(Thread-3  ) 2018-11-29 19:12:49,385 DEBUG    starting - args: (4, 'd')
+(Thread-1  ) 2018-11-29 19:12:51,390 DEBUG    Exiting
+(Thread-2  ) 2018-11-29 19:12:51,390 DEBUG    Exiting
+(Thread-0  ) 2018-11-29 19:12:51,390 DEBUG    Exiting
+(Thread-0  ) 2018-11-29 19:13:02,480 DEBUG    starting - args: (1, 'a')
+(Thread-1  ) 2018-11-29 19:13:02,532 DEBUG    starting - args: (2, 'b')
+(Thread-2  ) 2018-11-29 19:13:02,582 DEBUG    starting - args: (3, 'c')
+(Thread-3  ) 2018-11-29 19:13:02,632 DEBUG    starting - args: (4, 'd')
+(Thread-0  ) 2018-11-29 19:13:04,483 DEBUG    Exiting
+(Thread-1  ) 2018-11-29 19:13:04,542 DEBUG    Exiting
+(Thread-2  ) 2018-11-29 19:13:04,585 DEBUG    Exiting
+(Thread-3  ) 2018-11-29 19:13:04,635 DEBUG    Exiting
+(Thread-0  ) 2018-11-29 19:13:30,631 DEBUG    starting - args: (1, 'a')
+(Thread-1  ) 2018-11-29 19:13:30,681 DEBUG    starting - args: (2, 'b')
+(Thread-2  ) 2018-11-29 19:13:30,733 DEBUG    starting - args: (3, 'c')
+(Thread-3  ) 2018-11-29 19:13:30,782 DEBUG    starting - args: (4, 'd')
+(Thread-0  ) 2018-11-29 19:13:32,632 DEBUG    Exiting
+(Thread-1  ) 2018-11-29 19:13:32,683 DEBUG    Exiting
+(Thread-2  ) 2018-11-29 19:13:32,733 DEBUG    Exiting
+(Thread-3  ) 2018-11-29 19:13:32,783 DEBUG    Exiting
+(Thread-0  ) 2018-11-29 19:13:40,625 DEBUG    starting - args: 1
+(Thread-1  ) 2018-11-29 19:13:40,625 DEBUG    starting - args: 2
+(Thread-2  ) 2018-11-29 19:13:40,627 DEBUG    starting - args: 3
+(Thread-3  ) 2018-11-29 19:13:40,628 DEBUG    starting - args: 4
+(Thread-2  ) 2018-11-29 19:13:42,630 DEBUG    Exiting
+(Thread-1  ) 2018-11-29 19:13:42,630 DEBUG    Exiting
+(Thread-3  ) 2018-11-29 19:13:42,630 DEBUG    Exiting
+(Thread-0  ) 2018-11-29 19:13:42,630 DEBUG    Exiting
+(Thread-0  ) 2018-11-29 19:19:58,142 DEBUG    starting - args: (1, 'a')
+(Thread-1  ) 2018-11-29 19:19:58,193 DEBUG    starting - args: (2, 'b')
+(Thread-2  ) 2018-11-29 19:19:58,243 DEBUG    starting - args: (3, 'c')
+(Thread-3  ) 2018-11-29 19:19:58,295 DEBUG    starting - args: (4, 'd')
+(Thread-0  ) 2018-11-29 19:20:00,160 DEBUG    Exiting
+(Thread-1  ) 2018-11-29 19:20:00,206 DEBUG    Exiting
+(Thread-2  ) 2018-11-29 19:20:00,246 DEBUG    Exiting
+(Thread-3  ) 2018-11-29 19:20:00,296 DEBUG    Exiting
+(Thread-0  ) 2018-11-29 19:20:04,881 DEBUG    starting - args: 1
+(Thread-1  ) 2018-11-29 19:20:04,882 DEBUG    starting - args: 2
+(Thread-2  ) 2018-11-29 19:20:04,884 DEBUG    starting - args: 3
+(Thread-3  ) 2018-11-29 19:20:04,884 DEBUG    starting - args: 4
+(Thread-2  ) 2018-11-29 19:20:06,887 DEBUG    Exiting
+(Thread-0  ) 2018-11-29 19:20:06,887 DEBUG    Exiting
+(Thread-1  ) 2018-11-29 19:20:06,887 DEBUG    Exiting
+(Thread-3  ) 2018-11-29 19:20:06,887 DEBUG    Exiting
+(Thread-0  ) 2018-11-29 19:21:00,282 DEBUG    starting - args: (1, 'a')
+(Thread-1  ) 2018-11-29 19:21:00,332 DEBUG    starting - args: (2, 'b')
+(Thread-2  ) 2018-11-29 19:21:00,382 DEBUG    starting - args: (3, 'c')
+(Thread-3  ) 2018-11-29 19:21:00,434 DEBUG    starting - args: (4, 'd')
+(Thread-0  ) 2018-11-29 19:21:01,486 DEBUG    starting - args: 1
+(Thread-1  ) 2018-11-29 19:21:01,486 DEBUG    starting - args: 2
+(Thread-2  ) 2018-11-29 19:21:01,486 DEBUG    starting - args: 3
+(Thread-3  ) 2018-11-29 19:21:01,487 DEBUG    starting - args: 4
+(Thread-0  ) 2018-11-29 19:21:02,285 DEBUG    Exiting
+(Thread-1  ) 2018-11-29 19:21:02,335 DEBUG    Exiting
+(Thread-2  ) 2018-11-29 19:21:02,385 DEBUG    Exiting
+(Thread-3  ) 2018-11-29 19:21:02,437 DEBUG    Exiting
+(Thread-0  ) 2018-11-29 19:21:03,490 DEBUG    Exiting
+(Thread-2  ) 2018-11-29 19:21:03,490 DEBUG    Exiting
+(Thread-1  ) 2018-11-29 19:21:03,490 DEBUG    Exiting
+(Thread-3  ) 2018-11-29 19:21:03,490 DEBUG    Exiting
+(Thread-0  ) 2018-11-29 19:21:17,759 DEBUG    starting - args: (1, 'a')
+(Thread-1  ) 2018-11-29 19:21:17,811 DEBUG    starting - args: (2, 'b')
+(Thread-2  ) 2018-11-29 19:21:17,861 DEBUG    starting - args: (3, 'c')
+(Thread-3  ) 2018-11-29 19:21:17,913 DEBUG    starting - args: (4, 'd')
+(Thread-0  ) 2018-11-29 19:21:18,216 DEBUG    starting - args: 1
+(Thread-1  ) 2018-11-29 19:21:18,217 DEBUG    starting - args: 2
+(Thread-2  ) 2018-11-29 19:21:18,219 DEBUG    starting - args: 3
+(Thread-3  ) 2018-11-29 19:21:18,220 DEBUG    starting - args: 4
+(Thread-0  ) 2018-11-29 19:21:19,763 DEBUG    Exiting
+(Thread-1  ) 2018-11-29 19:21:19,813 DEBUG    Exiting
+(Thread-2  ) 2018-11-29 19:21:19,865 DEBUG    Exiting
+(Thread-3  ) 2018-11-29 19:21:19,917 DEBUG    Exiting
+(Thread-0  ) 2018-11-29 19:21:20,223 DEBUG    Exiting
+(Thread-2  ) 2018-11-29 19:21:20,223 DEBUG    Exiting
+(Thread-1  ) 2018-11-29 19:21:20,223 DEBUG    Exiting
+(Thread-3  ) 2018-11-29 19:21:20,223 DEBUG    Exiting

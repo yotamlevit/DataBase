@@ -2,11 +2,10 @@
 
 from File_Serialization import File_serialization
 import threading
-import multiprocessing
 
 class File_Sync(File_serialization):
     def __init__(self, processes):
-        File_serialization.__init__(self)
+        super(File_Sync, self).__init__()
         self.lock = None
         self.semaphore = None
         if not processes:
@@ -15,13 +14,39 @@ class File_Sync(File_serialization):
 
     def set_value(self, key, val):
         self.lock.acquire()
+        self.lock.locked()
         x = 0
         while x < 10:
             self.semaphore.acquire()
-        File_serialization.set_value(key, val)
+            x+=1
+        ans = super(File_Sync, self).set_value(key, val)
+        x = 0
         while x < 10:
             self.semaphore.release()
-        self.lock.
+            x+=1
+        self.lock.release()
+        if ans:
+            return "Value was added"
+        return "can't add value or key alredy exist"
+
+    def get_value(self, key):
+        self.semaphore.acquire()
+        val = super(File_Sync, self).get_value(key)
+        self.semaphore.release()
+        if val != "invalid key":
+            return 'the value is - ' + val
+        return val
+
+    def delete_value(self, key):
+        self.lock.acquire()
+        x = 0
+        while x < 10:
+            self.semaphore.acquire()
+        ans = super(File_Sync, self).delete_value(key)
+        while x < 10:
+            self.semaphore.release()
+        self.lock.release()
+        return ans
 
 
 def main():

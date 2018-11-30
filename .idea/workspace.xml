@@ -26,7 +26,7 @@
       <file leaf-file-name="DataBase.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/DataBase.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="54" selection-start="277" selection-end="277" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="697">
+            <state line="8" column="30" selection-start="161" selection-end="161" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="680">
               <folding />
             </state>
           </provider>
@@ -35,18 +35,19 @@
       <file leaf-file-name="File_Serialization.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/File_Serialization.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="28" column="10" selection-start="648" selection-end="648" vertical-scroll-proportion="0.0" vertical-offset="46" max-vertical-offset="969">
+            <state line="25" column="48" selection-start="583" selection-end="583" vertical-scroll-proportion="0.0" vertical-offset="308" max-vertical-offset="1700">
               <folding>
                 <element signature="e#25#47#0" expanded="true" />
+                <marker date="1543511610478" expanded="true" signature="326:2375" placeholder="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="File_Sync.py" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="File_Sync.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/File_Sync.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="18" selection-start="673" selection-end="673" vertical-scroll-proportion="0.42361864" vertical-offset="0" max-vertical-offset="923">
+            <state line="14" column="34" selection-start="424" selection-end="424" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1105">
               <folding>
                 <element signature="e#25#74#0" expanded="true" />
               </folding>
@@ -57,8 +58,23 @@
       <file leaf-file-name="test.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="42" selection-start="37" selection-end="241" vertical-scroll-proportion="0.0" vertical-offset="204" max-vertical-offset="493">
-              <folding />
+            <state line="52" column="4" selection-start="1179" selection-end="1179" vertical-scroll-proportion="0.0" vertical-offset="514" max-vertical-offset="1122">
+              <folding>
+                <element signature="e#25#48#0" expanded="true" />
+                <marker date="1543512056210" expanded="true" signature="869:1090" placeholder="..." />
+                <marker date="1543512056210" expanded="true" signature="1103:1214" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Check_Threads.py" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Check_Threads.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="29" column="42" selection-start="820" selection-end="841" vertical-scroll-proportion="0.34375" vertical-offset="284" max-vertical-offset="1394">
+              <folding>
+                <element signature="e#24#40#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -85,11 +101,12 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/test.py" />
         <option value="$PROJECT_DIR$/tesst.py" />
-        <option value="$PROJECT_DIR$/DataBase.py" />
-        <option value="$PROJECT_DIR$/File_Serialization.py" />
         <option value="$PROJECT_DIR$/File_Sync.py" />
+        <option value="$PROJECT_DIR$/File_Serialization.py" />
+        <option value="$PROJECT_DIR$/DataBase.py" />
+        <option value="$PROJECT_DIR$/test.py" />
+        <option value="$PROJECT_DIR$/Check_Threads.py" />
       </list>
     </option>
   </component>
@@ -150,10 +167,19 @@
   </component>
   <component name="PropertiesComponent">
     <property name="recentsLimit" value="5" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Shell" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Holydays_Project" />
     <property name="FullScreen" value="false" />
+    <property name="options.lastSelected" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
-  <component name="RunManager" selected="Python.File_Serialization">
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings />
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.test">
     <configuration default="false" name="tesst" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -203,6 +229,44 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="DataBase" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/File_Serialization.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="DataBase" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PyDebugRunner" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PyDebugRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Check_Threads" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="DataBase" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Check_Threads.py" />
       <option name="PARAMETERS" value="" />
       <RunnerSettings RunnerId="PythonRunner" />
       <ConfigurationWrapper RunnerId="PythonRunner" />
@@ -329,20 +393,41 @@
       <option name="USE_PATTERN" value="false" />
       <method />
     </configuration>
-    <list size="3">
+    <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Python.tesst" />
       <item index="1" class="java.lang.String" itemvalue="Python.DataBase" />
       <item index="2" class="java.lang.String" itemvalue="Python.File_Serialization" />
+      <item index="3" class="java.lang.String" itemvalue="Python.test" />
+      <item index="4" class="java.lang.String" itemvalue="Python.Check_Threads" />
     </list>
     <recent_temporary>
-      <list size="3">
-        <item index="0" class="java.lang.String" itemvalue="Python.File_Serialization" />
-        <item index="1" class="java.lang.String" itemvalue="Python.DataBase" />
-        <item index="2" class="java.lang.String" itemvalue="Python.tesst" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.test" />
+        <item index="1" class="java.lang.String" itemvalue="Python.Check_Threads" />
+        <item index="2" class="java.lang.String" itemvalue="Python.File_Serialization" />
+        <item index="3" class="java.lang.String" itemvalue="Python.DataBase" />
+        <item index="4" class="java.lang.String" itemvalue="Python.tesst" />
       </list>
     </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="all">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="e5960149-8eb5-4173-a9fb-c88e51a28ff8" name="Default" comment="" />
@@ -353,21 +438,21 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.14635417" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39936775" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33192834" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33192834" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -393,6 +478,50 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/DataBase.py">
       <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="54" selection-start="277" selection-end="277" vertical-scroll-proportion="0.0" vertical-offset="204" max-vertical-offset="697">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/File_Serialization.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="10" selection-start="648" selection-end="648" vertical-scroll-proportion="0.0" vertical-offset="46" max-vertical-offset="969">
+          <folding>
+            <element signature="e#25#47#0" expanded="true" />
+            <marker date="1543511610478" expanded="true" signature="326:2375" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/File_Sync.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="18" selection-start="673" selection-end="673" vertical-scroll-proportion="0.0" vertical-offset="391" max-vertical-offset="680">
+          <folding>
+            <element signature="e#25#74#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="42" selection-start="37" selection-end="241" vertical-scroll-proportion="0.0" vertical-offset="204" max-vertical-offset="493">
+          <folding>
+            <element signature="e#25#48#0" expanded="true" />
+            <marker date="1543512056210" expanded="true" signature="869:1090" placeholder="..." />
+            <marker date="1543512056210" expanded="true" signature="1103:1214" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tesst.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="32" selection-start="0" selection-end="820" vertical-scroll-proportion="0.0" vertical-offset="21" max-vertical-offset="697">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataBase.py">
+      <provider selected="true" editor-type-id="text-editor">
         <state line="12" column="54" selection-start="277" selection-end="277" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="697">
           <folding />
         </state>
@@ -403,6 +532,7 @@
         <state line="28" column="43" selection-start="675" selection-end="675" vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="884">
           <folding>
             <element signature="e#25#47#0" expanded="true" />
+            <marker date="1543511610478" expanded="true" signature="326:2375" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -419,7 +549,11 @@
     <entry file="file://$PROJECT_DIR$/test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="12" column="42" selection-start="37" selection-end="241" vertical-scroll-proportion="0.0" vertical-offset="204" max-vertical-offset="493">
-          <folding />
+          <folding>
+            <element signature="e#25#48#0" expanded="true" />
+            <marker date="1543512056210" expanded="true" signature="869:1090" placeholder="..." />
+            <marker date="1543512056210" expanded="true" signature="1103:1214" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -442,6 +576,7 @@
         <state line="21" column="48" selection-start="445" selection-end="445" vertical-scroll-proportion="0.0" vertical-offset="357" max-vertical-offset="799">
           <folding>
             <element signature="e#25#47#0" expanded="true" />
+            <marker date="1543511610478" expanded="true" signature="326:2375" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -449,7 +584,11 @@
     <entry file="file://$PROJECT_DIR$/test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="12" column="42" selection-start="37" selection-end="241" vertical-scroll-proportion="0.0" vertical-offset="204" max-vertical-offset="493">
-          <folding />
+          <folding>
+            <element signature="e#25#48#0" expanded="true" />
+            <marker date="1543512056210" expanded="true" signature="869:1090" placeholder="..." />
+            <marker date="1543512056210" expanded="true" signature="1103:1214" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -474,13 +613,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="42" selection-start="37" selection-end="241" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="493">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/tesst.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="7" column="32" selection-start="0" selection-end="820" vertical-scroll-proportion="0.0" vertical-offset="21" max-vertical-offset="697">
@@ -488,27 +620,55 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DataBase.py">
+    <entry file="file://F:/Heights/PortableApps/PortablePython2.7.6.1/App/Lib/logging/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="54" selection-start="277" selection-end="277" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="697">
+        <state line="845" column="11" selection-start="29726" selection-end="29726" vertical-scroll-proportion="0.0" vertical-offset="14197" max-vertical-offset="29461">
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/File_Serialization.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="10" selection-start="648" selection-end="648" vertical-scroll-proportion="0.0" vertical-offset="46" max-vertical-offset="969">
-          <folding>
-            <element signature="e#25#47#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/File_Sync.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="18" selection-start="673" selection-end="673" vertical-scroll-proportion="0.42361864" vertical-offset="0" max-vertical-offset="923">
+        <state line="14" column="34" selection-start="424" selection-end="424" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1105">
           <folding>
             <element signature="e#25#74#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/File_Serialization.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="48" selection-start="583" selection-end="583" vertical-scroll-proportion="0.0" vertical-offset="308" max-vertical-offset="1700">
+          <folding>
+            <element signature="e#25#47#0" expanded="true" />
+            <marker date="1543511610478" expanded="true" signature="326:2375" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataBase.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="30" selection-start="161" selection-end="161" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="680">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="52" column="4" selection-start="1179" selection-end="1179" vertical-scroll-proportion="0.0" vertical-offset="514" max-vertical-offset="1122">
+          <folding>
+            <element signature="e#25#48#0" expanded="true" />
+            <marker date="1543512056210" expanded="true" signature="869:1090" placeholder="..." />
+            <marker date="1543512056210" expanded="true" signature="1103:1214" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Check_Threads.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="42" selection-start="820" selection-end="841" vertical-scroll-proportion="0.34375" vertical-offset="284" max-vertical-offset="1394">
+          <folding>
+            <element signature="e#24#40#0" expanded="true" />
           </folding>
         </state>
       </provider>
