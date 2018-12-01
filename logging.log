@@ -1,435 +1,2317 @@
-(Thread-0  ) 2018-11-29 18:43:15,322 DEBUG    starting
-(Thread-1  ) 2018-11-29 18:43:15,322 DEBUG    starting
-(Thread-0  ) 2018-11-29 18:43:15,322 DEBUG    args: (1, 'a')
-(Thread-1  ) 2018-11-29 18:43:15,323 DEBUG    args: (2, 'b')
-(Thread-2  ) 2018-11-29 18:43:15,323 DEBUG    starting
-(Thread-3  ) 2018-11-29 18:43:15,325 DEBUG    starting
-(Thread-2  ) 2018-11-29 18:43:15,325 DEBUG    args: (3, 'c')
-(Thread-3  ) 2018-11-29 18:43:15,325 DEBUG    args: (4, 'd')
-(Thread-0  ) 2018-11-29 18:43:17,329 DEBUG    Exiting
-(Thread-1  ) 2018-11-29 18:43:17,329 DEBUG    Exiting
-(Thread-3  ) 2018-11-29 18:43:17,331 DEBUG    Exiting
-(Thread-2  ) 2018-11-29 18:43:17,331 DEBUG    Exiting
-(Thread-0  ) 2018-11-29 18:43:42,486 DEBUG    starting
-(Thread-1  ) 2018-11-29 18:43:42,486 DEBUG    starting
-(Thread-0  ) 2018-11-29 18:43:42,487 DEBUG    args: 1
-(Thread-1  ) 2018-11-29 18:43:42,487 DEBUG    args: 2
-(Thread-2  ) 2018-11-29 18:43:42,487 DEBUG    starting
-(Thread-2  ) 2018-11-29 18:43:42,489 DEBUG    args: 3
-(Thread-3  ) 2018-11-29 18:43:42,490 DEBUG    starting
-(Thread-3  ) 2018-11-29 18:43:42,490 DEBUG    args: 4
-(Thread-1  ) 2018-11-29 18:43:44,492 DEBUG    Exiting
-(Thread-3  ) 2018-11-29 18:43:44,492 DEBUG    Exiting
-(Thread-2  ) 2018-11-29 18:43:44,492 DEBUG    Exiting
-(Thread-0  ) 2018-11-29 18:43:44,492 DEBUG    Exiting
-(Thread-0  ) 2018-11-29 18:45:02,775 DEBUG    starting - args: 1
-(Thread-1  ) 2018-11-29 18:45:02,775 DEBUG    starting - args: 2
-(Thread-2  ) 2018-11-29 18:45:02,776 DEBUG    starting - args: 3
-(Thread-3  ) 2018-11-29 18:45:02,776 DEBUG    starting - args: 4
-(Thread-1  ) 2018-11-29 18:45:04,779 DEBUG    Exiting
-(Thread-0  ) 2018-11-29 18:45:04,779 DEBUG    Exiting
-(Thread-2  ) 2018-11-29 18:45:04,779 DEBUG    Exiting
-(Thread-3  ) 2018-11-29 18:45:04,779 DEBUG    Exiting
-(Thread-0  ) 2018-11-29 18:45:09,598 DEBUG    starting - args: 1
-(Thread-1  ) 2018-11-29 18:45:09,598 DEBUG    starting - args: 2
-(Thread-2  ) 2018-11-29 18:45:09,598 DEBUG    starting - args: 3
-(Thread-3  ) 2018-11-29 18:45:09,601 DEBUG    starting - args: 4
-(Thread-0  ) 2018-11-29 18:45:11,604 DEBUG    Exiting
-(Thread-3  ) 2018-11-29 18:45:11,604 DEBUG    Exiting
-(Thread-2  ) 2018-11-29 18:45:11,604 DEBUG    Exiting
-(Thread-1  ) 2018-11-29 18:45:11,604 DEBUG    Exiting
-(Thread-0  ) 2018-11-29 18:46:12,290 DEBUG    starting - args: 1
-(Thread-1  ) 2018-11-29 18:46:12,292 DEBUG    starting - args: 2
-(Thread-2  ) 2018-11-29 18:46:12,292 DEBUG    starting - args: 3
-(Thread-3  ) 2018-11-29 18:46:12,292 DEBUG    starting - args: 4
-(Thread-1  ) 2018-11-29 18:46:14,296 DEBUG    Exiting
-(Thread-2  ) 2018-11-29 18:46:14,296 DEBUG    Exiting
-(Thread-3  ) 2018-11-29 18:46:14,296 DEBUG    Exiting
-(Thread-0  ) 2018-11-29 18:46:14,296 DEBUG    Exiting
-(Thread-0  ) 2018-11-29 18:46:28,381 DEBUG    starting - args: 1
-(Thread-1  ) 2018-11-29 18:46:28,381 DEBUG    starting - args: 2
-(Thread-2  ) 2018-11-29 18:46:28,382 DEBUG    starting - args: 3
-(Thread-3  ) 2018-11-29 18:46:28,384 DEBUG    starting - args: 4
-(Thread-0  ) 2018-11-29 18:46:30,384 DEBUG    Exiting
-(Thread-2  ) 2018-11-29 18:46:30,385 DEBUG    Exiting
-(Thread-1  ) 2018-11-29 18:46:30,385 DEBUG    Exiting
-(Thread-3  ) 2018-11-29 18:46:30,385 DEBUG    Exiting
-(Thread-0  ) 2018-11-29 18:46:43,352 DEBUG    starting - args: 1
-(Thread-1  ) 2018-11-29 18:46:43,354 DEBUG    starting - args: 2
-(Thread-2  ) 2018-11-29 18:46:43,354 DEBUG    starting - args: 3
-(Thread-3  ) 2018-11-29 18:46:43,355 DEBUG    starting - args: 4
-(Thread-2  ) 2018-11-29 18:46:45,358 DEBUG    Exiting
-(Thread-1  ) 2018-11-29 18:46:45,358 DEBUG    Exiting
-(Thread-0  ) 2018-11-29 18:46:45,358 DEBUG    Exiting
-(Thread-3  ) 2018-11-29 18:46:45,358 DEBUG    Exiting
-(Thread-0  ) 2018-11-29 18:47:59,885 DEBUG    starting - args: 1
-(Thread-1  ) 2018-11-29 18:47:59,887 DEBUG    starting - args: 2
-(Thread-2  ) 2018-11-29 18:47:59,888 DEBUG    starting - args: 3
-(Thread-3  ) 2018-11-29 18:47:59,888 DEBUG    starting - args: 4
-(Thread-0  ) 2018-11-29 18:48:01,891 DEBUG    Exiting
-(Thread-1  ) 2018-11-29 18:48:01,891 DEBUG    Exiting
-(Thread-3  ) 2018-11-29 18:48:01,891 DEBUG    Exiting
-(Thread-2  ) 2018-11-29 18:48:01,891 DEBUG    Exiting
-(Thread-0  ) 2018-11-29 18:48:40,122 DEBUG    starting - args: (1, 'a')
-(Thread-1  ) 2018-11-29 18:48:40,124 DEBUG    starting - args: (2, 'b')
-(Thread-2  ) 2018-11-29 18:48:40,125 DEBUG    starting - args: (3, 'c')
-(Thread-3  ) 2018-11-29 18:48:40,125 DEBUG    starting - args: (4, 'd')
-(Thread-1  ) 2018-11-29 18:48:42,132 DEBUG    Exiting
-(Thread-2  ) 2018-11-29 18:48:42,132 DEBUG    Exiting
-(Thread-0  ) 2018-11-29 18:48:42,132 DEBUG    Exiting
-(Thread-3  ) 2018-11-29 18:48:42,135 DEBUG    Exiting
-(Thread-0  ) 2018-11-29 18:49:06,476 DEBUG    starting - args: (1, 'a')
-(Thread-1  ) 2018-11-29 18:49:06,476 DEBUG    starting - args: (2, 'b')
-(Thread-2  ) 2018-11-29 18:49:06,477 DEBUG    starting - args: (3, 'c')
-(Thread-3  ) 2018-11-29 18:49:06,479 DEBUG    starting - args: (4, 'd')
-(Thread-0  ) 2018-11-29 18:49:08,482 DEBUG    Exiting
-(Thread-1  ) 2018-11-29 18:49:08,483 DEBUG    Exiting
-(Thread-2  ) 2018-11-29 18:49:08,483 DEBUG    Exiting
-(Thread-3  ) 2018-11-29 18:49:08,483 DEBUG    Exiting
-(Thread-0  ) 2018-11-29 18:51:52,698 DEBUG    starting - args: (1, 'a')
-(Thread-1  ) 2018-11-29 18:51:52,700 DEBUG    starting - args: (2, 'b')
-(Thread-2  ) 2018-11-29 18:51:52,700 DEBUG    starting - args: (3, 'c')
-(Thread-3  ) 2018-11-29 18:51:52,701 DEBUG    starting - args: (4, 'd')
-(Thread-0  ) 2018-11-29 18:51:54,706 DEBUG    Exiting
-(Thread-1  ) 2018-11-29 18:51:54,706 DEBUG    Exiting
-(Thread-3  ) 2018-11-29 18:51:54,707 DEBUG    Exiting
-(Thread-2  ) 2018-11-29 18:51:54,707 DEBUG    Exiting
-(Thread-0  ) 2018-11-29 18:52:26,562 DEBUG    starting - args: (1, 'a')
-(Thread-1  ) 2018-11-29 18:52:26,562 DEBUG    starting - args: (2, 'b')
-(Thread-2  ) 2018-11-29 18:52:26,563 DEBUG    starting - args: (3, 'c')
-(Thread-3  ) 2018-11-29 18:52:26,565 DEBUG    starting - args: (4, 'd')
-(Thread-1  ) 2018-11-29 18:52:28,565 DEBUG    Exiting
-(Thread-0  ) 2018-11-29 18:52:28,565 DEBUG    Exiting
-(Thread-2  ) 2018-11-29 18:52:28,568 DEBUG    Exiting
-(Thread-3  ) 2018-11-29 18:52:28,569 DEBUG    Exiting
-(Thread-0  ) 2018-11-29 18:53:31,890 DEBUG    starting - args: (1, 'a')
-(Thread-1  ) 2018-11-29 18:53:31,891 DEBUG    starting - args: (2, 'b')
-(Thread-2  ) 2018-11-29 18:53:31,891 DEBUG    starting - args: (3, 'c')
-(Thread-3  ) 2018-11-29 18:53:31,892 DEBUG    starting - args: (4, 'd')
-(Thread-1  ) 2018-11-29 18:53:33,926 DEBUG    Exiting
-(Thread-3  ) 2018-11-29 18:53:33,926 DEBUG    Exiting
-(Thread-0  ) 2018-11-29 18:53:33,926 DEBUG    Exiting
-(Thread-2  ) 2018-11-29 18:53:33,926 DEBUG    Exiting
-(Thread-0  ) 2018-11-29 18:55:06,963 DEBUG    starting - args: (1, 'a')
-(Thread-1  ) 2018-11-29 18:55:06,963 DEBUG    starting - args: (2, 'b')
-(Thread-2  ) 2018-11-29 18:55:06,964 DEBUG    starting - args: (3, 'c')
-(Thread-3  ) 2018-11-29 18:55:06,964 DEBUG    starting - args: (4, 'd')
-(Thread-0  ) 2018-11-29 18:55:08,973 DEBUG    Exiting
-(Thread-1  ) 2018-11-29 18:55:08,976 DEBUG    Exiting
-(Thread-2  ) 2018-11-29 18:55:08,976 DEBUG    Exiting
-(Thread-3  ) 2018-11-29 18:55:08,976 DEBUG    Exiting
-(Thread-0  ) 2018-11-29 18:55:43,354 DEBUG    starting - args: (1, 'a')
-(Thread-1  ) 2018-11-29 18:55:43,355 DEBUG    starting - args: (2, 'b')
-(Thread-2  ) 2018-11-29 18:55:43,355 DEBUG    starting - args: (3, 'c')
-(Thread-3  ) 2018-11-29 18:55:43,355 DEBUG    starting - args: (4, 'd')
-(Thread-1  ) 2018-11-29 18:55:45,358 DEBUG    Exiting
-(Thread-2  ) 2018-11-29 18:55:45,359 DEBUG    Exiting
-(Thread-0  ) 2018-11-29 18:55:45,359 DEBUG    Exiting
-(Thread-3  ) 2018-11-29 18:55:45,361 DEBUG    Exiting
-(Thread-0  ) 2018-11-29 18:55:56,127 DEBUG    starting - args: (1, 'a')
-(Thread-1  ) 2018-11-29 18:55:56,128 DEBUG    starting - args: (2, 'b')
-(Thread-2  ) 2018-11-29 18:55:56,128 DEBUG    starting - args: (3, 'c')
-(Thread-3  ) 2018-11-29 18:55:56,130 DEBUG    starting - args: (4, 'd')
-(Thread-1  ) 2018-11-29 18:55:58,132 DEBUG    Exiting
-(Thread-0  ) 2018-11-29 18:55:58,132 DEBUG    Exiting
-(Thread-2  ) 2018-11-29 18:55:58,134 DEBUG    Exiting
-(Thread-3  ) 2018-11-29 18:55:58,134 DEBUG    Exiting
-(Thread-0  ) 2018-11-29 18:56:10,130 DEBUG    starting - args: (1, 'a')
-(Thread-1  ) 2018-11-29 18:56:10,131 DEBUG    starting - args: (2, 'b')
-(Thread-2  ) 2018-11-29 18:56:10,131 DEBUG    starting - args: (3, 'c')
-(Thread-3  ) 2018-11-29 18:56:10,131 DEBUG    starting - args: (4, 'd')
-(Thread-1  ) 2018-11-29 18:56:12,135 DEBUG    Exiting
-(Thread-0  ) 2018-11-29 18:56:12,135 DEBUG    Exiting
-(Thread-2  ) 2018-11-29 18:56:12,137 DEBUG    Exiting
-(Thread-3  ) 2018-11-29 18:56:12,137 DEBUG    Exiting
-(Thread-0  ) 2018-11-29 18:56:14,075 DEBUG    starting - args: (1, 'a')
-(Thread-1  ) 2018-11-29 18:56:14,075 DEBUG    starting - args: (2, 'b')
-(Thread-2  ) 2018-11-29 18:56:14,078 DEBUG    starting - args: (3, 'c')
-(Thread-3  ) 2018-11-29 18:56:14,078 DEBUG    starting - args: (4, 'd')
-(Thread-0  ) 2018-11-29 18:56:15,953 DEBUG    starting - args: (1, 'a')
-(Thread-1  ) 2018-11-29 18:56:15,954 DEBUG    starting - args: (2, 'b')
-(Thread-2  ) 2018-11-29 18:56:15,956 DEBUG    starting - args: (3, 'c')
-(Thread-3  ) 2018-11-29 18:56:15,957 DEBUG    starting - args: (4, 'd')
-(Thread-1  ) 2018-11-29 18:56:17,960 DEBUG    Exiting
-(Thread-2  ) 2018-11-29 18:56:17,960 DEBUG    Exiting
-(Thread-0  ) 2018-11-29 18:56:17,961 DEBUG    Exiting
-(Thread-0  ) 2018-11-29 18:57:09,898 DEBUG    starting - args: (1, 'a')
-(Thread-1  ) 2018-11-29 18:57:09,898 DEBUG    starting - args: (2, 'b')
-(Thread-2  ) 2018-11-29 18:57:09,898 DEBUG    starting - args: (3, 'c')
-(Thread-3  ) 2018-11-29 18:57:09,900 DEBUG    starting - args: (4, 'd')
-(Thread-0  ) 2018-11-29 18:57:11,904 DEBUG    Exiting
-(Thread-1  ) 2018-11-29 18:57:11,904 DEBUG    Exiting
-(Thread-2  ) 2018-11-29 18:57:11,904 DEBUG    Exiting
-(Thread-3  ) 2018-11-29 18:57:11,905 DEBUG    Exiting
-(Thread-0  ) 2018-11-29 18:57:15,831 DEBUG    starting - args: (1, 'a')
-(Thread-1  ) 2018-11-29 18:57:15,832 DEBUG    starting - args: (2, 'b')
-(Thread-2  ) 2018-11-29 18:57:15,832 DEBUG    starting - args: (3, 'c')
-(Thread-3  ) 2018-11-29 18:57:15,832 DEBUG    starting - args: (4, 'd')
-(Thread-1  ) 2018-11-29 18:57:17,836 DEBUG    Exiting
-(Thread-3  ) 2018-11-29 18:57:17,838 DEBUG    Exiting
-(Thread-2  ) 2018-11-29 18:57:17,841 DEBUG    Exiting
-(Thread-0  ) 2018-11-29 18:57:17,841 DEBUG    Exiting
-(Thread-0  ) 2018-11-29 18:57:20,095 DEBUG    starting - args: (1, 'a')
-(Thread-1  ) 2018-11-29 18:57:20,095 DEBUG    starting - args: (2, 'b')
-(Thread-2  ) 2018-11-29 18:57:20,096 DEBUG    starting - args: (3, 'c')
-(Thread-3  ) 2018-11-29 18:57:20,098 DEBUG    starting - args: (4, 'd')
-(Thread-0  ) 2018-11-29 18:57:22,101 DEBUG    Exiting
-(Thread-1  ) 2018-11-29 18:57:22,101 DEBUG    Exiting
-(Thread-3  ) 2018-11-29 18:57:22,102 DEBUG    Exiting
-(Thread-2  ) 2018-11-29 18:57:22,104 DEBUG    Exiting
-(Thread-0  ) 2018-11-29 18:57:27,831 DEBUG    starting - args: (1, 'a')
-(Thread-1  ) 2018-11-29 18:57:27,831 DEBUG    starting - args: (2, 'b')
-(Thread-2  ) 2018-11-29 18:57:27,832 DEBUG    starting - args: (3, 'c')
-(Thread-3  ) 2018-11-29 18:57:27,832 DEBUG    starting - args: (4, 'd')
-(Thread-1  ) 2018-11-29 18:57:29,836 DEBUG    Exiting
-(Thread-3  ) 2018-11-29 18:57:29,836 DEBUG    Exiting
-(Thread-0  ) 2018-11-29 18:57:29,836 DEBUG    Exiting
-(Thread-2  ) 2018-11-29 18:57:29,836 DEBUG    Exiting
-(Thread-0  ) 2018-11-29 18:58:04,183 DEBUG    starting - args: (1, 'a')
-(Thread-1  ) 2018-11-29 18:58:04,184 DEBUG    starting - args: (2, 'b')
-(Thread-2  ) 2018-11-29 18:58:04,184 DEBUG    starting - args: (3, 'c')
-(Thread-3  ) 2018-11-29 18:58:04,184 DEBUG    starting - args: (4, 'd')
-(Thread-0  ) 2018-11-29 18:58:04,187 DEBUG    Exiting
-(Thread-1  ) 2018-11-29 18:58:04,187 DEBUG    Exiting
-(Thread-2  ) 2018-11-29 18:58:04,190 DEBUG    Exiting
-(Thread-3  ) 2018-11-29 18:58:04,190 DEBUG    Exiting
-(Thread-0  ) 2018-11-29 18:58:08,480 DEBUG    starting - args: (1, 'a')
-(Thread-1  ) 2018-11-29 18:58:08,482 DEBUG    starting - args: (2, 'b')
-(Thread-2  ) 2018-11-29 18:58:08,482 DEBUG    starting - args: (3, 'c')
-(Thread-3  ) 2018-11-29 18:58:08,483 DEBUG    starting - args: (4, 'd')
-(Thread-1  ) 2018-11-29 18:58:08,486 DEBUG    Exiting
-(Thread-2  ) 2018-11-29 18:58:08,486 DEBUG    Exiting
-(Thread-0  ) 2018-11-29 18:58:08,487 DEBUG    Exiting
-(Thread-0  ) 2018-11-29 18:58:14,380 DEBUG    starting - args: (1, 'a')
-(Thread-1  ) 2018-11-29 18:58:14,381 DEBUG    starting - args: (2, 'b')
-(Thread-2  ) 2018-11-29 18:58:14,381 DEBUG    starting - args: (3, 'c')
-(Thread-3  ) 2018-11-29 18:58:14,382 DEBUG    starting - args: (4, 'd')
-(Thread-0  ) 2018-11-29 18:58:14,387 DEBUG    Exiting
-(Thread-1  ) 2018-11-29 18:58:14,387 DEBUG    Exiting
-(Thread-2  ) 2018-11-29 18:58:14,387 DEBUG    Exiting
-(Thread-3  ) 2018-11-29 18:58:14,388 DEBUG    Exiting
-(Thread-0  ) 2018-11-29 18:58:23,648 DEBUG    starting - args: (1, 'a')
-(Thread-1  ) 2018-11-29 18:58:23,648 DEBUG    starting - args: (2, 'b')
-(Thread-2  ) 2018-11-29 18:58:23,648 DEBUG    starting - args: (3, 'c')
-(Thread-3  ) 2018-11-29 18:58:23,650 DEBUG    starting - args: (4, 'd')
-(Thread-1  ) 2018-11-29 18:58:23,653 DEBUG    Exiting
-(Thread-0  ) 2018-11-29 18:58:23,654 DEBUG    Exiting
-(Thread-3  ) 2018-11-29 18:58:23,654 DEBUG    Exiting
-(Thread-2  ) 2018-11-29 18:58:23,654 DEBUG    Exiting
-(Thread-0  ) 2018-11-29 18:59:20,441 DEBUG    starting - args: (1, 'a')
-(Thread-1  ) 2018-11-29 18:59:20,441 DEBUG    starting - args: (2, 'b')
-(Thread-2  ) 2018-11-29 18:59:20,444 DEBUG    starting - args: (3, 'c')
-(Thread-3  ) 2018-11-29 18:59:20,444 DEBUG    starting - args: (4, 'd')
-(Thread-1  ) 2018-11-29 18:59:20,447 DEBUG    Exiting
-(Thread-0  ) 2018-11-29 18:59:20,447 DEBUG    Exiting
-(Thread-3  ) 2018-11-29 18:59:20,448 DEBUG    Exiting
-(Thread-0  ) 2018-11-29 18:59:29,469 DEBUG    starting - args: (1, 'a')
-(Thread-1  ) 2018-11-29 18:59:29,469 DEBUG    starting - args: (2, 'b')
-(Thread-2  ) 2018-11-29 18:59:29,470 DEBUG    starting - args: (3, 'c')
-(Thread-3  ) 2018-11-29 18:59:29,470 DEBUG    starting - args: (4, 'd')
-(Thread-1  ) 2018-11-29 18:59:29,473 DEBUG    Exiting
-(Thread-0  ) 2018-11-29 18:59:29,473 DEBUG    Exiting
-(Thread-3  ) 2018-11-29 18:59:29,474 DEBUG    Exiting
-(Thread-2  ) 2018-11-29 18:59:29,474 DEBUG    Exiting
-(Thread-0  ) 2018-11-29 18:59:47,713 DEBUG    starting - args: (1, 'a')
-(Thread-1  ) 2018-11-29 18:59:47,713 DEBUG    starting - args: (2, 'b')
-(Thread-2  ) 2018-11-29 18:59:47,714 DEBUG    starting - args: (3, 'c')
-(Thread-3  ) 2018-11-29 18:59:47,714 DEBUG    starting - args: (4, 'd')
-(Thread-2  ) 2018-11-29 18:59:47,720 DEBUG    Exiting
-(Thread-0  ) 2018-11-29 18:59:47,721 DEBUG    Exiting
-(Thread-1  ) 2018-11-29 18:59:47,721 DEBUG    Exiting
-(Thread-3  ) 2018-11-29 18:59:47,723 DEBUG    Exiting
-(Thread-0  ) 2018-11-29 19:00:21,095 DEBUG    starting - args: (1, 'a')
-(Thread-1  ) 2018-11-29 19:00:21,095 DEBUG    starting - args: (2, 'b')
-(Thread-2  ) 2018-11-29 19:00:21,096 DEBUG    starting - args: (3, 'c')
-(Thread-3  ) 2018-11-29 19:00:21,098 DEBUG    starting - args: (4, 'd')
-(Thread-3  ) 2018-11-29 19:00:23,101 DEBUG    Exiting
-(Thread-2  ) 2018-11-29 19:00:23,101 DEBUG    Exiting
-(Thread-0  ) 2018-11-29 19:00:23,102 DEBUG    Exiting
-(Thread-1  ) 2018-11-29 19:00:23,102 DEBUG    Exiting
-(Thread-0  ) 2018-11-29 19:00:29,697 DEBUG    starting - args: (1, 'a')
-(Thread-1  ) 2018-11-29 19:00:29,697 DEBUG    starting - args: (2, 'b')
-(Thread-2  ) 2018-11-29 19:00:29,698 DEBUG    starting - args: (3, 'c')
-(Thread-3  ) 2018-11-29 19:00:29,700 DEBUG    starting - args: (4, 'd')
-(Thread-0  ) 2018-11-29 19:00:31,703 DEBUG    Exiting
-(Thread-1  ) 2018-11-29 19:00:31,703 DEBUG    Exiting
-(Thread-3  ) 2018-11-29 19:00:31,703 DEBUG    Exiting
-(Thread-2  ) 2018-11-29 19:00:31,703 DEBUG    Exiting
-(Thread-0  ) 2018-11-29 19:00:47,700 DEBUG    starting - args: (1, 'a')
-(Thread-1  ) 2018-11-29 19:00:47,700 DEBUG    starting - args: (2, 'b')
-(Thread-2  ) 2018-11-29 19:00:47,701 DEBUG    starting - args: (3, 'c')
-(Thread-3  ) 2018-11-29 19:00:47,703 DEBUG    starting - args: (4, 'd')
-(Thread-1  ) 2018-11-29 19:00:49,707 DEBUG    Exiting
-(Thread-0  ) 2018-11-29 19:00:49,710 DEBUG    Exiting
-(Thread-2  ) 2018-11-29 19:00:49,710 DEBUG    Exiting
-(Thread-0  ) 2018-11-29 19:01:02,233 DEBUG    starting - args: (1, 'a')
-(Thread-1  ) 2018-11-29 19:01:02,233 DEBUG    starting - args: (2, 'b')
-(Thread-2  ) 2018-11-29 19:01:02,234 DEBUG    starting - args: (3, 'c')
-(Thread-3  ) 2018-11-29 19:01:02,236 DEBUG    starting - args: (4, 'd')
-(Thread-1  ) 2018-11-29 19:01:04,239 DEBUG    Exiting
-(Thread-0  ) 2018-11-29 19:01:04,239 DEBUG    Exiting
-(Thread-3  ) 2018-11-29 19:01:04,240 DEBUG    Exiting
-(Thread-2  ) 2018-11-29 19:01:04,240 DEBUG    Exiting
-(Thread-0  ) 2018-11-29 19:01:27,578 DEBUG    starting - args: (1, 'a')
-(Thread-1  ) 2018-11-29 19:01:27,578 DEBUG    starting - args: (2, 'b')
-(Thread-2  ) 2018-11-29 19:01:27,578 DEBUG    starting - args: (3, 'c')
-(Thread-3  ) 2018-11-29 19:01:27,579 DEBUG    starting - args: (4, 'd')
-(Thread-1  ) 2018-11-29 19:01:29,584 DEBUG    Exiting
-(Thread-0  ) 2018-11-29 19:01:29,584 DEBUG    Exiting
-(Thread-3  ) 2018-11-29 19:01:29,584 DEBUG    Exiting
-(Thread-0  ) 2018-11-29 19:05:16,690 DEBUG    starting - args: (1, 'a')
-(Thread-1  ) 2018-11-29 19:05:16,690 DEBUG    starting - args: (2, 'b')
-(Thread-2  ) 2018-11-29 19:05:16,691 DEBUG    starting - args: (3, 'c')
-(Thread-3  ) 2018-11-29 19:05:16,691 DEBUG    starting - args: (4, 'd')
-(Thread-0  ) 2018-11-29 19:05:18,694 DEBUG    Exiting
-(Thread-2  ) 2018-11-29 19:05:18,696 DEBUG    Exiting
-(Thread-1  ) 2018-11-29 19:05:18,696 DEBUG    Exiting
-(Thread-0  ) 2018-11-29 19:06:12,769 DEBUG    starting - args: (1, 'a')
-(Thread-1  ) 2018-11-29 19:06:12,769 DEBUG    starting - args: (2, 'b')
-(Thread-2  ) 2018-11-29 19:06:12,770 DEBUG    starting - args: (3, 'c')
-(Thread-3  ) 2018-11-29 19:06:12,770 DEBUG    starting - args: (4, 'd')
-(Thread-1  ) 2018-11-29 19:06:14,783 DEBUG    Exiting
-(Thread-2  ) 2018-11-29 19:06:14,785 DEBUG    Exiting
-(Thread-3  ) 2018-11-29 19:06:14,786 DEBUG    Exiting
-(Thread-0  ) 2018-11-29 19:06:14,786 DEBUG    Exiting
-(Thread-0  ) 2018-11-29 19:06:34,132 DEBUG    starting - args: (1, 'a')
-(Thread-1  ) 2018-11-29 19:06:34,134 DEBUG    starting - args: (2, 'b')
-(Thread-2  ) 2018-11-29 19:06:34,134 DEBUG    starting - args: (3, 'c')
-(Thread-3  ) 2018-11-29 19:06:34,135 DEBUG    starting - args: (4, 'd')
-(Thread-1  ) 2018-11-29 19:06:36,138 DEBUG    Exiting
-(Thread-2  ) 2018-11-29 19:06:36,138 DEBUG    Exiting
-(Thread-0  ) 2018-11-29 19:06:36,138 DEBUG    Exiting
-(Thread-3  ) 2018-11-29 19:06:36,138 DEBUG    Exiting
-(Thread-0  ) 2018-11-29 19:08:03,043 DEBUG    starting - args: (1, 'a')
-(Thread-1  ) 2018-11-29 19:08:03,045 DEBUG    starting - args: (2, 'b')
-(Thread-2  ) 2018-11-29 19:08:03,046 DEBUG    starting - args: (3, 'c')
-(Thread-3  ) 2018-11-29 19:08:03,046 DEBUG    starting - args: (4, 'd')
-(Thread-3  ) 2018-11-29 19:08:05,049 DEBUG    Exiting
-(Thread-2  ) 2018-11-29 19:08:05,052 DEBUG    Exiting
-(Thread-0  ) 2018-11-29 19:08:05,052 DEBUG    Exiting
-(Thread-1  ) 2018-11-29 19:08:05,052 DEBUG    Exiting
-(Thread-0  ) 2018-11-29 19:08:16,628 DEBUG    starting - args: (1, 'a')
-(Thread-1  ) 2018-11-29 19:08:16,628 DEBUG    starting - args: (2, 'b')
-(Thread-2  ) 2018-11-29 19:08:16,630 DEBUG    starting - args: (3, 'c')
-(Thread-3  ) 2018-11-29 19:08:16,631 DEBUG    starting - args: (4, 'd')
-(Thread-0  ) 2018-11-29 19:08:18,634 DEBUG    Exiting
-(Thread-1  ) 2018-11-29 19:08:18,634 DEBUG    Exiting
-(Thread-3  ) 2018-11-29 19:08:18,634 DEBUG    Exiting
-(Thread-0  ) 2018-11-29 19:09:50,596 DEBUG    starting - args: (1, 'a')
-(Thread-1  ) 2018-11-29 19:09:50,598 DEBUG    starting - args: (2, 'b')
-(Thread-2  ) 2018-11-29 19:09:50,598 DEBUG    starting - args: (3, 'c')
-(Thread-3  ) 2018-11-29 19:09:50,598 DEBUG    starting - args: (4, 'd')
-(Thread-3  ) 2018-11-29 19:09:52,602 DEBUG    Exiting
-(Thread-0  ) 2018-11-29 19:09:52,604 DEBUG    Exiting
-(Thread-2  ) 2018-11-29 19:09:52,604 DEBUG    Exiting
-(Thread-1  ) 2018-11-29 19:09:52,604 DEBUG    Exiting
-(Thread-0  ) 2018-11-29 19:11:35,602 DEBUG    starting - args: (1, 'a')
-(Thread-1  ) 2018-11-29 19:11:35,654 DEBUG    starting - args: (2, 'b')
-(Thread-2  ) 2018-11-29 19:11:35,703 DEBUG    starting - args: (3, 'c')
-(Thread-3  ) 2018-11-29 19:11:35,755 DEBUG    starting - args: (4, 'd')
-(Thread-0  ) 2018-11-29 19:11:37,609 DEBUG    Exiting
-(Thread-1  ) 2018-11-29 19:11:37,655 DEBUG    Exiting
-(Thread-2  ) 2018-11-29 19:11:37,704 DEBUG    Exiting
-(Thread-3  ) 2018-11-29 19:11:37,756 DEBUG    Exiting
-(Thread-0  ) 2018-11-29 19:11:45,098 DEBUG    starting - args: (1, 'a')
-(Thread-1  ) 2018-11-29 19:11:45,148 DEBUG    starting - args: (2, 'b')
-(Thread-2  ) 2018-11-29 19:11:45,198 DEBUG    starting - args: (3, 'c')
-(Thread-3  ) 2018-11-29 19:11:45,250 DEBUG    starting - args: (4, 'd')
-(Thread-0  ) 2018-11-29 19:11:47,098 DEBUG    Exiting
-(Thread-1  ) 2018-11-29 19:11:47,154 DEBUG    Exiting
-(Thread-2  ) 2018-11-29 19:11:47,207 DEBUG    Exiting
-(Thread-3  ) 2018-11-29 19:11:47,255 DEBUG    Exiting
-(Thread-0  ) 2018-11-29 19:12:22,339 DEBUG    starting - args: (1, 'a')
-(Thread-1  ) 2018-11-29 19:12:22,341 DEBUG    starting - args: (2, 'b')
-(Thread-2  ) 2018-11-29 19:12:22,341 DEBUG    starting - args: (3, 'c')
-(Thread-3  ) 2018-11-29 19:12:22,342 DEBUG    starting - args: (4, 'd')
-(Thread-2  ) 2018-11-29 19:12:24,345 DEBUG    Exiting
-(Thread-1  ) 2018-11-29 19:12:24,345 DEBUG    Exiting
-(Thread-3  ) 2018-11-29 19:12:24,345 DEBUG    Exiting
-(Thread-0  ) 2018-11-29 19:12:24,345 DEBUG    Exiting
-(Thread-0  ) 2018-11-29 19:12:33,164 DEBUG    starting - args: (1, 'a')
-(Thread-1  ) 2018-11-29 19:12:33,164 DEBUG    starting - args: (2, 'b')
-(Thread-2  ) 2018-11-29 19:12:33,164 DEBUG    starting - args: (3, 'c')
-(Thread-3  ) 2018-11-29 19:12:33,165 DEBUG    starting - args: (4, 'd')
-(Thread-0  ) 2018-11-29 19:12:35,170 DEBUG    Exiting
-(Thread-1  ) 2018-11-29 19:12:35,170 DEBUG    Exiting
-(Thread-2  ) 2018-11-29 19:12:35,171 DEBUG    Exiting
-(Thread-0  ) 2018-11-29 19:12:49,384 DEBUG    starting - args: (1, 'a')
-(Thread-1  ) 2018-11-29 19:12:49,384 DEBUG    starting - args: (2, 'b')
-(Thread-2  ) 2018-11-29 19:12:49,384 DEBUG    starting - args: (3, 'c')
-(Thread-3  ) 2018-11-29 19:12:49,385 DEBUG    starting - args: (4, 'd')
-(Thread-1  ) 2018-11-29 19:12:51,390 DEBUG    Exiting
-(Thread-2  ) 2018-11-29 19:12:51,390 DEBUG    Exiting
-(Thread-0  ) 2018-11-29 19:12:51,390 DEBUG    Exiting
-(Thread-0  ) 2018-11-29 19:13:02,480 DEBUG    starting - args: (1, 'a')
-(Thread-1  ) 2018-11-29 19:13:02,532 DEBUG    starting - args: (2, 'b')
-(Thread-2  ) 2018-11-29 19:13:02,582 DEBUG    starting - args: (3, 'c')
-(Thread-3  ) 2018-11-29 19:13:02,632 DEBUG    starting - args: (4, 'd')
-(Thread-0  ) 2018-11-29 19:13:04,483 DEBUG    Exiting
-(Thread-1  ) 2018-11-29 19:13:04,542 DEBUG    Exiting
-(Thread-2  ) 2018-11-29 19:13:04,585 DEBUG    Exiting
-(Thread-3  ) 2018-11-29 19:13:04,635 DEBUG    Exiting
-(Thread-0  ) 2018-11-29 19:13:30,631 DEBUG    starting - args: (1, 'a')
-(Thread-1  ) 2018-11-29 19:13:30,681 DEBUG    starting - args: (2, 'b')
-(Thread-2  ) 2018-11-29 19:13:30,733 DEBUG    starting - args: (3, 'c')
-(Thread-3  ) 2018-11-29 19:13:30,782 DEBUG    starting - args: (4, 'd')
-(Thread-0  ) 2018-11-29 19:13:32,632 DEBUG    Exiting
-(Thread-1  ) 2018-11-29 19:13:32,683 DEBUG    Exiting
-(Thread-2  ) 2018-11-29 19:13:32,733 DEBUG    Exiting
-(Thread-3  ) 2018-11-29 19:13:32,783 DEBUG    Exiting
-(Thread-0  ) 2018-11-29 19:13:40,625 DEBUG    starting - args: 1
-(Thread-1  ) 2018-11-29 19:13:40,625 DEBUG    starting - args: 2
-(Thread-2  ) 2018-11-29 19:13:40,627 DEBUG    starting - args: 3
-(Thread-3  ) 2018-11-29 19:13:40,628 DEBUG    starting - args: 4
-(Thread-2  ) 2018-11-29 19:13:42,630 DEBUG    Exiting
-(Thread-1  ) 2018-11-29 19:13:42,630 DEBUG    Exiting
-(Thread-3  ) 2018-11-29 19:13:42,630 DEBUG    Exiting
-(Thread-0  ) 2018-11-29 19:13:42,630 DEBUG    Exiting
-(Thread-0  ) 2018-11-29 19:19:58,142 DEBUG    starting - args: (1, 'a')
-(Thread-1  ) 2018-11-29 19:19:58,193 DEBUG    starting - args: (2, 'b')
-(Thread-2  ) 2018-11-29 19:19:58,243 DEBUG    starting - args: (3, 'c')
-(Thread-3  ) 2018-11-29 19:19:58,295 DEBUG    starting - args: (4, 'd')
-(Thread-0  ) 2018-11-29 19:20:00,160 DEBUG    Exiting
-(Thread-1  ) 2018-11-29 19:20:00,206 DEBUG    Exiting
-(Thread-2  ) 2018-11-29 19:20:00,246 DEBUG    Exiting
-(Thread-3  ) 2018-11-29 19:20:00,296 DEBUG    Exiting
-(Thread-0  ) 2018-11-29 19:20:04,881 DEBUG    starting - args: 1
-(Thread-1  ) 2018-11-29 19:20:04,882 DEBUG    starting - args: 2
-(Thread-2  ) 2018-11-29 19:20:04,884 DEBUG    starting - args: 3
-(Thread-3  ) 2018-11-29 19:20:04,884 DEBUG    starting - args: 4
-(Thread-2  ) 2018-11-29 19:20:06,887 DEBUG    Exiting
-(Thread-0  ) 2018-11-29 19:20:06,887 DEBUG    Exiting
-(Thread-1  ) 2018-11-29 19:20:06,887 DEBUG    Exiting
-(Thread-3  ) 2018-11-29 19:20:06,887 DEBUG    Exiting
-(Thread-0  ) 2018-11-29 19:21:00,282 DEBUG    starting - args: (1, 'a')
-(Thread-1  ) 2018-11-29 19:21:00,332 DEBUG    starting - args: (2, 'b')
-(Thread-2  ) 2018-11-29 19:21:00,382 DEBUG    starting - args: (3, 'c')
-(Thread-3  ) 2018-11-29 19:21:00,434 DEBUG    starting - args: (4, 'd')
-(Thread-0  ) 2018-11-29 19:21:01,486 DEBUG    starting - args: 1
-(Thread-1  ) 2018-11-29 19:21:01,486 DEBUG    starting - args: 2
-(Thread-2  ) 2018-11-29 19:21:01,486 DEBUG    starting - args: 3
-(Thread-3  ) 2018-11-29 19:21:01,487 DEBUG    starting - args: 4
-(Thread-0  ) 2018-11-29 19:21:02,285 DEBUG    Exiting
-(Thread-1  ) 2018-11-29 19:21:02,335 DEBUG    Exiting
-(Thread-2  ) 2018-11-29 19:21:02,385 DEBUG    Exiting
-(Thread-3  ) 2018-11-29 19:21:02,437 DEBUG    Exiting
-(Thread-0  ) 2018-11-29 19:21:03,490 DEBUG    Exiting
-(Thread-2  ) 2018-11-29 19:21:03,490 DEBUG    Exiting
-(Thread-1  ) 2018-11-29 19:21:03,490 DEBUG    Exiting
-(Thread-3  ) 2018-11-29 19:21:03,490 DEBUG    Exiting
-(Thread-0  ) 2018-11-29 19:21:17,759 DEBUG    starting - args: (1, 'a')
-(Thread-1  ) 2018-11-29 19:21:17,811 DEBUG    starting - args: (2, 'b')
-(Thread-2  ) 2018-11-29 19:21:17,861 DEBUG    starting - args: (3, 'c')
-(Thread-3  ) 2018-11-29 19:21:17,913 DEBUG    starting - args: (4, 'd')
-(Thread-0  ) 2018-11-29 19:21:18,216 DEBUG    starting - args: 1
-(Thread-1  ) 2018-11-29 19:21:18,217 DEBUG    starting - args: 2
-(Thread-2  ) 2018-11-29 19:21:18,219 DEBUG    starting - args: 3
-(Thread-3  ) 2018-11-29 19:21:18,220 DEBUG    starting - args: 4
-(Thread-0  ) 2018-11-29 19:21:19,763 DEBUG    Exiting
-(Thread-1  ) 2018-11-29 19:21:19,813 DEBUG    Exiting
-(Thread-2  ) 2018-11-29 19:21:19,865 DEBUG    Exiting
-(Thread-3  ) 2018-11-29 19:21:19,917 DEBUG    Exiting
-(Thread-0  ) 2018-11-29 19:21:20,223 DEBUG    Exiting
-(Thread-2  ) 2018-11-29 19:21:20,223 DEBUG    Exiting
-(Thread-1  ) 2018-11-29 19:21:20,223 DEBUG    Exiting
-(Thread-3  ) 2018-11-29 19:21:20,223 DEBUG    Exiting
+(Thread-10 ) 2018-12-01 21:27:33,733 DEBUG    starting
+(Thread-11 ) 2018-12-01 21:27:33,733 DEBUG    starting
+(Thread-10 ) 2018-12-01 21:27:33,733 DEBUG    lock acquire
+(Thread-10 ) 2018-12-01 21:27:33,734 DEBUG    lock relese
+(Thread-10 ) 2018-12-01 21:27:33,734 DEBUG    answer - Value was added
+(Thread-11 ) 2018-12-01 21:27:33,736 DEBUG    lock acquire
+(Thread-11 ) 2018-12-01 21:27:33,736 DEBUG    lock relese
+(Thread-11 ) 2018-12-01 21:27:33,736 DEBUG    answer - Value was added
+(Thread-10 ) 2018-12-01 21:27:35,736 DEBUG    Exiting
+(Thread-11 ) 2018-12-01 21:27:35,739 DEBUG    Exiting
+(Thread-0  ) 2018-12-01 21:27:43,734 DEBUG    starting
+(Thread-1  ) 2018-12-01 21:27:43,736 DEBUG    starting
+(Thread-2  ) 2018-12-01 21:27:43,737 DEBUG    starting
+(Thread-1  ) 2018-12-01 21:27:43,737 DEBUG    semphore acquire
+(Thread-3  ) 2018-12-01 21:27:43,739 DEBUG    starting
+(Thread-4  ) 2018-12-01 21:27:43,740 DEBUG    starting
+(Thread-5  ) 2018-12-01 21:27:43,740 DEBUG    starting
+(Thread-1  ) 2018-12-01 21:27:43,742 DEBUG    semphore release
+(Thread-6  ) 2018-12-01 21:27:43,742 DEBUG    starting
+(Thread-1  ) 2018-12-01 21:27:43,743 DEBUG    answer - the value is - a
+(Thread-7  ) 2018-12-01 21:27:43,743 DEBUG    starting
+(Thread-6  ) 2018-12-01 21:27:43,743 DEBUG    semphore acquire
+(Thread-8  ) 2018-12-01 21:27:43,744 DEBUG    starting
+(Thread-9  ) 2018-12-01 21:27:43,746 DEBUG    starting
+(Thread-10 ) 2018-12-01 21:27:43,746 DEBUG    starting
+(Thread-11 ) 2018-12-01 21:27:43,747 DEBUG    starting
+(Thread-6  ) 2018-12-01 21:27:43,747 DEBUG    semphore release
+(Thread-12 ) 2018-12-01 21:27:43,749 DEBUG    starting
+(Thread-6  ) 2018-12-01 21:27:43,749 DEBUG    answer - the value is - b
+(Thread-2  ) 2018-12-01 21:27:43,749 DEBUG    semphore acquire
+(Thread-13 ) 2018-12-01 21:27:43,750 DEBUG    starting
+(Thread-14 ) 2018-12-01 21:27:43,750 DEBUG    starting
+(Thread-15 ) 2018-12-01 21:27:43,752 DEBUG    starting
+(Thread-2  ) 2018-12-01 21:27:43,753 DEBUG    semphore release
+(Thread-16 ) 2018-12-01 21:27:43,753 DEBUG    starting
+(Thread-3  ) 2018-12-01 21:27:43,753 DEBUG    semphore acquire
+(Thread-2  ) 2018-12-01 21:27:43,753 DEBUG    answer - the value is - b
+(Thread-17 ) 2018-12-01 21:27:43,755 DEBUG    starting
+(Thread-18 ) 2018-12-01 21:27:43,756 DEBUG    starting
+(Thread-19 ) 2018-12-01 21:27:43,756 DEBUG    starting
+(Thread-20 ) 2018-12-01 21:27:43,757 DEBUG    starting
+(Thread-3  ) 2018-12-01 21:27:43,757 DEBUG    semphore release
+(Thread-21 ) 2018-12-01 21:27:43,759 DEBUG    starting
+(Thread-3  ) 2018-12-01 21:27:43,759 DEBUG    answer - invalid key
+(Thread-4  ) 2018-12-01 21:27:43,759 DEBUG    semphore acquire
+(Thread-22 ) 2018-12-01 21:27:43,759 DEBUG    starting
+(Thread-23 ) 2018-12-01 21:27:43,760 DEBUG    starting
+(Thread-24 ) 2018-12-01 21:27:43,762 DEBUG    starting
+(Thread-25 ) 2018-12-01 21:27:43,763 DEBUG    starting
+(Thread-4  ) 2018-12-01 21:27:43,763 DEBUG    semphore release
+(Thread-26 ) 2018-12-01 21:27:43,763 DEBUG    starting
+(Thread-4  ) 2018-12-01 21:27:43,763 DEBUG    answer - invalid key
+(Thread-5  ) 2018-12-01 21:27:43,765 DEBUG    semphore acquire
+(Thread-27 ) 2018-12-01 21:27:43,765 DEBUG    starting
+(Thread-28 ) 2018-12-01 21:27:43,766 DEBUG    starting
+(Thread-29 ) 2018-12-01 21:27:43,766 DEBUG    starting
+(Thread-30 ) 2018-12-01 21:27:43,767 DEBUG    starting
+(Thread-5  ) 2018-12-01 21:27:43,767 DEBUG    semphore release
+(Thread-5  ) 2018-12-01 21:27:43,769 DEBUG    answer - the value is - a
+(Thread-0  ) 2018-12-01 21:27:43,769 DEBUG    lock acquire
+(Thread-0  ) 2018-12-01 21:27:43,772 DEBUG    lock relese
+(Thread-0  ) 2018-12-01 21:27:43,772 DEBUG    answer - Value was added
+(Thread-9  ) 2018-12-01 21:27:43,773 DEBUG    semphore acquire
+(Thread-7  ) 2018-12-01 21:27:43,773 DEBUG    semphore acquire
+(Thread-12 ) 2018-12-01 21:27:43,773 DEBUG    semphore acquire
+(Thread-8  ) 2018-12-01 21:27:43,773 DEBUG    semphore acquire
+(Thread-13 ) 2018-12-01 21:27:43,773 DEBUG    semphore acquire
+(Thread-14 ) 2018-12-01 21:27:43,775 DEBUG    semphore acquire
+(Thread-15 ) 2018-12-01 21:27:43,775 DEBUG    semphore acquire
+(Thread-16 ) 2018-12-01 21:27:43,775 DEBUG    semphore acquire
+(Thread-17 ) 2018-12-01 21:27:43,776 DEBUG    semphore acquire
+(Thread-18 ) 2018-12-01 21:27:43,776 DEBUG    semphore acquire
+(Thread-9  ) 2018-12-01 21:27:43,779 DEBUG    semphore release
+(Thread-7  ) 2018-12-01 21:27:43,779 DEBUG    semphore release
+(Thread-8  ) 2018-12-01 21:27:43,780 DEBUG    semphore release
+(Thread-12 ) 2018-12-01 21:27:43,780 DEBUG    semphore release
+(Thread-13 ) 2018-12-01 21:27:43,782 DEBUG    semphore release
+(Thread-9  ) 2018-12-01 21:27:43,782 DEBUG    answer - the value is - e
+(Thread-19 ) 2018-12-01 21:27:43,782 DEBUG    semphore acquire
+(Thread-7  ) 2018-12-01 21:27:43,782 DEBUG    answer - invalid key
+(Thread-20 ) 2018-12-01 21:27:43,783 DEBUG    semphore acquire
+(Thread-14 ) 2018-12-01 21:27:43,782 DEBUG    semphore release
+(Thread-8  ) 2018-12-01 21:27:43,783 DEBUG    answer - invalid key
+(Thread-22 ) 2018-12-01 21:27:43,785 DEBUG    semphore acquire
+(Thread-15 ) 2018-12-01 21:27:43,785 DEBUG    semphore release
+(Thread-23 ) 2018-12-01 21:27:43,785 DEBUG    semphore acquire
+(Thread-12 ) 2018-12-01 21:27:43,785 DEBUG    answer - the value is - a
+(Thread-13 ) 2018-12-01 21:27:43,786 DEBUG    answer - the value is - b
+(Thread-16 ) 2018-12-01 21:27:43,786 DEBUG    semphore release
+(Thread-24 ) 2018-12-01 21:27:43,786 DEBUG    semphore acquire
+(Thread-18 ) 2018-12-01 21:27:43,786 DEBUG    semphore release
+(Thread-17 ) 2018-12-01 21:27:43,786 DEBUG    semphore release
+(Thread-14 ) 2018-12-01 21:27:43,788 DEBUG    answer - invalid key
+(Thread-25 ) 2018-12-01 21:27:43,788 DEBUG    semphore acquire
+(Thread-15 ) 2018-12-01 21:27:43,789 DEBUG    answer - invalid key
+(Thread-26 ) 2018-12-01 21:27:43,789 DEBUG    semphore acquire
+(Thread-19 ) 2018-12-01 21:27:43,790 DEBUG    semphore release
+(Thread-20 ) 2018-12-01 21:27:43,790 DEBUG    semphore release
+(Thread-16 ) 2018-12-01 21:27:43,792 DEBUG    answer - the value is - e
+(Thread-27 ) 2018-12-01 21:27:43,792 DEBUG    semphore acquire
+(Thread-18 ) 2018-12-01 21:27:43,792 DEBUG    answer - invalid key
+(Thread-22 ) 2018-12-01 21:27:43,792 DEBUG    semphore release
+(Thread-28 ) 2018-12-01 21:27:43,792 DEBUG    semphore acquire
+(Thread-17 ) 2018-12-01 21:27:43,793 DEBUG    answer - invalid key
+(Thread-29 ) 2018-12-01 21:27:43,793 DEBUG    semphore acquire
+(Thread-23 ) 2018-12-01 21:27:43,795 DEBUG    semphore release
+(Thread-19 ) 2018-12-01 21:27:43,796 DEBUG    answer - invalid key
+(Thread-20 ) 2018-12-01 21:27:43,796 DEBUG    answer - invalid key
+(Thread-24 ) 2018-12-01 21:27:43,796 DEBUG    semphore release
+(Thread-30 ) 2018-12-01 21:27:43,796 DEBUG    semphore acquire
+(Thread-22 ) 2018-12-01 21:27:43,798 DEBUG    answer - the value is - a
+(Thread-25 ) 2018-12-01 21:27:43,798 DEBUG    semphore release
+(Thread-26 ) 2018-12-01 21:27:43,799 DEBUG    semphore release
+(Thread-23 ) 2018-12-01 21:27:43,799 DEBUG    answer - the value is - b
+(Thread-27 ) 2018-12-01 21:27:43,799 DEBUG    semphore release
+(Thread-24 ) 2018-12-01 21:27:43,801 DEBUG    answer - invalid key
+(Thread-28 ) 2018-12-01 21:27:43,802 DEBUG    semphore release
+(Thread-25 ) 2018-12-01 21:27:43,802 DEBUG    answer - invalid key
+(Thread-26 ) 2018-12-01 21:27:43,802 DEBUG    answer - the value is - e
+(Thread-29 ) 2018-12-01 21:27:43,803 DEBUG    semphore release
+(Thread-27 ) 2018-12-01 21:27:43,803 DEBUG    answer - invalid key
+(Thread-28 ) 2018-12-01 21:27:43,805 DEBUG    answer - invalid key
+(Thread-30 ) 2018-12-01 21:27:43,805 DEBUG    semphore release
+(Thread-29 ) 2018-12-01 21:27:43,805 DEBUG    answer - invalid key
+(Thread-10 ) 2018-12-01 21:27:43,805 DEBUG    lock acquire
+(Thread-30 ) 2018-12-01 21:27:43,805 DEBUG    answer - the value is - a
+(Thread-10 ) 2018-12-01 21:27:43,809 DEBUG    lock relese
+(Thread-10 ) 2018-12-01 21:27:43,809 DEBUG    answer - Value was added
+(Thread-11 ) 2018-12-01 21:27:43,809 DEBUG    lock acquire
+(Thread-11 ) 2018-12-01 21:27:43,812 DEBUG    lock relese
+(Thread-11 ) 2018-12-01 21:27:43,812 DEBUG    answer - Value was added
+(Thread-21 ) 2018-12-01 21:27:43,812 DEBUG    lock acquire
+(Thread-21 ) 2018-12-01 21:27:43,815 DEBUG    lock relese
+(Thread-21 ) 2018-12-01 21:27:43,815 DEBUG    answer - Value was added
+(Thread-1  ) 2018-12-01 21:27:45,744 DEBUG    Exiting
+(Thread-6  ) 2018-12-01 21:27:45,750 DEBUG    Exiting
+(Thread-2  ) 2018-12-01 21:27:45,756 DEBUG    Exiting
+(Thread-3  ) 2018-12-01 21:27:45,760 DEBUG    Exiting
+(Thread-4  ) 2018-12-01 21:27:45,766 DEBUG    Exiting
+(Thread-5  ) 2018-12-01 21:27:45,769 DEBUG    Exiting
+(Thread-0  ) 2018-12-01 21:27:45,776 DEBUG    Exiting
+(Thread-9  ) 2018-12-01 21:27:45,786 DEBUG    Exiting
+(Thread-7  ) 2018-12-01 21:27:45,786 DEBUG    Exiting
+(Thread-8  ) 2018-12-01 21:27:45,789 DEBUG    Exiting
+(Thread-12 ) 2018-12-01 21:27:45,790 DEBUG    Exiting
+(Thread-13 ) 2018-12-01 21:27:45,790 DEBUG    Exiting
+(Thread-14 ) 2018-12-01 21:27:45,793 DEBUG    Exiting
+(Thread-15 ) 2018-12-01 21:27:45,795 DEBUG    Exiting
+(Thread-16 ) 2018-12-01 21:27:45,796 DEBUG    Exiting
+(Thread-18 ) 2018-12-01 21:27:45,798 DEBUG    Exiting
+(Thread-17 ) 2018-12-01 21:27:45,799 DEBUG    Exiting
+(Thread-19 ) 2018-12-01 21:27:45,799 DEBUG    Exiting
+(Thread-20 ) 2018-12-01 21:27:45,801 DEBUG    Exiting
+(Thread-22 ) 2018-12-01 21:27:45,802 DEBUG    Exiting
+(Thread-23 ) 2018-12-01 21:27:45,802 DEBUG    Exiting
+(Thread-24 ) 2018-12-01 21:27:45,803 DEBUG    Exiting
+(Thread-25 ) 2018-12-01 21:27:45,805 DEBUG    Exiting
+(Thread-26 ) 2018-12-01 21:27:45,805 DEBUG    Exiting
+(Thread-28 ) 2018-12-01 21:27:45,805 DEBUG    Exiting
+(Thread-27 ) 2018-12-01 21:27:45,805 DEBUG    Exiting
+(Thread-30 ) 2018-12-01 21:27:45,806 DEBUG    Exiting
+(Thread-29 ) 2018-12-01 21:27:45,806 DEBUG    Exiting
+(Thread-10 ) 2018-12-01 21:27:45,809 DEBUG    Exiting
+(Thread-11 ) 2018-12-01 21:27:45,812 DEBUG    Exiting
+(Thread-21 ) 2018-12-01 21:27:45,816 DEBUG    Exiting
+(Thread-10 ) 2018-12-01 21:40:17,640 DEBUG    starting
+(Thread-11 ) 2018-12-01 21:40:17,640 DEBUG    starting
+(Thread-10 ) 2018-12-01 21:40:17,641 DEBUG    SET - lock acquire
+(Thread-12 ) 2018-12-01 21:40:17,641 DEBUG    starting
+(Thread-10 ) 2018-12-01 21:40:17,641 DEBUG    SET - semphore acquire
+(Thread-13 ) 2018-12-01 21:40:17,641 DEBUG    starting
+(Thread-10 ) 2018-12-01 21:40:17,641 DEBUG    SET - semphore acquire
+(Thread-10 ) 2018-12-01 21:40:17,641 DEBUG    SET - semphore acquire
+(Thread-10 ) 2018-12-01 21:40:17,641 DEBUG    SET - semphore acquire
+(Thread-10 ) 2018-12-01 21:40:17,641 DEBUG    SET - semphore acquire
+(Thread-10 ) 2018-12-01 21:40:17,641 DEBUG    SET - semphore acquire
+(Thread-10 ) 2018-12-01 21:40:17,641 DEBUG    SET - semphore acquire
+(Thread-10 ) 2018-12-01 21:40:17,641 DEBUG    SET - semphore acquire
+(Thread-10 ) 2018-12-01 21:40:17,641 DEBUG    SET - semphore acquire
+(Thread-10 ) 2018-12-01 21:40:17,641 DEBUG    SET - semphore acquire
+(Thread-10 ) 2018-12-01 21:40:17,644 DEBUG    answer - Value was added
+(Thread-10 ) 2018-12-01 21:40:17,644 DEBUG    SET - semphore release
+(Thread-10 ) 2018-12-01 21:40:17,644 DEBUG    SET - semphore release
+(Thread-10 ) 2018-12-01 21:40:17,644 DEBUG    SET - semphore release
+(Thread-10 ) 2018-12-01 21:40:17,644 DEBUG    SET - semphore release
+(Thread-10 ) 2018-12-01 21:40:17,644 DEBUG    SET - semphore release
+(Thread-10 ) 2018-12-01 21:40:17,644 DEBUG    SET - semphore release
+(Thread-10 ) 2018-12-01 21:40:17,644 DEBUG    SET - semphore release
+(Thread-10 ) 2018-12-01 21:40:17,644 DEBUG    SET - semphore release
+(Thread-10 ) 2018-12-01 21:40:17,644 DEBUG    SET - semphore release
+(Thread-10 ) 2018-12-01 21:40:17,644 DEBUG    SET - semphore release
+(Thread-10 ) 2018-12-01 21:40:17,644 DEBUG    SET - lock relese
+(Thread-11 ) 2018-12-01 21:40:17,644 DEBUG    SET - lock acquire
+(Thread-11 ) 2018-12-01 21:40:17,644 DEBUG    SET - semphore acquire
+(Thread-11 ) 2018-12-01 21:40:17,644 DEBUG    SET - semphore acquire
+(Thread-11 ) 2018-12-01 21:40:17,644 DEBUG    SET - semphore acquire
+(Thread-11 ) 2018-12-01 21:40:17,644 DEBUG    SET - semphore acquire
+(Thread-11 ) 2018-12-01 21:40:17,644 DEBUG    SET - semphore acquire
+(Thread-11 ) 2018-12-01 21:40:17,644 DEBUG    SET - semphore acquire
+(Thread-11 ) 2018-12-01 21:40:17,644 DEBUG    SET - semphore acquire
+(Thread-11 ) 2018-12-01 21:40:17,644 DEBUG    SET - semphore acquire
+(Thread-11 ) 2018-12-01 21:40:17,645 DEBUG    SET - semphore acquire
+(Thread-11 ) 2018-12-01 21:40:17,645 DEBUG    SET - semphore acquire
+(Thread-11 ) 2018-12-01 21:40:17,647 DEBUG    answer - Value was added
+(Thread-11 ) 2018-12-01 21:40:17,648 DEBUG    SET - semphore release
+(Thread-11 ) 2018-12-01 21:40:17,648 DEBUG    SET - semphore release
+(Thread-11 ) 2018-12-01 21:40:17,648 DEBUG    SET - semphore release
+(Thread-11 ) 2018-12-01 21:40:17,648 DEBUG    SET - semphore release
+(Thread-11 ) 2018-12-01 21:40:17,648 DEBUG    SET - semphore release
+(Thread-11 ) 2018-12-01 21:40:17,648 DEBUG    SET - semphore release
+(Thread-11 ) 2018-12-01 21:40:17,648 DEBUG    SET - semphore release
+(Thread-11 ) 2018-12-01 21:40:17,648 DEBUG    SET - semphore release
+(Thread-11 ) 2018-12-01 21:40:17,648 DEBUG    SET - semphore release
+(Thread-11 ) 2018-12-01 21:40:17,648 DEBUG    SET - semphore release
+(Thread-11 ) 2018-12-01 21:40:17,648 DEBUG    SET - lock relese
+(Thread-12 ) 2018-12-01 21:40:17,648 DEBUG    SET - lock acquire
+(Thread-12 ) 2018-12-01 21:40:17,648 DEBUG    SET - semphore acquire
+(Thread-12 ) 2018-12-01 21:40:17,648 DEBUG    SET - semphore acquire
+(Thread-12 ) 2018-12-01 21:40:17,648 DEBUG    SET - semphore acquire
+(Thread-12 ) 2018-12-01 21:40:17,648 DEBUG    SET - semphore acquire
+(Thread-12 ) 2018-12-01 21:40:17,648 DEBUG    SET - semphore acquire
+(Thread-12 ) 2018-12-01 21:40:17,648 DEBUG    SET - semphore acquire
+(Thread-12 ) 2018-12-01 21:40:17,648 DEBUG    SET - semphore acquire
+(Thread-12 ) 2018-12-01 21:40:17,648 DEBUG    SET - semphore acquire
+(Thread-12 ) 2018-12-01 21:40:17,650 DEBUG    SET - semphore acquire
+(Thread-12 ) 2018-12-01 21:40:17,650 DEBUG    SET - semphore acquire
+(Thread-12 ) 2018-12-01 21:40:17,654 DEBUG    answer - Value was added
+(Thread-12 ) 2018-12-01 21:40:17,654 DEBUG    SET - semphore release
+(Thread-12 ) 2018-12-01 21:40:17,654 DEBUG    SET - semphore release
+(Thread-12 ) 2018-12-01 21:40:17,654 DEBUG    SET - semphore release
+(Thread-12 ) 2018-12-01 21:40:17,654 DEBUG    SET - semphore release
+(Thread-12 ) 2018-12-01 21:40:17,654 DEBUG    SET - semphore release
+(Thread-12 ) 2018-12-01 21:40:17,654 DEBUG    SET - semphore release
+(Thread-12 ) 2018-12-01 21:40:17,654 DEBUG    SET - semphore release
+(Thread-12 ) 2018-12-01 21:40:17,654 DEBUG    SET - semphore release
+(Thread-12 ) 2018-12-01 21:40:17,654 DEBUG    SET - semphore release
+(Thread-12 ) 2018-12-01 21:40:17,654 DEBUG    SET - semphore release
+(Thread-12 ) 2018-12-01 21:40:17,654 DEBUG    SET - lock relese
+(Thread-13 ) 2018-12-01 21:40:17,654 DEBUG    SET - lock acquire
+(Thread-13 ) 2018-12-01 21:40:17,654 DEBUG    SET - semphore acquire
+(Thread-13 ) 2018-12-01 21:40:17,655 DEBUG    SET - semphore acquire
+(Thread-13 ) 2018-12-01 21:40:17,655 DEBUG    SET - semphore acquire
+(Thread-13 ) 2018-12-01 21:40:17,655 DEBUG    SET - semphore acquire
+(Thread-13 ) 2018-12-01 21:40:17,655 DEBUG    SET - semphore acquire
+(Thread-13 ) 2018-12-01 21:40:17,655 DEBUG    SET - semphore acquire
+(Thread-13 ) 2018-12-01 21:40:17,655 DEBUG    SET - semphore acquire
+(Thread-13 ) 2018-12-01 21:40:17,655 DEBUG    SET - semphore acquire
+(Thread-13 ) 2018-12-01 21:40:17,655 DEBUG    SET - semphore acquire
+(Thread-13 ) 2018-12-01 21:40:17,655 DEBUG    SET - semphore acquire
+(Thread-13 ) 2018-12-01 21:40:17,657 DEBUG    answer - Value was added
+(Thread-13 ) 2018-12-01 21:40:17,657 DEBUG    SET - semphore release
+(Thread-13 ) 2018-12-01 21:40:17,657 DEBUG    SET - semphore release
+(Thread-13 ) 2018-12-01 21:40:17,657 DEBUG    SET - semphore release
+(Thread-13 ) 2018-12-01 21:40:17,657 DEBUG    SET - semphore release
+(Thread-13 ) 2018-12-01 21:40:17,657 DEBUG    SET - semphore release
+(Thread-13 ) 2018-12-01 21:40:17,657 DEBUG    SET - semphore release
+(Thread-13 ) 2018-12-01 21:40:17,657 DEBUG    SET - semphore release
+(Thread-13 ) 2018-12-01 21:40:17,657 DEBUG    SET - semphore release
+(Thread-13 ) 2018-12-01 21:40:17,657 DEBUG    SET - semphore release
+(Thread-13 ) 2018-12-01 21:40:17,657 DEBUG    SET - semphore release
+(Thread-13 ) 2018-12-01 21:40:17,657 DEBUG    SET - lock relese
+(Thread-10 ) 2018-12-01 21:40:19,644 DEBUG    Exiting
+(Thread-11 ) 2018-12-01 21:40:19,648 DEBUG    Exiting
+(Thread-12 ) 2018-12-01 21:40:19,655 DEBUG    Exiting
+(Thread-13 ) 2018-12-01 21:40:19,658 DEBUG    Exiting
+(Thread-0  ) 2018-12-01 21:40:27,641 DEBUG    starting
+(Thread-1  ) 2018-12-01 21:40:27,641 DEBUG    starting
+(Thread-0  ) 2018-12-01 21:40:27,641 DEBUG    SET - lock acquire
+(Thread-2  ) 2018-12-01 21:40:27,644 DEBUG    starting
+(Thread-1  ) 2018-12-01 21:40:27,644 DEBUG    GET - semphore acquire
+(Thread-0  ) 2018-12-01 21:40:27,644 DEBUG    SET - semphore acquire
+(Thread-3  ) 2018-12-01 21:40:27,644 DEBUG    starting
+(Thread-2  ) 2018-12-01 21:40:27,644 DEBUG    GET - semphore acquire
+(Thread-0  ) 2018-12-01 21:40:27,645 DEBUG    SET - semphore acquire
+(Thread-4  ) 2018-12-01 21:40:27,647 DEBUG    starting
+(Thread-3  ) 2018-12-01 21:40:27,647 DEBUG    GET - semphore acquire
+(Thread-0  ) 2018-12-01 21:40:27,648 DEBUG    SET - semphore acquire
+(Thread-5  ) 2018-12-01 21:40:27,648 DEBUG    starting
+(Thread-4  ) 2018-12-01 21:40:27,648 DEBUG    GET - semphore acquire
+(Thread-6  ) 2018-12-01 21:40:27,650 DEBUG    starting
+(Thread-0  ) 2018-12-01 21:40:27,650 DEBUG    SET - semphore acquire
+(Thread-5  ) 2018-12-01 21:40:27,651 DEBUG    GET - semphore acquire
+(Thread-7  ) 2018-12-01 21:40:27,651 DEBUG    starting
+(Thread-6  ) 2018-12-01 21:40:27,653 DEBUG    GET - semphore acquire
+(Thread-1  ) 2018-12-01 21:40:27,653 DEBUG    GET - semphore release
+(Thread-0  ) 2018-12-01 21:40:27,654 DEBUG    SET - semphore acquire
+(Thread-8  ) 2018-12-01 21:40:27,654 DEBUG    starting
+(Thread-2  ) 2018-12-01 21:40:27,655 DEBUG    GET - semphore release
+(Thread-7  ) 2018-12-01 21:40:27,655 DEBUG    GET - semphore acquire
+(Thread-9  ) 2018-12-01 21:40:27,655 DEBUG    starting
+(Thread-1  ) 2018-12-01 21:40:27,657 DEBUG    answer - the value is - a
+(Thread-3  ) 2018-12-01 21:40:27,658 DEBUG    GET - semphore release
+(Thread-8  ) 2018-12-01 21:40:27,658 DEBUG    GET - semphore acquire
+(Thread-10 ) 2018-12-01 21:40:27,657 DEBUG    starting
+(Thread-2  ) 2018-12-01 21:40:27,658 DEBUG    answer - the value is - b
+(Thread-11 ) 2018-12-01 21:40:27,661 DEBUG    starting
+(Thread-0  ) 2018-12-01 21:40:27,661 DEBUG    SET - semphore acquire
+(Thread-4  ) 2018-12-01 21:40:27,661 DEBUG    GET - semphore release
+(Thread-3  ) 2018-12-01 21:40:27,661 DEBUG    answer - the value is - c
+(Thread-5  ) 2018-12-01 21:40:27,663 DEBUG    GET - semphore release
+(Thread-9  ) 2018-12-01 21:40:27,663 DEBUG    GET - semphore acquire
+(Thread-12 ) 2018-12-01 21:40:27,663 DEBUG    starting
+(Thread-13 ) 2018-12-01 21:40:27,664 DEBUG    starting
+(Thread-6  ) 2018-12-01 21:40:27,664 DEBUG    GET - semphore release
+(Thread-0  ) 2018-12-01 21:40:27,665 DEBUG    SET - semphore acquire
+(Thread-14 ) 2018-12-01 21:40:27,665 DEBUG    starting
+(Thread-4  ) 2018-12-01 21:40:27,667 DEBUG    answer - the value is - d
+(Thread-7  ) 2018-12-01 21:40:27,667 DEBUG    GET - semphore release
+(Thread-5  ) 2018-12-01 21:40:27,667 DEBUG    answer - the value is - a
+(Thread-15 ) 2018-12-01 21:40:27,667 DEBUG    starting
+(Thread-8  ) 2018-12-01 21:40:27,670 DEBUG    GET - semphore release
+(Thread-16 ) 2018-12-01 21:40:27,668 DEBUG    starting
+(Thread-12 ) 2018-12-01 21:40:27,670 DEBUG    GET - semphore acquire
+(Thread-13 ) 2018-12-01 21:40:27,670 DEBUG    GET - semphore acquire
+(Thread-17 ) 2018-12-01 21:40:27,671 DEBUG    starting
+(Thread-6  ) 2018-12-01 21:40:27,671 DEBUG    answer - the value is - b
+(Thread-18 ) 2018-12-01 21:40:27,671 DEBUG    starting
+(Thread-7  ) 2018-12-01 21:40:27,673 DEBUG    answer - the value is - c
+(Thread-19 ) 2018-12-01 21:40:27,673 DEBUG    starting
+(Thread-8  ) 2018-12-01 21:40:27,674 DEBUG    answer - the value is - d
+(Thread-9  ) 2018-12-01 21:40:27,674 DEBUG    GET - semphore release
+(Thread-20 ) 2018-12-01 21:40:27,674 DEBUG    starting
+(Thread-16 ) 2018-12-01 21:40:27,674 DEBUG    GET - semphore acquire
+(Thread-21 ) 2018-12-01 21:40:27,677 DEBUG    starting
+(Thread-22 ) 2018-12-01 21:40:27,677 DEBUG    starting
+(Thread-23 ) 2018-12-01 21:40:27,678 DEBUG    starting
+(Thread-9  ) 2018-12-01 21:40:27,680 DEBUG    answer - invalid key
+(Thread-24 ) 2018-12-01 21:40:27,680 DEBUG    starting
+(Thread-12 ) 2018-12-01 21:40:27,681 DEBUG    GET - semphore release
+(Thread-14 ) 2018-12-01 21:40:27,681 DEBUG    GET - semphore acquire
+(Thread-25 ) 2018-12-01 21:40:27,683 DEBUG    starting
+(Thread-13 ) 2018-12-01 21:40:27,684 DEBUG    GET - semphore release
+(Thread-23 ) 2018-12-01 21:40:27,684 DEBUG    GET - semphore acquire
+(Thread-26 ) 2018-12-01 21:40:27,684 DEBUG    starting
+(Thread-12 ) 2018-12-01 21:40:27,684 DEBUG    answer - the value is - a
+(Thread-27 ) 2018-12-01 21:40:27,686 DEBUG    starting
+(Thread-13 ) 2018-12-01 21:40:27,687 DEBUG    answer - the value is - b
+(Thread-16 ) 2018-12-01 21:40:27,687 DEBUG    GET - semphore release
+(Thread-26 ) 2018-12-01 21:40:27,687 DEBUG    GET - semphore acquire
+(Thread-28 ) 2018-12-01 21:40:27,687 DEBUG    starting
+(Thread-29 ) 2018-12-01 21:40:27,690 DEBUG    starting
+(Thread-16 ) 2018-12-01 21:40:27,690 DEBUG    answer - invalid key
+(Thread-14 ) 2018-12-01 21:40:27,691 DEBUG    GET - semphore release
+(Thread-30 ) 2018-12-01 21:40:27,691 DEBUG    starting
+(Thread-29 ) 2018-12-01 21:40:27,691 DEBUG    GET - semphore acquire
+(Thread-23 ) 2018-12-01 21:40:27,693 DEBUG    GET - semphore release
+(Thread-14 ) 2018-12-01 21:40:27,693 DEBUG    answer - the value is - c
+(Thread-18 ) 2018-12-01 21:40:27,693 DEBUG    GET - semphore acquire
+(Thread-23 ) 2018-12-01 21:40:27,693 DEBUG    answer - the value is - b
+(Thread-26 ) 2018-12-01 21:40:27,694 DEBUG    GET - semphore release
+(Thread-19 ) 2018-12-01 21:40:27,694 DEBUG    GET - semphore acquire
+(Thread-26 ) 2018-12-01 21:40:27,694 DEBUG    answer - invalid key
+(Thread-29 ) 2018-12-01 21:40:27,694 DEBUG    GET - semphore release
+(Thread-20 ) 2018-12-01 21:40:27,696 DEBUG    GET - semphore acquire
+(Thread-18 ) 2018-12-01 21:40:27,696 DEBUG    GET - semphore release
+(Thread-29 ) 2018-12-01 21:40:27,696 DEBUG    answer - invalid key
+(Thread-22 ) 2018-12-01 21:40:27,696 DEBUG    GET - semphore acquire
+(Thread-18 ) 2018-12-01 21:40:27,697 DEBUG    answer - invalid key
+(Thread-19 ) 2018-12-01 21:40:27,697 DEBUG    GET - semphore release
+(Thread-15 ) 2018-12-01 21:40:27,697 DEBUG    GET - semphore acquire
+(Thread-19 ) 2018-12-01 21:40:27,697 DEBUG    answer - the value is - c
+(Thread-20 ) 2018-12-01 21:40:27,697 DEBUG    GET - semphore release
+(Thread-24 ) 2018-12-01 21:40:27,697 DEBUG    GET - semphore acquire
+(Thread-20 ) 2018-12-01 21:40:27,698 DEBUG    answer - the value is - d
+(Thread-22 ) 2018-12-01 21:40:27,698 DEBUG    GET - semphore release
+(Thread-25 ) 2018-12-01 21:40:27,698 DEBUG    GET - semphore acquire
+(Thread-22 ) 2018-12-01 21:40:27,700 DEBUG    answer - the value is - a
+(Thread-15 ) 2018-12-01 21:40:27,700 DEBUG    GET - semphore release
+(Thread-0  ) 2018-12-01 21:40:27,700 DEBUG    SET - semphore acquire
+(Thread-15 ) 2018-12-01 21:40:27,700 DEBUG    answer - the value is - d
+(Thread-24 ) 2018-12-01 21:40:27,700 DEBUG    GET - semphore release
+(Thread-27 ) 2018-12-01 21:40:27,700 DEBUG    GET - semphore acquire
+(Thread-24 ) 2018-12-01 21:40:27,701 DEBUG    answer - the value is - c
+(Thread-25 ) 2018-12-01 21:40:27,701 DEBUG    GET - semphore release
+(Thread-28 ) 2018-12-01 21:40:27,701 DEBUG    GET - semphore acquire
+(Thread-25 ) 2018-12-01 21:40:27,701 DEBUG    answer - the value is - d
+(Thread-27 ) 2018-12-01 21:40:27,703 DEBUG    GET - semphore release
+(Thread-17 ) 2018-12-01 21:40:27,703 DEBUG    GET - semphore acquire
+(Thread-28 ) 2018-12-01 21:40:27,703 DEBUG    GET - semphore release
+(Thread-30 ) 2018-12-01 21:40:27,703 DEBUG    GET - semphore acquire
+(Thread-27 ) 2018-12-01 21:40:27,703 DEBUG    answer - invalid key
+(Thread-28 ) 2018-12-01 21:40:27,703 DEBUG    answer - invalid key
+(Thread-17 ) 2018-12-01 21:40:27,704 DEBUG    GET - semphore release
+(Thread-0  ) 2018-12-01 21:40:27,704 DEBUG    SET - semphore acquire
+(Thread-30 ) 2018-12-01 21:40:27,704 DEBUG    GET - semphore release
+(Thread-17 ) 2018-12-01 21:40:27,704 DEBUG    answer - invalid key
+(Thread-0  ) 2018-12-01 21:40:27,706 DEBUG    SET - semphore acquire
+(Thread-30 ) 2018-12-01 21:40:27,706 DEBUG    answer - the value is - a
+(Thread-0  ) 2018-12-01 21:40:27,710 DEBUG    answer - Value was added
+(Thread-0  ) 2018-12-01 21:40:27,710 DEBUG    SET - semphore release
+(Thread-0  ) 2018-12-01 21:40:27,710 DEBUG    SET - semphore release
+(Thread-0  ) 2018-12-01 21:40:27,711 DEBUG    SET - semphore release
+(Thread-0  ) 2018-12-01 21:40:27,711 DEBUG    SET - semphore release
+(Thread-0  ) 2018-12-01 21:40:27,711 DEBUG    SET - semphore release
+(Thread-0  ) 2018-12-01 21:40:27,711 DEBUG    SET - semphore release
+(Thread-0  ) 2018-12-01 21:40:27,711 DEBUG    SET - semphore release
+(Thread-0  ) 2018-12-01 21:40:27,711 DEBUG    SET - semphore release
+(Thread-0  ) 2018-12-01 21:40:27,711 DEBUG    SET - semphore release
+(Thread-0  ) 2018-12-01 21:40:27,711 DEBUG    SET - semphore release
+(Thread-0  ) 2018-12-01 21:40:27,711 DEBUG    SET - lock relese
+(Thread-10 ) 2018-12-01 21:40:27,711 DEBUG    SET - lock acquire
+(Thread-10 ) 2018-12-01 21:40:27,713 DEBUG    SET - semphore acquire
+(Thread-10 ) 2018-12-01 21:40:27,713 DEBUG    SET - semphore acquire
+(Thread-10 ) 2018-12-01 21:40:27,713 DEBUG    SET - semphore acquire
+(Thread-10 ) 2018-12-01 21:40:27,713 DEBUG    SET - semphore acquire
+(Thread-10 ) 2018-12-01 21:40:27,713 DEBUG    SET - semphore acquire
+(Thread-10 ) 2018-12-01 21:40:27,713 DEBUG    SET - semphore acquire
+(Thread-10 ) 2018-12-01 21:40:27,713 DEBUG    SET - semphore acquire
+(Thread-10 ) 2018-12-01 21:40:27,713 DEBUG    SET - semphore acquire
+(Thread-10 ) 2018-12-01 21:40:27,713 DEBUG    SET - semphore acquire
+(Thread-10 ) 2018-12-01 21:40:27,713 DEBUG    SET - semphore acquire
+(Thread-10 ) 2018-12-01 21:40:27,714 DEBUG    answer - Value was added
+(Thread-10 ) 2018-12-01 21:40:27,714 DEBUG    SET - semphore release
+(Thread-10 ) 2018-12-01 21:40:27,714 DEBUG    SET - semphore release
+(Thread-10 ) 2018-12-01 21:40:27,716 DEBUG    SET - semphore release
+(Thread-10 ) 2018-12-01 21:40:27,716 DEBUG    SET - semphore release
+(Thread-10 ) 2018-12-01 21:40:27,716 DEBUG    SET - semphore release
+(Thread-10 ) 2018-12-01 21:40:27,716 DEBUG    SET - semphore release
+(Thread-10 ) 2018-12-01 21:40:27,716 DEBUG    SET - semphore release
+(Thread-10 ) 2018-12-01 21:40:27,716 DEBUG    SET - semphore release
+(Thread-10 ) 2018-12-01 21:40:27,716 DEBUG    SET - semphore release
+(Thread-10 ) 2018-12-01 21:40:27,716 DEBUG    SET - semphore release
+(Thread-10 ) 2018-12-01 21:40:27,716 DEBUG    SET - lock relese
+(Thread-11 ) 2018-12-01 21:40:27,716 DEBUG    SET - lock acquire
+(Thread-11 ) 2018-12-01 21:40:27,717 DEBUG    SET - semphore acquire
+(Thread-11 ) 2018-12-01 21:40:27,717 DEBUG    SET - semphore acquire
+(Thread-11 ) 2018-12-01 21:40:27,717 DEBUG    SET - semphore acquire
+(Thread-11 ) 2018-12-01 21:40:27,717 DEBUG    SET - semphore acquire
+(Thread-11 ) 2018-12-01 21:40:27,717 DEBUG    SET - semphore acquire
+(Thread-11 ) 2018-12-01 21:40:27,717 DEBUG    SET - semphore acquire
+(Thread-11 ) 2018-12-01 21:40:27,717 DEBUG    SET - semphore acquire
+(Thread-11 ) 2018-12-01 21:40:27,717 DEBUG    SET - semphore acquire
+(Thread-11 ) 2018-12-01 21:40:27,717 DEBUG    SET - semphore acquire
+(Thread-11 ) 2018-12-01 21:40:27,717 DEBUG    SET - semphore acquire
+(Thread-11 ) 2018-12-01 21:40:27,719 DEBUG    answer - Value was added
+(Thread-11 ) 2018-12-01 21:40:27,720 DEBUG    SET - semphore release
+(Thread-11 ) 2018-12-01 21:40:27,720 DEBUG    SET - semphore release
+(Thread-11 ) 2018-12-01 21:40:27,720 DEBUG    SET - semphore release
+(Thread-11 ) 2018-12-01 21:40:27,720 DEBUG    SET - semphore release
+(Thread-11 ) 2018-12-01 21:40:27,720 DEBUG    SET - semphore release
+(Thread-11 ) 2018-12-01 21:40:27,720 DEBUG    SET - semphore release
+(Thread-11 ) 2018-12-01 21:40:27,720 DEBUG    SET - semphore release
+(Thread-11 ) 2018-12-01 21:40:27,720 DEBUG    SET - semphore release
+(Thread-11 ) 2018-12-01 21:40:27,720 DEBUG    SET - semphore release
+(Thread-11 ) 2018-12-01 21:40:27,720 DEBUG    SET - semphore release
+(Thread-11 ) 2018-12-01 21:40:27,720 DEBUG    SET - lock relese
+(Thread-21 ) 2018-12-01 21:40:27,720 DEBUG    SET - lock acquire
+(Thread-21 ) 2018-12-01 21:40:27,720 DEBUG    SET - semphore acquire
+(Thread-21 ) 2018-12-01 21:40:27,720 DEBUG    SET - semphore acquire
+(Thread-21 ) 2018-12-01 21:40:27,720 DEBUG    SET - semphore acquire
+(Thread-21 ) 2018-12-01 21:40:27,720 DEBUG    SET - semphore acquire
+(Thread-21 ) 2018-12-01 21:40:27,720 DEBUG    SET - semphore acquire
+(Thread-21 ) 2018-12-01 21:40:27,720 DEBUG    SET - semphore acquire
+(Thread-21 ) 2018-12-01 21:40:27,721 DEBUG    SET - semphore acquire
+(Thread-21 ) 2018-12-01 21:40:27,721 DEBUG    SET - semphore acquire
+(Thread-21 ) 2018-12-01 21:40:27,721 DEBUG    SET - semphore acquire
+(Thread-21 ) 2018-12-01 21:40:27,721 DEBUG    SET - semphore acquire
+(Thread-21 ) 2018-12-01 21:40:27,723 DEBUG    answer - Value was added
+(Thread-21 ) 2018-12-01 21:40:27,723 DEBUG    SET - semphore release
+(Thread-21 ) 2018-12-01 21:40:27,723 DEBUG    SET - semphore release
+(Thread-21 ) 2018-12-01 21:40:27,723 DEBUG    SET - semphore release
+(Thread-21 ) 2018-12-01 21:40:27,723 DEBUG    SET - semphore release
+(Thread-21 ) 2018-12-01 21:40:27,723 DEBUG    SET - semphore release
+(Thread-21 ) 2018-12-01 21:40:27,723 DEBUG    SET - semphore release
+(Thread-21 ) 2018-12-01 21:40:27,723 DEBUG    SET - semphore release
+(Thread-21 ) 2018-12-01 21:40:27,723 DEBUG    SET - semphore release
+(Thread-21 ) 2018-12-01 21:40:27,723 DEBUG    SET - semphore release
+(Thread-21 ) 2018-12-01 21:40:27,723 DEBUG    SET - semphore release
+(Thread-21 ) 2018-12-01 21:40:27,724 DEBUG    SET - lock relese
+(Thread-1  ) 2018-12-01 21:40:29,663 DEBUG    Exiting
+(Thread-2  ) 2018-12-01 21:40:29,665 DEBUG    Exiting
+(Thread-3  ) 2018-12-01 21:40:29,667 DEBUG    Exiting
+(Thread-4  ) 2018-12-01 21:40:29,673 DEBUG    Exiting
+(Thread-5  ) 2018-12-01 21:40:29,674 DEBUG    Exiting
+(Thread-6  ) 2018-12-01 21:40:29,677 DEBUG    Exiting
+(Thread-7  ) 2018-12-01 21:40:29,678 DEBUG    Exiting
+(Thread-8  ) 2018-12-01 21:40:29,680 DEBUG    Exiting
+(Thread-9  ) 2018-12-01 21:40:29,684 DEBUG    Exiting
+(Thread-12 ) 2018-12-01 21:40:29,688 DEBUG    Exiting
+(Thread-13 ) 2018-12-01 21:40:29,690 DEBUG    Exiting
+(Thread-16 ) 2018-12-01 21:40:29,693 DEBUG    Exiting
+(Thread-14 ) 2018-12-01 21:40:29,694 DEBUG    Exiting
+(Thread-23 ) 2018-12-01 21:40:29,694 DEBUG    Exiting
+(Thread-26 ) 2018-12-01 21:40:29,696 DEBUG    Exiting
+(Thread-29 ) 2018-12-01 21:40:29,697 DEBUG    Exiting
+(Thread-18 ) 2018-12-01 21:40:29,697 DEBUG    Exiting
+(Thread-19 ) 2018-12-01 21:40:29,698 DEBUG    Exiting
+(Thread-20 ) 2018-12-01 21:40:29,700 DEBUG    Exiting
+(Thread-15 ) 2018-12-01 21:40:29,701 DEBUG    Exiting
+(Thread-22 ) 2018-12-01 21:40:29,701 DEBUG    Exiting
+(Thread-24 ) 2018-12-01 21:40:29,703 DEBUG    Exiting
+(Thread-25 ) 2018-12-01 21:40:29,703 DEBUG    Exiting
+(Thread-27 ) 2018-12-01 21:40:29,704 DEBUG    Exiting
+(Thread-28 ) 2018-12-01 21:40:29,706 DEBUG    Exiting
+(Thread-17 ) 2018-12-01 21:40:29,707 DEBUG    Exiting
+(Thread-30 ) 2018-12-01 21:40:29,707 DEBUG    Exiting
+(Thread-0  ) 2018-12-01 21:40:29,713 DEBUG    Exiting
+(Thread-10 ) 2018-12-01 21:40:29,717 DEBUG    Exiting
+(Thread-11 ) 2018-12-01 21:40:29,721 DEBUG    Exiting
+(Thread-21 ) 2018-12-01 21:40:29,726 DEBUG    Exiting
+(Thread-10 ) 2018-12-01 21:42:22,569 DEBUG    starting
+(Thread-11 ) 2018-12-01 21:42:22,569 DEBUG    starting
+(Thread-10 ) 2018-12-01 21:42:22,569 DEBUG    SET - lock acquire
+(Thread-12 ) 2018-12-01 21:42:22,569 DEBUG    starting
+(Thread-10 ) 2018-12-01 21:42:22,569 DEBUG    SET - semphore acquire
+(Thread-13 ) 2018-12-01 21:42:22,569 DEBUG    starting
+(Thread-10 ) 2018-12-01 21:42:22,571 DEBUG    SET - semphore acquire
+(Thread-10 ) 2018-12-01 21:42:22,571 DEBUG    SET - semphore acquire
+(Thread-10 ) 2018-12-01 21:42:22,571 DEBUG    SET - semphore acquire
+(Thread-10 ) 2018-12-01 21:42:22,571 DEBUG    SET - semphore acquire
+(Thread-10 ) 2018-12-01 21:42:22,571 DEBUG    SET - semphore acquire
+(Thread-10 ) 2018-12-01 21:42:22,571 DEBUG    SET - semphore acquire
+(Thread-10 ) 2018-12-01 21:42:22,571 DEBUG    SET - semphore acquire
+(Thread-10 ) 2018-12-01 21:42:22,571 DEBUG    SET - semphore acquire
+(Thread-10 ) 2018-12-01 21:42:22,571 DEBUG    SET - semphore acquire
+(Thread-10 ) 2018-12-01 21:42:22,572 DEBUG    answer - Value was added
+(Thread-10 ) 2018-12-01 21:42:22,572 DEBUG    SET - semphore release
+(Thread-10 ) 2018-12-01 21:42:22,572 DEBUG    SET - semphore release
+(Thread-10 ) 2018-12-01 21:42:22,572 DEBUG    SET - semphore release
+(Thread-10 ) 2018-12-01 21:42:22,572 DEBUG    SET - semphore release
+(Thread-10 ) 2018-12-01 21:42:22,572 DEBUG    SET - semphore release
+(Thread-10 ) 2018-12-01 21:42:22,572 DEBUG    SET - semphore release
+(Thread-10 ) 2018-12-01 21:42:22,572 DEBUG    SET - semphore release
+(Thread-10 ) 2018-12-01 21:42:22,572 DEBUG    SET - semphore release
+(Thread-10 ) 2018-12-01 21:42:22,572 DEBUG    SET - semphore release
+(Thread-10 ) 2018-12-01 21:42:22,572 DEBUG    SET - semphore release
+(Thread-10 ) 2018-12-01 21:42:22,572 DEBUG    SET - lock relese
+(Thread-11 ) 2018-12-01 21:42:22,572 DEBUG    SET - lock acquire
+(Thread-11 ) 2018-12-01 21:42:22,573 DEBUG    SET - semphore acquire
+(Thread-11 ) 2018-12-01 21:42:22,573 DEBUG    SET - semphore acquire
+(Thread-11 ) 2018-12-01 21:42:22,573 DEBUG    SET - semphore acquire
+(Thread-11 ) 2018-12-01 21:42:22,573 DEBUG    SET - semphore acquire
+(Thread-11 ) 2018-12-01 21:42:22,573 DEBUG    SET - semphore acquire
+(Thread-11 ) 2018-12-01 21:42:22,573 DEBUG    SET - semphore acquire
+(Thread-11 ) 2018-12-01 21:42:22,573 DEBUG    SET - semphore acquire
+(Thread-11 ) 2018-12-01 21:42:22,573 DEBUG    SET - semphore acquire
+(Thread-11 ) 2018-12-01 21:42:22,573 DEBUG    SET - semphore acquire
+(Thread-11 ) 2018-12-01 21:42:22,573 DEBUG    SET - semphore acquire
+(Thread-11 ) 2018-12-01 21:42:22,588 DEBUG    answer - Value was added
+(Thread-11 ) 2018-12-01 21:42:22,589 DEBUG    SET - semphore release
+(Thread-11 ) 2018-12-01 21:42:22,589 DEBUG    SET - semphore release
+(Thread-11 ) 2018-12-01 21:42:22,589 DEBUG    SET - semphore release
+(Thread-11 ) 2018-12-01 21:42:22,589 DEBUG    SET - semphore release
+(Thread-11 ) 2018-12-01 21:42:22,589 DEBUG    SET - semphore release
+(Thread-11 ) 2018-12-01 21:42:22,589 DEBUG    SET - semphore release
+(Thread-11 ) 2018-12-01 21:42:22,589 DEBUG    SET - semphore release
+(Thread-11 ) 2018-12-01 21:42:22,589 DEBUG    SET - semphore release
+(Thread-11 ) 2018-12-01 21:42:22,589 DEBUG    SET - semphore release
+(Thread-11 ) 2018-12-01 21:42:22,589 DEBUG    SET - semphore release
+(Thread-11 ) 2018-12-01 21:42:22,589 DEBUG    SET - lock relese
+(Thread-12 ) 2018-12-01 21:42:22,589 DEBUG    SET - lock acquire
+(Thread-12 ) 2018-12-01 21:42:22,591 DEBUG    SET - semphore acquire
+(Thread-12 ) 2018-12-01 21:42:22,591 DEBUG    SET - semphore acquire
+(Thread-12 ) 2018-12-01 21:42:22,591 DEBUG    SET - semphore acquire
+(Thread-12 ) 2018-12-01 21:42:22,591 DEBUG    SET - semphore acquire
+(Thread-12 ) 2018-12-01 21:42:22,591 DEBUG    SET - semphore acquire
+(Thread-12 ) 2018-12-01 21:42:22,591 DEBUG    SET - semphore acquire
+(Thread-12 ) 2018-12-01 21:42:22,591 DEBUG    SET - semphore acquire
+(Thread-12 ) 2018-12-01 21:42:22,591 DEBUG    SET - semphore acquire
+(Thread-12 ) 2018-12-01 21:42:22,591 DEBUG    SET - semphore acquire
+(Thread-12 ) 2018-12-01 21:42:22,591 DEBUG    SET - semphore acquire
+(Thread-12 ) 2018-12-01 21:42:22,592 DEBUG    answer - Value was added
+(Thread-12 ) 2018-12-01 21:42:22,592 DEBUG    SET - semphore release
+(Thread-12 ) 2018-12-01 21:42:22,592 DEBUG    SET - semphore release
+(Thread-12 ) 2018-12-01 21:42:22,592 DEBUG    SET - semphore release
+(Thread-12 ) 2018-12-01 21:42:22,592 DEBUG    SET - semphore release
+(Thread-12 ) 2018-12-01 21:42:22,592 DEBUG    SET - semphore release
+(Thread-12 ) 2018-12-01 21:42:22,592 DEBUG    SET - semphore release
+(Thread-12 ) 2018-12-01 21:42:22,592 DEBUG    SET - semphore release
+(Thread-12 ) 2018-12-01 21:42:22,592 DEBUG    SET - semphore release
+(Thread-12 ) 2018-12-01 21:42:22,592 DEBUG    SET - semphore release
+(Thread-12 ) 2018-12-01 21:42:22,592 DEBUG    SET - semphore release
+(Thread-12 ) 2018-12-01 21:42:22,592 DEBUG    SET - lock relese
+(Thread-13 ) 2018-12-01 21:42:22,592 DEBUG    SET - lock acquire
+(Thread-13 ) 2018-12-01 21:42:22,594 DEBUG    SET - semphore acquire
+(Thread-13 ) 2018-12-01 21:42:22,594 DEBUG    SET - semphore acquire
+(Thread-13 ) 2018-12-01 21:42:22,594 DEBUG    SET - semphore acquire
+(Thread-13 ) 2018-12-01 21:42:22,594 DEBUG    SET - semphore acquire
+(Thread-13 ) 2018-12-01 21:42:22,594 DEBUG    SET - semphore acquire
+(Thread-13 ) 2018-12-01 21:42:22,594 DEBUG    SET - semphore acquire
+(Thread-13 ) 2018-12-01 21:42:22,594 DEBUG    SET - semphore acquire
+(Thread-13 ) 2018-12-01 21:42:22,594 DEBUG    SET - semphore acquire
+(Thread-13 ) 2018-12-01 21:42:22,594 DEBUG    SET - semphore acquire
+(Thread-13 ) 2018-12-01 21:42:22,594 DEBUG    SET - semphore acquire
+(Thread-13 ) 2018-12-01 21:42:22,595 DEBUG    answer - Value was added
+(Thread-13 ) 2018-12-01 21:42:22,595 DEBUG    SET - semphore release
+(Thread-13 ) 2018-12-01 21:42:22,595 DEBUG    SET - semphore release
+(Thread-13 ) 2018-12-01 21:42:22,595 DEBUG    SET - semphore release
+(Thread-13 ) 2018-12-01 21:42:22,595 DEBUG    SET - semphore release
+(Thread-13 ) 2018-12-01 21:42:22,595 DEBUG    SET - semphore release
+(Thread-13 ) 2018-12-01 21:42:22,595 DEBUG    SET - semphore release
+(Thread-13 ) 2018-12-01 21:42:22,595 DEBUG    SET - semphore release
+(Thread-13 ) 2018-12-01 21:42:22,595 DEBUG    SET - semphore release
+(Thread-13 ) 2018-12-01 21:42:22,595 DEBUG    SET - semphore release
+(Thread-13 ) 2018-12-01 21:42:22,595 DEBUG    SET - semphore release
+(Thread-13 ) 2018-12-01 21:42:22,595 DEBUG    SET - lock relese
+(Thread-10 ) 2018-12-01 21:42:24,573 DEBUG    Exiting
+(Thread-11 ) 2018-12-01 21:42:24,591 DEBUG    Exiting
+(Thread-12 ) 2018-12-01 21:42:24,594 DEBUG    Exiting
+(Thread-13 ) 2018-12-01 21:42:24,595 DEBUG    Exiting
+(Thread-10 ) 2018-12-01 21:43:25,148 DEBUG    starting
+(Thread-11 ) 2018-12-01 21:43:25,148 DEBUG    starting
+(Thread-10 ) 2018-12-01 21:43:25,150 DEBUG    SET - lock acquire
+(Thread-12 ) 2018-12-01 21:43:25,150 DEBUG    starting
+(Thread-10 ) 2018-12-01 21:43:25,150 DEBUG    SET - semphore acquire
+(Thread-13 ) 2018-12-01 21:43:25,151 DEBUG    starting
+(Thread-10 ) 2018-12-01 21:43:25,151 DEBUG    SET - semphore acquire
+(Thread-10 ) 2018-12-01 21:43:25,151 DEBUG    SET - semphore acquire
+(Thread-10 ) 2018-12-01 21:43:25,151 DEBUG    SET - semphore acquire
+(Thread-10 ) 2018-12-01 21:43:25,151 DEBUG    SET - semphore acquire
+(Thread-10 ) 2018-12-01 21:43:25,151 DEBUG    SET - semphore acquire
+(Thread-10 ) 2018-12-01 21:43:25,151 DEBUG    SET - semphore acquire
+(Thread-10 ) 2018-12-01 21:43:25,151 DEBUG    SET - semphore acquire
+(Thread-10 ) 2018-12-01 21:43:25,151 DEBUG    SET - semphore acquire
+(Thread-10 ) 2018-12-01 21:43:25,151 DEBUG    SET - semphore acquire
+(Thread-10 ) 2018-12-01 21:43:25,153 DEBUG    answer - Value was added
+(Thread-10 ) 2018-12-01 21:43:25,153 DEBUG    SET - semphore release
+(Thread-10 ) 2018-12-01 21:43:25,153 DEBUG    SET - semphore release
+(Thread-10 ) 2018-12-01 21:43:25,153 DEBUG    SET - semphore release
+(Thread-10 ) 2018-12-01 21:43:25,153 DEBUG    SET - semphore release
+(Thread-10 ) 2018-12-01 21:43:25,153 DEBUG    SET - semphore release
+(Thread-10 ) 2018-12-01 21:43:25,153 DEBUG    SET - semphore release
+(Thread-10 ) 2018-12-01 21:43:25,154 DEBUG    SET - semphore release
+(Thread-10 ) 2018-12-01 21:43:25,154 DEBUG    SET - semphore release
+(Thread-10 ) 2018-12-01 21:43:25,154 DEBUG    SET - semphore release
+(Thread-10 ) 2018-12-01 21:43:25,154 DEBUG    SET - semphore release
+(Thread-10 ) 2018-12-01 21:43:25,154 DEBUG    SET - lock relese
+(Thread-11 ) 2018-12-01 21:43:25,154 DEBUG    SET - lock acquire
+(Thread-11 ) 2018-12-01 21:43:25,154 DEBUG    SET - semphore acquire
+(Thread-11 ) 2018-12-01 21:43:25,154 DEBUG    SET - semphore acquire
+(Thread-11 ) 2018-12-01 21:43:25,154 DEBUG    SET - semphore acquire
+(Thread-11 ) 2018-12-01 21:43:25,154 DEBUG    SET - semphore acquire
+(Thread-11 ) 2018-12-01 21:43:25,154 DEBUG    SET - semphore acquire
+(Thread-11 ) 2018-12-01 21:43:25,154 DEBUG    SET - semphore acquire
+(Thread-11 ) 2018-12-01 21:43:25,154 DEBUG    SET - semphore acquire
+(Thread-11 ) 2018-12-01 21:43:25,154 DEBUG    SET - semphore acquire
+(Thread-11 ) 2018-12-01 21:43:25,154 DEBUG    SET - semphore acquire
+(Thread-11 ) 2018-12-01 21:43:25,154 DEBUG    SET - semphore acquire
+(Thread-11 ) 2018-12-01 21:43:25,157 DEBUG    answer - Value was added
+(Thread-11 ) 2018-12-01 21:43:25,157 DEBUG    SET - semphore release
+(Thread-11 ) 2018-12-01 21:43:25,157 DEBUG    SET - semphore release
+(Thread-11 ) 2018-12-01 21:43:25,157 DEBUG    SET - semphore release
+(Thread-11 ) 2018-12-01 21:43:25,157 DEBUG    SET - semphore release
+(Thread-11 ) 2018-12-01 21:43:25,157 DEBUG    SET - semphore release
+(Thread-11 ) 2018-12-01 21:43:25,157 DEBUG    SET - semphore release
+(Thread-11 ) 2018-12-01 21:43:25,157 DEBUG    SET - semphore release
+(Thread-11 ) 2018-12-01 21:43:25,157 DEBUG    SET - semphore release
+(Thread-11 ) 2018-12-01 21:43:25,157 DEBUG    SET - semphore release
+(Thread-11 ) 2018-12-01 21:43:25,157 DEBUG    SET - semphore release
+(Thread-11 ) 2018-12-01 21:43:25,157 DEBUG    SET - lock relese
+(Thread-12 ) 2018-12-01 21:43:25,157 DEBUG    SET - lock acquire
+(Thread-12 ) 2018-12-01 21:43:25,157 DEBUG    SET - semphore acquire
+(Thread-12 ) 2018-12-01 21:43:25,157 DEBUG    SET - semphore acquire
+(Thread-12 ) 2018-12-01 21:43:25,157 DEBUG    SET - semphore acquire
+(Thread-12 ) 2018-12-01 21:43:25,158 DEBUG    SET - semphore acquire
+(Thread-12 ) 2018-12-01 21:43:25,158 DEBUG    SET - semphore acquire
+(Thread-12 ) 2018-12-01 21:43:25,158 DEBUG    SET - semphore acquire
+(Thread-12 ) 2018-12-01 21:43:25,158 DEBUG    SET - semphore acquire
+(Thread-12 ) 2018-12-01 21:43:25,158 DEBUG    SET - semphore acquire
+(Thread-12 ) 2018-12-01 21:43:25,158 DEBUG    SET - semphore acquire
+(Thread-12 ) 2018-12-01 21:43:25,158 DEBUG    SET - semphore acquire
+(Thread-12 ) 2018-12-01 21:43:25,161 DEBUG    answer - Value was added
+(Thread-12 ) 2018-12-01 21:43:25,161 DEBUG    SET - semphore release
+(Thread-12 ) 2018-12-01 21:43:25,161 DEBUG    SET - semphore release
+(Thread-12 ) 2018-12-01 21:43:25,161 DEBUG    SET - semphore release
+(Thread-12 ) 2018-12-01 21:43:25,161 DEBUG    SET - semphore release
+(Thread-12 ) 2018-12-01 21:43:25,161 DEBUG    SET - semphore release
+(Thread-12 ) 2018-12-01 21:43:25,161 DEBUG    SET - semphore release
+(Thread-12 ) 2018-12-01 21:43:25,161 DEBUG    SET - semphore release
+(Thread-12 ) 2018-12-01 21:43:25,161 DEBUG    SET - semphore release
+(Thread-12 ) 2018-12-01 21:43:25,161 DEBUG    SET - semphore release
+(Thread-12 ) 2018-12-01 21:43:25,161 DEBUG    SET - semphore release
+(Thread-12 ) 2018-12-01 21:43:25,161 DEBUG    SET - lock relese
+(Thread-13 ) 2018-12-01 21:43:25,161 DEBUG    SET - lock acquire
+(Thread-13 ) 2018-12-01 21:43:25,161 DEBUG    SET - semphore acquire
+(Thread-13 ) 2018-12-01 21:43:25,161 DEBUG    SET - semphore acquire
+(Thread-13 ) 2018-12-01 21:43:25,161 DEBUG    SET - semphore acquire
+(Thread-13 ) 2018-12-01 21:43:25,161 DEBUG    SET - semphore acquire
+(Thread-13 ) 2018-12-01 21:43:25,161 DEBUG    SET - semphore acquire
+(Thread-13 ) 2018-12-01 21:43:25,161 DEBUG    SET - semphore acquire
+(Thread-13 ) 2018-12-01 21:43:25,161 DEBUG    SET - semphore acquire
+(Thread-13 ) 2018-12-01 21:43:25,161 DEBUG    SET - semphore acquire
+(Thread-13 ) 2018-12-01 21:43:25,161 DEBUG    SET - semphore acquire
+(Thread-13 ) 2018-12-01 21:43:25,163 DEBUG    SET - semphore acquire
+(Thread-13 ) 2018-12-01 21:43:25,164 DEBUG    answer - Value was added
+(Thread-13 ) 2018-12-01 21:43:25,164 DEBUG    SET - semphore release
+(Thread-13 ) 2018-12-01 21:43:25,164 DEBUG    SET - semphore release
+(Thread-13 ) 2018-12-01 21:43:25,164 DEBUG    SET - semphore release
+(Thread-13 ) 2018-12-01 21:43:25,164 DEBUG    SET - semphore release
+(Thread-13 ) 2018-12-01 21:43:25,164 DEBUG    SET - semphore release
+(Thread-13 ) 2018-12-01 21:43:25,164 DEBUG    SET - semphore release
+(Thread-13 ) 2018-12-01 21:43:25,164 DEBUG    SET - semphore release
+(Thread-13 ) 2018-12-01 21:43:25,164 DEBUG    SET - semphore release
+(Thread-13 ) 2018-12-01 21:43:25,164 DEBUG    SET - semphore release
+(Thread-13 ) 2018-12-01 21:43:25,164 DEBUG    SET - semphore release
+(Thread-13 ) 2018-12-01 21:43:25,164 DEBUG    SET - lock relese
+(Thread-10 ) 2018-12-01 21:43:27,154 DEBUG    Exiting
+(Thread-11 ) 2018-12-01 21:43:27,158 DEBUG    Exiting
+(Thread-12 ) 2018-12-01 21:43:27,161 DEBUG    Exiting
+(Thread-13 ) 2018-12-01 21:43:27,164 DEBUG    Exiting
+(Thread-0  ) 2018-12-01 21:43:35,153 DEBUG    starting
+(Thread-0  ) 2018-12-01 21:43:35,154 DEBUG    SET - lock acquire
+(Thread-1  ) 2018-12-01 21:43:35,154 DEBUG    starting
+(Thread-0  ) 2018-12-01 21:43:35,154 DEBUG    SET - semphore acquire
+(Thread-2  ) 2018-12-01 21:43:35,155 DEBUG    starting
+(Thread-1  ) 2018-12-01 21:43:35,155 DEBUG    GET - semphore acquire
+(Thread-0  ) 2018-12-01 21:43:35,157 DEBUG    SET - semphore acquire
+(Thread-2  ) 2018-12-01 21:43:35,157 DEBUG    GET - semphore acquire
+(Thread-3  ) 2018-12-01 21:43:35,158 DEBUG    starting
+(Thread-0  ) 2018-12-01 21:43:35,158 DEBUG    SET - semphore acquire
+(Thread-4  ) 2018-12-01 21:43:35,160 DEBUG    starting
+(Thread-3  ) 2018-12-01 21:43:35,161 DEBUG    GET - semphore acquire
+(Thread-0  ) 2018-12-01 21:43:35,161 DEBUG    SET - semphore acquire
+(Thread-4  ) 2018-12-01 21:43:35,163 DEBUG    GET - semphore acquire
+(Thread-5  ) 2018-12-01 21:43:35,161 DEBUG    starting
+(Thread-6  ) 2018-12-01 21:43:35,164 DEBUG    starting
+(Thread-0  ) 2018-12-01 21:43:35,164 DEBUG    SET - semphore acquire
+(Thread-5  ) 2018-12-01 21:43:35,165 DEBUG    GET - semphore acquire
+(Thread-1  ) 2018-12-01 21:43:35,167 DEBUG    GET - semphore release
+(Thread-6  ) 2018-12-01 21:43:35,167 DEBUG    GET - semphore acquire
+(Thread-7  ) 2018-12-01 21:43:35,167 DEBUG    starting
+(Thread-2  ) 2018-12-01 21:43:35,167 DEBUG    GET - semphore release
+(Thread-0  ) 2018-12-01 21:43:35,168 DEBUG    SET - semphore acquire
+(Thread-8  ) 2018-12-01 21:43:35,168 DEBUG    starting
+(Thread-1  ) 2018-12-01 21:43:35,170 DEBUG    answer - the value is - a
+(Thread-9  ) 2018-12-01 21:43:35,171 DEBUG    starting
+(Thread-3  ) 2018-12-01 21:43:35,171 DEBUG    GET - semphore release
+(Thread-7  ) 2018-12-01 21:43:35,171 DEBUG    GET - semphore acquire
+(Thread-2  ) 2018-12-01 21:43:35,171 DEBUG    answer - the value is - b
+(Thread-10 ) 2018-12-01 21:43:35,173 DEBUG    starting
+(Thread-4  ) 2018-12-01 21:43:35,174 DEBUG    GET - semphore release
+(Thread-0  ) 2018-12-01 21:43:35,174 DEBUG    SET - semphore acquire
+(Thread-11 ) 2018-12-01 21:43:35,174 DEBUG    starting
+(Thread-3  ) 2018-12-01 21:43:35,174 DEBUG    answer - the value is - c
+(Thread-5  ) 2018-12-01 21:43:35,176 DEBUG    GET - semphore release
+(Thread-8  ) 2018-12-01 21:43:35,177 DEBUG    GET - semphore acquire
+(Thread-12 ) 2018-12-01 21:43:35,177 DEBUG    starting
+(Thread-6  ) 2018-12-01 21:43:35,177 DEBUG    GET - semphore release
+(Thread-4  ) 2018-12-01 21:43:35,177 DEBUG    answer - the value is - d
+(Thread-9  ) 2018-12-01 21:43:35,177 DEBUG    GET - semphore acquire
+(Thread-13 ) 2018-12-01 21:43:35,177 DEBUG    starting
+(Thread-14 ) 2018-12-01 21:43:35,180 DEBUG    starting
+(Thread-5  ) 2018-12-01 21:43:35,180 DEBUG    answer - the value is - a
+(Thread-15 ) 2018-12-01 21:43:35,181 DEBUG    starting
+(Thread-7  ) 2018-12-01 21:43:35,183 DEBUG    GET - semphore release
+(Thread-6  ) 2018-12-01 21:43:35,181 DEBUG    answer - the value is - b
+(Thread-0  ) 2018-12-01 21:43:35,183 DEBUG    SET - semphore acquire
+(Thread-16 ) 2018-12-01 21:43:35,183 DEBUG    starting
+(Thread-17 ) 2018-12-01 21:43:35,184 DEBUG    starting
+(Thread-18 ) 2018-12-01 21:43:35,187 DEBUG    starting
+(Thread-7  ) 2018-12-01 21:43:35,186 DEBUG    answer - the value is - c
+(Thread-8  ) 2018-12-01 21:43:35,187 DEBUG    GET - semphore release
+(Thread-12 ) 2018-12-01 21:43:35,187 DEBUG    GET - semphore acquire
+(Thread-19 ) 2018-12-01 21:43:35,187 DEBUG    starting
+(Thread-9  ) 2018-12-01 21:43:35,188 DEBUG    GET - semphore release
+(Thread-20 ) 2018-12-01 21:43:35,188 DEBUG    starting
+(Thread-17 ) 2018-12-01 21:43:35,188 DEBUG    GET - semphore acquire
+(Thread-21 ) 2018-12-01 21:43:35,190 DEBUG    starting
+(Thread-8  ) 2018-12-01 21:43:35,190 DEBUG    answer - the value is - d
+(Thread-22 ) 2018-12-01 21:43:35,191 DEBUG    starting
+(Thread-23 ) 2018-12-01 21:43:35,193 DEBUG    starting
+(Thread-9  ) 2018-12-01 21:43:35,193 DEBUG    answer - invalid key
+(Thread-24 ) 2018-12-01 21:43:35,194 DEBUG    starting
+(Thread-25 ) 2018-12-01 21:43:35,196 DEBUG    starting
+(Thread-26 ) 2018-12-01 21:43:35,197 DEBUG    starting
+(Thread-12 ) 2018-12-01 21:43:35,197 DEBUG    GET - semphore release
+(Thread-14 ) 2018-12-01 21:43:35,197 DEBUG    GET - semphore acquire
+(Thread-17 ) 2018-12-01 21:43:35,198 DEBUG    GET - semphore release
+(Thread-26 ) 2018-12-01 21:43:35,198 DEBUG    GET - semphore acquire
+(Thread-27 ) 2018-12-01 21:43:35,198 DEBUG    starting
+(Thread-12 ) 2018-12-01 21:43:35,200 DEBUG    answer - the value is - a
+(Thread-28 ) 2018-12-01 21:43:35,200 DEBUG    starting
+(Thread-17 ) 2018-12-01 21:43:35,200 DEBUG    answer - invalid key
+(Thread-29 ) 2018-12-01 21:43:35,201 DEBUG    starting
+(Thread-30 ) 2018-12-01 21:43:35,203 DEBUG    starting
+(Thread-14 ) 2018-12-01 21:43:35,204 DEBUG    GET - semphore release
+(Thread-30 ) 2018-12-01 21:43:35,204 DEBUG    GET - semphore acquire
+(Thread-14 ) 2018-12-01 21:43:35,204 DEBUG    answer - the value is - c
+(Thread-26 ) 2018-12-01 21:43:35,206 DEBUG    GET - semphore release
+(Thread-16 ) 2018-12-01 21:43:35,206 DEBUG    GET - semphore acquire
+(Thread-26 ) 2018-12-01 21:43:35,207 DEBUG    answer - invalid key
+(Thread-30 ) 2018-12-01 21:43:35,207 DEBUG    GET - semphore release
+(Thread-13 ) 2018-12-01 21:43:35,207 DEBUG    GET - semphore acquire
+(Thread-16 ) 2018-12-01 21:43:35,207 DEBUG    GET - semphore release
+(Thread-18 ) 2018-12-01 21:43:35,209 DEBUG    GET - semphore acquire
+(Thread-30 ) 2018-12-01 21:43:35,209 DEBUG    answer - the value is - a
+(Thread-16 ) 2018-12-01 21:43:35,209 DEBUG    answer - invalid key
+(Thread-13 ) 2018-12-01 21:43:35,210 DEBUG    GET - semphore release
+(Thread-19 ) 2018-12-01 21:43:35,210 DEBUG    GET - semphore acquire
+(Thread-18 ) 2018-12-01 21:43:35,210 DEBUG    GET - semphore release
+(Thread-20 ) 2018-12-01 21:43:35,211 DEBUG    GET - semphore acquire
+(Thread-13 ) 2018-12-01 21:43:35,211 DEBUG    answer - the value is - b
+(Thread-18 ) 2018-12-01 21:43:35,211 DEBUG    answer - invalid key
+(Thread-22 ) 2018-12-01 21:43:35,213 DEBUG    GET - semphore acquire
+(Thread-19 ) 2018-12-01 21:43:35,213 DEBUG    GET - semphore release
+(Thread-20 ) 2018-12-01 21:43:35,214 DEBUG    GET - semphore release
+(Thread-23 ) 2018-12-01 21:43:35,214 DEBUG    GET - semphore acquire
+(Thread-19 ) 2018-12-01 21:43:35,214 DEBUG    answer - the value is - c
+(Thread-20 ) 2018-12-01 21:43:35,216 DEBUG    answer - the value is - d
+(Thread-22 ) 2018-12-01 21:43:35,217 DEBUG    GET - semphore release
+(Thread-24 ) 2018-12-01 21:43:35,217 DEBUG    GET - semphore acquire
+(Thread-23 ) 2018-12-01 21:43:35,217 DEBUG    GET - semphore release
+(Thread-25 ) 2018-12-01 21:43:35,217 DEBUG    GET - semphore acquire
+(Thread-22 ) 2018-12-01 21:43:35,217 DEBUG    answer - the value is - a
+(Thread-23 ) 2018-12-01 21:43:35,219 DEBUG    answer - the value is - b
+(Thread-25 ) 2018-12-01 21:43:35,220 DEBUG    GET - semphore release
+(Thread-15 ) 2018-12-01 21:43:35,220 DEBUG    GET - semphore acquire
+(Thread-24 ) 2018-12-01 21:43:35,220 DEBUG    GET - semphore release
+(Thread-27 ) 2018-12-01 21:43:35,220 DEBUG    GET - semphore acquire
+(Thread-25 ) 2018-12-01 21:43:35,220 DEBUG    answer - the value is - d
+(Thread-24 ) 2018-12-01 21:43:35,221 DEBUG    answer - the value is - c
+(Thread-15 ) 2018-12-01 21:43:35,223 DEBUG    GET - semphore release
+(Thread-27 ) 2018-12-01 21:43:35,223 DEBUG    GET - semphore release
+(Thread-28 ) 2018-12-01 21:43:35,223 DEBUG    GET - semphore acquire
+(Thread-29 ) 2018-12-01 21:43:35,223 DEBUG    GET - semphore acquire
+(Thread-15 ) 2018-12-01 21:43:35,223 DEBUG    answer - the value is - d
+(Thread-27 ) 2018-12-01 21:43:35,223 DEBUG    answer - invalid key
+(Thread-29 ) 2018-12-01 21:43:35,224 DEBUG    GET - semphore release
+(Thread-0  ) 2018-12-01 21:43:35,226 DEBUG    SET - semphore acquire
+(Thread-28 ) 2018-12-01 21:43:35,226 DEBUG    GET - semphore release
+(Thread-29 ) 2018-12-01 21:43:35,226 DEBUG    answer - invalid key
+(Thread-0  ) 2018-12-01 21:43:35,226 DEBUG    SET - semphore acquire
+(Thread-28 ) 2018-12-01 21:43:35,226 DEBUG    answer - invalid key
+(Thread-0  ) 2018-12-01 21:43:35,227 DEBUG    answer - Value was added
+(Thread-0  ) 2018-12-01 21:43:35,227 DEBUG    SET - semphore release
+(Thread-0  ) 2018-12-01 21:43:35,227 DEBUG    SET - semphore release
+(Thread-0  ) 2018-12-01 21:43:35,227 DEBUG    SET - semphore release
+(Thread-0  ) 2018-12-01 21:43:35,227 DEBUG    SET - semphore release
+(Thread-0  ) 2018-12-01 21:43:35,227 DEBUG    SET - semphore release
+(Thread-0  ) 2018-12-01 21:43:35,229 DEBUG    SET - semphore release
+(Thread-0  ) 2018-12-01 21:43:35,229 DEBUG    SET - semphore release
+(Thread-0  ) 2018-12-01 21:43:35,229 DEBUG    SET - semphore release
+(Thread-0  ) 2018-12-01 21:43:35,229 DEBUG    SET - semphore release
+(Thread-0  ) 2018-12-01 21:43:35,229 DEBUG    SET - semphore release
+(Thread-10 ) 2018-12-01 21:43:35,229 DEBUG    SET - lock acquire
+(Thread-0  ) 2018-12-01 21:43:35,229 DEBUG    SET - lock relese
+(Thread-10 ) 2018-12-01 21:43:35,229 DEBUG    SET - semphore acquire
+(Thread-10 ) 2018-12-01 21:43:35,230 DEBUG    SET - semphore acquire
+(Thread-10 ) 2018-12-01 21:43:35,230 DEBUG    SET - semphore acquire
+(Thread-10 ) 2018-12-01 21:43:35,230 DEBUG    SET - semphore acquire
+(Thread-10 ) 2018-12-01 21:43:35,230 DEBUG    SET - semphore acquire
+(Thread-10 ) 2018-12-01 21:43:35,230 DEBUG    SET - semphore acquire
+(Thread-10 ) 2018-12-01 21:43:35,230 DEBUG    SET - semphore acquire
+(Thread-10 ) 2018-12-01 21:43:35,230 DEBUG    SET - semphore acquire
+(Thread-10 ) 2018-12-01 21:43:35,230 DEBUG    SET - semphore acquire
+(Thread-10 ) 2018-12-01 21:43:35,230 DEBUG    SET - semphore acquire
+(Thread-10 ) 2018-12-01 21:43:35,232 DEBUG    answer - Value was added
+(Thread-10 ) 2018-12-01 21:43:35,232 DEBUG    SET - semphore release
+(Thread-10 ) 2018-12-01 21:43:35,232 DEBUG    SET - semphore release
+(Thread-10 ) 2018-12-01 21:43:35,232 DEBUG    SET - semphore release
+(Thread-10 ) 2018-12-01 21:43:35,232 DEBUG    SET - semphore release
+(Thread-10 ) 2018-12-01 21:43:35,232 DEBUG    SET - semphore release
+(Thread-10 ) 2018-12-01 21:43:35,232 DEBUG    SET - semphore release
+(Thread-10 ) 2018-12-01 21:43:35,232 DEBUG    SET - semphore release
+(Thread-10 ) 2018-12-01 21:43:35,232 DEBUG    SET - semphore release
+(Thread-10 ) 2018-12-01 21:43:35,232 DEBUG    SET - semphore release
+(Thread-10 ) 2018-12-01 21:43:35,232 DEBUG    SET - semphore release
+(Thread-10 ) 2018-12-01 21:43:35,232 DEBUG    SET - lock relese
+(Thread-11 ) 2018-12-01 21:43:35,232 DEBUG    SET - lock acquire
+(Thread-11 ) 2018-12-01 21:43:35,233 DEBUG    SET - semphore acquire
+(Thread-11 ) 2018-12-01 21:43:35,233 DEBUG    SET - semphore acquire
+(Thread-11 ) 2018-12-01 21:43:35,233 DEBUG    SET - semphore acquire
+(Thread-11 ) 2018-12-01 21:43:35,233 DEBUG    SET - semphore acquire
+(Thread-11 ) 2018-12-01 21:43:35,233 DEBUG    SET - semphore acquire
+(Thread-11 ) 2018-12-01 21:43:35,233 DEBUG    SET - semphore acquire
+(Thread-11 ) 2018-12-01 21:43:35,233 DEBUG    SET - semphore acquire
+(Thread-11 ) 2018-12-01 21:43:35,233 DEBUG    SET - semphore acquire
+(Thread-11 ) 2018-12-01 21:43:35,233 DEBUG    SET - semphore acquire
+(Thread-11 ) 2018-12-01 21:43:35,233 DEBUG    SET - semphore acquire
+(Thread-11 ) 2018-12-01 21:43:35,234 DEBUG    answer - Value was added
+(Thread-11 ) 2018-12-01 21:43:35,234 DEBUG    SET - semphore release
+(Thread-11 ) 2018-12-01 21:43:35,234 DEBUG    SET - semphore release
+(Thread-11 ) 2018-12-01 21:43:35,234 DEBUG    SET - semphore release
+(Thread-11 ) 2018-12-01 21:43:35,236 DEBUG    SET - semphore release
+(Thread-11 ) 2018-12-01 21:43:35,236 DEBUG    SET - semphore release
+(Thread-11 ) 2018-12-01 21:43:35,236 DEBUG    SET - semphore release
+(Thread-11 ) 2018-12-01 21:43:35,236 DEBUG    SET - semphore release
+(Thread-11 ) 2018-12-01 21:43:35,236 DEBUG    SET - semphore release
+(Thread-11 ) 2018-12-01 21:43:35,236 DEBUG    SET - semphore release
+(Thread-11 ) 2018-12-01 21:43:35,236 DEBUG    SET - semphore release
+(Thread-11 ) 2018-12-01 21:43:35,236 DEBUG    SET - lock relese
+(Thread-21 ) 2018-12-01 21:43:35,236 DEBUG    SET - lock acquire
+(Thread-21 ) 2018-12-01 21:43:35,236 DEBUG    SET - semphore acquire
+(Thread-21 ) 2018-12-01 21:43:35,236 DEBUG    SET - semphore acquire
+(Thread-21 ) 2018-12-01 21:43:35,236 DEBUG    SET - semphore acquire
+(Thread-21 ) 2018-12-01 21:43:35,236 DEBUG    SET - semphore acquire
+(Thread-21 ) 2018-12-01 21:43:35,236 DEBUG    SET - semphore acquire
+(Thread-21 ) 2018-12-01 21:43:35,236 DEBUG    SET - semphore acquire
+(Thread-21 ) 2018-12-01 21:43:35,236 DEBUG    SET - semphore acquire
+(Thread-21 ) 2018-12-01 21:43:35,236 DEBUG    SET - semphore acquire
+(Thread-21 ) 2018-12-01 21:43:35,236 DEBUG    SET - semphore acquire
+(Thread-21 ) 2018-12-01 21:43:35,237 DEBUG    SET - semphore acquire
+(Thread-21 ) 2018-12-01 21:43:35,239 DEBUG    answer - Value was added
+(Thread-21 ) 2018-12-01 21:43:35,239 DEBUG    SET - semphore release
+(Thread-21 ) 2018-12-01 21:43:35,239 DEBUG    SET - semphore release
+(Thread-21 ) 2018-12-01 21:43:35,239 DEBUG    SET - semphore release
+(Thread-21 ) 2018-12-01 21:43:35,240 DEBUG    SET - semphore release
+(Thread-21 ) 2018-12-01 21:43:35,240 DEBUG    SET - semphore release
+(Thread-21 ) 2018-12-01 21:43:35,240 DEBUG    SET - semphore release
+(Thread-21 ) 2018-12-01 21:43:35,240 DEBUG    SET - semphore release
+(Thread-21 ) 2018-12-01 21:43:35,240 DEBUG    SET - semphore release
+(Thread-21 ) 2018-12-01 21:43:35,240 DEBUG    SET - semphore release
+(Thread-21 ) 2018-12-01 21:43:35,240 DEBUG    SET - semphore release
+(Thread-21 ) 2018-12-01 21:43:35,240 DEBUG    SET - lock relese
+(Thread-1  ) 2018-12-01 21:43:37,174 DEBUG    Exiting
+(Thread-2  ) 2018-12-01 21:43:37,177 DEBUG    Exiting
+(Thread-3  ) 2018-12-01 21:43:37,180 DEBUG    Exiting
+(Thread-4  ) 2018-12-01 21:43:37,183 DEBUG    Exiting
+(Thread-5  ) 2018-12-01 21:43:37,186 DEBUG    Exiting
+(Thread-6  ) 2018-12-01 21:43:37,187 DEBUG    Exiting
+(Thread-7  ) 2018-12-01 21:43:37,190 DEBUG    Exiting
+(Thread-8  ) 2018-12-01 21:43:37,194 DEBUG    Exiting
+(Thread-9  ) 2018-12-01 21:43:37,197 DEBUG    Exiting
+(Thread-12 ) 2018-12-01 21:43:37,203 DEBUG    Exiting
+(Thread-17 ) 2018-12-01 21:43:37,203 DEBUG    Exiting
+(Thread-14 ) 2018-12-01 21:43:37,207 DEBUG    Exiting
+(Thread-26 ) 2018-12-01 21:43:37,207 DEBUG    Exiting
+(Thread-30 ) 2018-12-01 21:43:37,210 DEBUG    Exiting
+(Thread-16 ) 2018-12-01 21:43:37,210 DEBUG    Exiting
+(Thread-18 ) 2018-12-01 21:43:37,213 DEBUG    Exiting
+(Thread-13 ) 2018-12-01 21:43:37,213 DEBUG    Exiting
+(Thread-19 ) 2018-12-01 21:43:37,217 DEBUG    Exiting
+(Thread-20 ) 2018-12-01 21:43:37,217 DEBUG    Exiting
+(Thread-23 ) 2018-12-01 21:43:37,220 DEBUG    Exiting
+(Thread-22 ) 2018-12-01 21:43:37,220 DEBUG    Exiting
+(Thread-24 ) 2018-12-01 21:43:37,223 DEBUG    Exiting
+(Thread-25 ) 2018-12-01 21:43:37,223 DEBUG    Exiting
+(Thread-15 ) 2018-12-01 21:43:37,224 DEBUG    Exiting
+(Thread-27 ) 2018-12-01 21:43:37,224 DEBUG    Exiting
+(Thread-28 ) 2018-12-01 21:43:37,226 DEBUG    Exiting
+(Thread-29 ) 2018-12-01 21:43:37,226 DEBUG    Exiting
+(Thread-0  ) 2018-12-01 21:43:37,230 DEBUG    Exiting
+(Thread-10 ) 2018-12-01 21:43:37,233 DEBUG    Exiting
+(Thread-11 ) 2018-12-01 21:43:37,237 DEBUG    Exiting
+(Thread-21 ) 2018-12-01 21:43:37,242 DEBUG    Exiting
+(Thread-10 ) 2018-12-01 21:48:06,351 DEBUG    starting
+(Thread-11 ) 2018-12-01 21:48:06,352 DEBUG    starting
+(Thread-12 ) 2018-12-01 21:48:06,354 DEBUG    starting
+(Thread-13 ) 2018-12-01 21:48:06,354 DEBUG    starting
+(Thread-0  ) 2018-12-01 21:48:16,355 DEBUG    starting
+(Thread-1  ) 2018-12-01 21:48:16,355 DEBUG    starting
+(Thread-2  ) 2018-12-01 21:48:16,357 DEBUG    starting
+(Thread-3  ) 2018-12-01 21:48:16,358 DEBUG    starting
+(Thread-4  ) 2018-12-01 21:48:16,358 DEBUG    starting
+(Thread-5  ) 2018-12-01 21:48:16,358 DEBUG    starting
+(Thread-6  ) 2018-12-01 21:48:16,358 DEBUG    starting
+(Thread-7  ) 2018-12-01 21:48:16,359 DEBUG    starting
+(Thread-8  ) 2018-12-01 21:48:16,359 DEBUG    starting
+(Thread-9  ) 2018-12-01 21:48:16,361 DEBUG    starting
+(Thread-10 ) 2018-12-01 21:48:16,361 DEBUG    starting
+(Thread-11 ) 2018-12-01 21:48:16,361 DEBUG    starting
+(Thread-12 ) 2018-12-01 21:48:16,361 DEBUG    starting
+(Thread-13 ) 2018-12-01 21:48:16,361 DEBUG    starting
+(Thread-14 ) 2018-12-01 21:48:16,362 DEBUG    starting
+(Thread-15 ) 2018-12-01 21:48:16,364 DEBUG    starting
+(Thread-16 ) 2018-12-01 21:48:16,364 DEBUG    starting
+(Thread-17 ) 2018-12-01 21:48:16,365 DEBUG    starting
+(Thread-18 ) 2018-12-01 21:48:16,365 DEBUG    starting
+(Thread-19 ) 2018-12-01 21:48:16,365 DEBUG    starting
+(Thread-20 ) 2018-12-01 21:48:16,365 DEBUG    starting
+(Thread-21 ) 2018-12-01 21:48:16,367 DEBUG    starting
+(Thread-22 ) 2018-12-01 21:48:16,367 DEBUG    starting
+(Thread-23 ) 2018-12-01 21:48:16,368 DEBUG    starting
+(Thread-24 ) 2018-12-01 21:48:16,368 DEBUG    starting
+(Thread-25 ) 2018-12-01 21:48:16,368 DEBUG    starting
+(Thread-26 ) 2018-12-01 21:48:16,369 DEBUG    starting
+(Thread-27 ) 2018-12-01 21:48:16,369 DEBUG    starting
+(Thread-28 ) 2018-12-01 21:48:16,369 DEBUG    starting
+(Thread-29 ) 2018-12-01 21:48:16,371 DEBUG    starting
+(Thread-30 ) 2018-12-01 21:48:16,371 DEBUG    starting
+(Thread-10 ) 2018-12-01 21:49:14,171 DEBUG    starting
+(Thread-10 ) 2018-12-01 21:49:14,171 DEBUG    SET - lock acquire
+(Thread-10 ) 2018-12-01 21:49:14,171 DEBUG    SET - semphore acquire
+(Thread-10 ) 2018-12-01 21:49:14,171 DEBUG    SET - semphore acquire
+(Thread-10 ) 2018-12-01 21:49:14,173 DEBUG    SET - semphore acquire
+(Thread-10 ) 2018-12-01 21:49:14,173 DEBUG    SET - semphore acquire
+(Thread-11 ) 2018-12-01 21:49:14,173 DEBUG    starting
+(Thread-10 ) 2018-12-01 21:49:14,173 DEBUG    SET - semphore acquire
+(Thread-10 ) 2018-12-01 21:49:14,173 DEBUG    SET - semphore acquire
+(Thread-10 ) 2018-12-01 21:49:14,173 DEBUG    SET - semphore acquire
+(Thread-10 ) 2018-12-01 21:49:14,173 DEBUG    SET - semphore acquire
+(Thread-10 ) 2018-12-01 21:49:14,173 DEBUG    SET - semphore acquire
+(Thread-10 ) 2018-12-01 21:49:14,174 DEBUG    SET - semphore acquire
+(Thread-12 ) 2018-12-01 21:49:14,174 DEBUG    starting
+(Thread-10 ) 2018-12-01 21:49:14,174 DEBUG    answer - Value was added
+(Thread-10 ) 2018-12-01 21:49:14,174 DEBUG    SET - semphore release
+(Thread-10 ) 2018-12-01 21:49:14,174 DEBUG    SET - semphore release
+(Thread-10 ) 2018-12-01 21:49:14,174 DEBUG    SET - semphore release
+(Thread-10 ) 2018-12-01 21:49:14,174 DEBUG    SET - semphore release
+(Thread-10 ) 2018-12-01 21:49:14,174 DEBUG    SET - semphore release
+(Thread-10 ) 2018-12-01 21:49:14,174 DEBUG    SET - semphore release
+(Thread-10 ) 2018-12-01 21:49:14,176 DEBUG    SET - semphore release
+(Thread-10 ) 2018-12-01 21:49:14,176 DEBUG    SET - semphore release
+(Thread-13 ) 2018-12-01 21:49:14,176 DEBUG    starting
+(Thread-10 ) 2018-12-01 21:49:14,176 DEBUG    SET - semphore release
+(Thread-10 ) 2018-12-01 21:49:14,176 DEBUG    SET - semphore release
+(Thread-10 ) 2018-12-01 21:49:14,176 DEBUG    SET - lock relese
+(Thread-11 ) 2018-12-01 21:49:14,176 DEBUG    SET - lock acquire
+(Thread-11 ) 2018-12-01 21:49:14,176 DEBUG    SET - semphore acquire
+(Thread-11 ) 2018-12-01 21:49:14,176 DEBUG    SET - semphore acquire
+(Thread-11 ) 2018-12-01 21:49:14,177 DEBUG    SET - semphore acquire
+(Thread-11 ) 2018-12-01 21:49:14,177 DEBUG    SET - semphore acquire
+(Thread-11 ) 2018-12-01 21:49:14,177 DEBUG    SET - semphore acquire
+(Thread-11 ) 2018-12-01 21:49:14,177 DEBUG    SET - semphore acquire
+(Thread-11 ) 2018-12-01 21:49:14,177 DEBUG    SET - semphore acquire
+(Thread-11 ) 2018-12-01 21:49:14,177 DEBUG    SET - semphore acquire
+(Thread-11 ) 2018-12-01 21:49:14,177 DEBUG    SET - semphore acquire
+(Thread-11 ) 2018-12-01 21:49:14,177 DEBUG    SET - semphore acquire
+(Thread-11 ) 2018-12-01 21:49:14,184 DEBUG    answer - Value was added
+(Thread-11 ) 2018-12-01 21:49:14,184 DEBUG    SET - semphore release
+(Thread-11 ) 2018-12-01 21:49:14,184 DEBUG    SET - semphore release
+(Thread-11 ) 2018-12-01 21:49:14,184 DEBUG    SET - semphore release
+(Thread-11 ) 2018-12-01 21:49:14,184 DEBUG    SET - semphore release
+(Thread-11 ) 2018-12-01 21:49:14,184 DEBUG    SET - semphore release
+(Thread-11 ) 2018-12-01 21:49:14,184 DEBUG    SET - semphore release
+(Thread-11 ) 2018-12-01 21:49:14,184 DEBUG    SET - semphore release
+(Thread-11 ) 2018-12-01 21:49:14,184 DEBUG    SET - semphore release
+(Thread-11 ) 2018-12-01 21:49:14,184 DEBUG    SET - semphore release
+(Thread-11 ) 2018-12-01 21:49:14,184 DEBUG    SET - semphore release
+(Thread-11 ) 2018-12-01 21:49:14,184 DEBUG    SET - lock relese
+(Thread-12 ) 2018-12-01 21:49:14,184 DEBUG    SET - lock acquire
+(Thread-12 ) 2018-12-01 21:49:14,184 DEBUG    SET - semphore acquire
+(Thread-12 ) 2018-12-01 21:49:14,184 DEBUG    SET - semphore acquire
+(Thread-12 ) 2018-12-01 21:49:14,184 DEBUG    SET - semphore acquire
+(Thread-12 ) 2018-12-01 21:49:14,184 DEBUG    SET - semphore acquire
+(Thread-12 ) 2018-12-01 21:49:14,184 DEBUG    SET - semphore acquire
+(Thread-12 ) 2018-12-01 21:49:14,184 DEBUG    SET - semphore acquire
+(Thread-12 ) 2018-12-01 21:49:14,184 DEBUG    SET - semphore acquire
+(Thread-12 ) 2018-12-01 21:49:14,186 DEBUG    SET - semphore acquire
+(Thread-12 ) 2018-12-01 21:49:14,186 DEBUG    SET - semphore acquire
+(Thread-12 ) 2018-12-01 21:49:14,186 DEBUG    SET - semphore acquire
+(Thread-12 ) 2018-12-01 21:49:14,187 DEBUG    answer - Value was added
+(Thread-12 ) 2018-12-01 21:49:14,187 DEBUG    SET - semphore release
+(Thread-12 ) 2018-12-01 21:49:14,187 DEBUG    SET - semphore release
+(Thread-12 ) 2018-12-01 21:49:14,187 DEBUG    SET - semphore release
+(Thread-12 ) 2018-12-01 21:49:14,187 DEBUG    SET - semphore release
+(Thread-12 ) 2018-12-01 21:49:14,187 DEBUG    SET - semphore release
+(Thread-12 ) 2018-12-01 21:49:14,187 DEBUG    SET - semphore release
+(Thread-12 ) 2018-12-01 21:49:14,187 DEBUG    SET - semphore release
+(Thread-12 ) 2018-12-01 21:49:14,187 DEBUG    SET - semphore release
+(Thread-12 ) 2018-12-01 21:49:14,187 DEBUG    SET - semphore release
+(Thread-12 ) 2018-12-01 21:49:14,187 DEBUG    SET - semphore release
+(Thread-12 ) 2018-12-01 21:49:14,187 DEBUG    SET - lock relese
+(Thread-13 ) 2018-12-01 21:49:14,187 DEBUG    SET - lock acquire
+(Thread-13 ) 2018-12-01 21:49:14,187 DEBUG    SET - semphore acquire
+(Thread-13 ) 2018-12-01 21:49:14,187 DEBUG    SET - semphore acquire
+(Thread-13 ) 2018-12-01 21:49:14,187 DEBUG    SET - semphore acquire
+(Thread-13 ) 2018-12-01 21:49:14,187 DEBUG    SET - semphore acquire
+(Thread-13 ) 2018-12-01 21:49:14,187 DEBUG    SET - semphore acquire
+(Thread-13 ) 2018-12-01 21:49:14,187 DEBUG    SET - semphore acquire
+(Thread-13 ) 2018-12-01 21:49:14,188 DEBUG    SET - semphore acquire
+(Thread-13 ) 2018-12-01 21:49:14,188 DEBUG    SET - semphore acquire
+(Thread-13 ) 2018-12-01 21:49:14,188 DEBUG    SET - semphore acquire
+(Thread-13 ) 2018-12-01 21:49:14,188 DEBUG    SET - semphore acquire
+(Thread-13 ) 2018-12-01 21:49:14,190 DEBUG    answer - Value was added
+(Thread-13 ) 2018-12-01 21:49:14,190 DEBUG    SET - semphore release
+(Thread-13 ) 2018-12-01 21:49:14,190 DEBUG    SET - semphore release
+(Thread-13 ) 2018-12-01 21:49:14,190 DEBUG    SET - semphore release
+(Thread-13 ) 2018-12-01 21:49:14,190 DEBUG    SET - semphore release
+(Thread-13 ) 2018-12-01 21:49:14,190 DEBUG    SET - semphore release
+(Thread-13 ) 2018-12-01 21:49:14,190 DEBUG    SET - semphore release
+(Thread-13 ) 2018-12-01 21:49:14,190 DEBUG    SET - semphore release
+(Thread-13 ) 2018-12-01 21:49:14,190 DEBUG    SET - semphore release
+(Thread-13 ) 2018-12-01 21:49:14,190 DEBUG    SET - semphore release
+(Thread-13 ) 2018-12-01 21:49:14,190 DEBUG    SET - semphore release
+(Thread-13 ) 2018-12-01 21:49:14,190 DEBUG    SET - lock relese
+(Thread-10 ) 2018-12-01 21:49:16,177 DEBUG    Exiting
+(Thread-11 ) 2018-12-01 21:49:16,186 DEBUG    Exiting
+(Thread-12 ) 2018-12-01 21:49:16,188 DEBUG    Exiting
+(Thread-13 ) 2018-12-01 21:49:16,191 DEBUG    Exiting
+(Thread-0  ) 2018-12-01 21:49:24,177 DEBUG    starting
+(Thread-1  ) 2018-12-01 21:49:24,177 DEBUG    starting
+(Thread-0  ) 2018-12-01 21:49:24,178 DEBUG    SET - lock acquire
+(Thread-1  ) 2018-12-01 21:49:24,180 DEBUG    GET - semphore acquire
+(Thread-0  ) 2018-12-01 21:49:24,180 DEBUG    SET - semphore acquire
+(Thread-2  ) 2018-12-01 21:49:24,180 DEBUG    starting
+(Thread-3  ) 2018-12-01 21:49:24,181 DEBUG    starting
+(Thread-0  ) 2018-12-01 21:49:24,181 DEBUG    SET - semphore acquire
+(Thread-2  ) 2018-12-01 21:49:24,183 DEBUG    GET - semphore acquire
+(Thread-4  ) 2018-12-01 21:49:24,183 DEBUG    starting
+(Thread-3  ) 2018-12-01 21:49:24,184 DEBUG    GET - semphore acquire
+(Thread-0  ) 2018-12-01 21:49:24,184 DEBUG    SET - semphore acquire
+(Thread-5  ) 2018-12-01 21:49:24,184 DEBUG    starting
+(Thread-4  ) 2018-12-01 21:49:24,184 DEBUG    GET - semphore acquire
+(Thread-0  ) 2018-12-01 21:49:24,186 DEBUG    SET - semphore acquire
+(Thread-6  ) 2018-12-01 21:49:24,187 DEBUG    starting
+(Thread-5  ) 2018-12-01 21:49:24,187 DEBUG    GET - semphore acquire
+(Thread-7  ) 2018-12-01 21:49:24,187 DEBUG    starting
+(Thread-0  ) 2018-12-01 21:49:24,188 DEBUG    SET - semphore acquire
+(Thread-1  ) 2018-12-01 21:49:24,188 DEBUG    GET - semphore release
+(Thread-6  ) 2018-12-01 21:49:24,190 DEBUG    GET - semphore acquire
+(Thread-8  ) 2018-12-01 21:49:24,190 DEBUG    starting
+(Thread-9  ) 2018-12-01 21:49:24,191 DEBUG    starting
+(Thread-2  ) 2018-12-01 21:49:24,193 DEBUG    GET - semphore release
+(Thread-1  ) 2018-12-01 21:49:24,193 DEBUG    answer - the value is - a
+(Thread-7  ) 2018-12-01 21:49:24,194 DEBUG    GET - semphore acquire
+(Thread-3  ) 2018-12-01 21:49:24,194 DEBUG    GET - semphore release
+(Thread-0  ) 2018-12-01 21:49:24,194 DEBUG    SET - semphore acquire
+(Thread-10 ) 2018-12-01 21:49:24,194 DEBUG    starting
+(Thread-2  ) 2018-12-01 21:49:24,196 DEBUG    answer - the value is - b
+(Thread-11 ) 2018-12-01 21:49:24,197 DEBUG    starting
+(Thread-4  ) 2018-12-01 21:49:24,197 DEBUG    GET - semphore release
+(Thread-8  ) 2018-12-01 21:49:24,197 DEBUG    GET - semphore acquire
+(Thread-5  ) 2018-12-01 21:49:24,197 DEBUG    GET - semphore release
+(Thread-9  ) 2018-12-01 21:49:24,198 DEBUG    GET - semphore acquire
+(Thread-12 ) 2018-12-01 21:49:24,198 DEBUG    starting
+(Thread-3  ) 2018-12-01 21:49:24,197 DEBUG    answer - the value is - c
+(Thread-13 ) 2018-12-01 21:49:24,200 DEBUG    starting
+(Thread-6  ) 2018-12-01 21:49:24,200 DEBUG    GET - semphore release
+(Thread-4  ) 2018-12-01 21:49:24,201 DEBUG    answer - the value is - d
+(Thread-0  ) 2018-12-01 21:49:24,200 DEBUG    SET - semphore acquire
+(Thread-14 ) 2018-12-01 21:49:24,201 DEBUG    starting
+(Thread-5  ) 2018-12-01 21:49:24,203 DEBUG    answer - the value is - a
+(Thread-15 ) 2018-12-01 21:49:24,203 DEBUG    starting
+(Thread-7  ) 2018-12-01 21:49:24,204 DEBUG    GET - semphore release
+(Thread-12 ) 2018-12-01 21:49:24,204 DEBUG    GET - semphore acquire
+(Thread-16 ) 2018-12-01 21:49:24,206 DEBUG    starting
+(Thread-6  ) 2018-12-01 21:49:24,207 DEBUG    answer - the value is - b
+(Thread-17 ) 2018-12-01 21:49:24,207 DEBUG    starting
+(Thread-8  ) 2018-12-01 21:49:24,209 DEBUG    GET - semphore release
+(Thread-18 ) 2018-12-01 21:49:24,209 DEBUG    starting
+(Thread-13 ) 2018-12-01 21:49:24,209 DEBUG    GET - semphore acquire
+(Thread-19 ) 2018-12-01 21:49:24,210 DEBUG    starting
+(Thread-9  ) 2018-12-01 21:49:24,210 DEBUG    GET - semphore release
+(Thread-7  ) 2018-12-01 21:49:24,210 DEBUG    answer - the value is - c
+(Thread-0  ) 2018-12-01 21:49:24,210 DEBUG    SET - semphore acquire
+(Thread-20 ) 2018-12-01 21:49:24,211 DEBUG    starting
+(Thread-21 ) 2018-12-01 21:49:24,213 DEBUG    starting
+(Thread-8  ) 2018-12-01 21:49:24,213 DEBUG    answer - the value is - d
+(Thread-22 ) 2018-12-01 21:49:24,214 DEBUG    starting
+(Thread-9  ) 2018-12-01 21:49:24,214 DEBUG    answer - invalid key
+(Thread-23 ) 2018-12-01 21:49:24,216 DEBUG    starting
+(Thread-12 ) 2018-12-01 21:49:24,217 DEBUG    GET - semphore release
+(Thread-20 ) 2018-12-01 21:49:24,217 DEBUG    GET - semphore acquire
+(Thread-24 ) 2018-12-01 21:49:24,217 DEBUG    starting
+(Thread-25 ) 2018-12-01 21:49:24,219 DEBUG    starting
+(Thread-13 ) 2018-12-01 21:49:24,220 DEBUG    GET - semphore release
+(Thread-12 ) 2018-12-01 21:49:24,220 DEBUG    answer - the value is - a
+(Thread-15 ) 2018-12-01 21:49:24,220 DEBUG    GET - semphore acquire
+(Thread-26 ) 2018-12-01 21:49:24,220 DEBUG    starting
+(Thread-13 ) 2018-12-01 21:49:24,221 DEBUG    answer - the value is - b
+(Thread-27 ) 2018-12-01 21:49:24,223 DEBUG    starting
+(Thread-28 ) 2018-12-01 21:49:24,223 DEBUG    starting
+(Thread-29 ) 2018-12-01 21:49:24,224 DEBUG    starting
+(Thread-20 ) 2018-12-01 21:49:24,226 DEBUG    GET - semphore release
+(Thread-16 ) 2018-12-01 21:49:24,226 DEBUG    GET - semphore acquire
+(Thread-30 ) 2018-12-01 21:49:24,226 DEBUG    starting
+(Thread-20 ) 2018-12-01 21:49:24,226 DEBUG    answer - the value is - d
+(Thread-15 ) 2018-12-01 21:49:24,227 DEBUG    GET - semphore release
+(Thread-17 ) 2018-12-01 21:49:24,227 DEBUG    GET - semphore acquire
+(Thread-15 ) 2018-12-01 21:49:24,229 DEBUG    answer - the value is - d
+(Thread-16 ) 2018-12-01 21:49:24,230 DEBUG    GET - semphore release
+(Thread-18 ) 2018-12-01 21:49:24,230 DEBUG    GET - semphore acquire
+(Thread-16 ) 2018-12-01 21:49:24,230 DEBUG    answer - invalid key
+(Thread-17 ) 2018-12-01 21:49:24,230 DEBUG    GET - semphore release
+(Thread-19 ) 2018-12-01 21:49:24,230 DEBUG    GET - semphore acquire
+(Thread-17 ) 2018-12-01 21:49:24,232 DEBUG    answer - invalid key
+(Thread-18 ) 2018-12-01 21:49:24,233 DEBUG    GET - semphore release
+(Thread-0  ) 2018-12-01 21:49:24,233 DEBUG    SET - semphore acquire
+(Thread-18 ) 2018-12-01 21:49:24,233 DEBUG    answer - invalid key
+(Thread-19 ) 2018-12-01 21:49:24,233 DEBUG    GET - semphore release
+(Thread-14 ) 2018-12-01 21:49:24,233 DEBUG    GET - semphore acquire
+(Thread-19 ) 2018-12-01 21:49:24,233 DEBUG    answer - the value is - c
+(Thread-14 ) 2018-12-01 21:49:24,234 DEBUG    GET - semphore release
+(Thread-22 ) 2018-12-01 21:49:24,234 DEBUG    GET - semphore acquire
+(Thread-14 ) 2018-12-01 21:49:24,234 DEBUG    answer - the value is - c
+(Thread-22 ) 2018-12-01 21:49:24,236 DEBUG    GET - semphore release
+(Thread-23 ) 2018-12-01 21:49:24,236 DEBUG    GET - semphore acquire
+(Thread-22 ) 2018-12-01 21:49:24,236 DEBUG    answer - the value is - a
+(Thread-23 ) 2018-12-01 21:49:24,236 DEBUG    GET - semphore release
+(Thread-24 ) 2018-12-01 21:49:24,236 DEBUG    GET - semphore acquire
+(Thread-23 ) 2018-12-01 21:49:24,237 DEBUG    answer - the value is - b
+(Thread-24 ) 2018-12-01 21:49:24,239 DEBUG    GET - semphore release
+(Thread-25 ) 2018-12-01 21:49:24,239 DEBUG    GET - semphore acquire
+(Thread-24 ) 2018-12-01 21:49:24,239 DEBUG    answer - the value is - c
+(Thread-25 ) 2018-12-01 21:49:24,240 DEBUG    GET - semphore release
+(Thread-26 ) 2018-12-01 21:49:24,240 DEBUG    GET - semphore acquire
+(Thread-25 ) 2018-12-01 21:49:24,240 DEBUG    answer - the value is - d
+(Thread-26 ) 2018-12-01 21:49:24,242 DEBUG    GET - semphore release
+(Thread-27 ) 2018-12-01 21:49:24,242 DEBUG    GET - semphore acquire
+(Thread-26 ) 2018-12-01 21:49:24,242 DEBUG    answer - invalid key
+(Thread-27 ) 2018-12-01 21:49:24,243 DEBUG    GET - semphore release
+(Thread-28 ) 2018-12-01 21:49:24,243 DEBUG    GET - semphore acquire
+(Thread-27 ) 2018-12-01 21:49:24,243 DEBUG    answer - invalid key
+(Thread-28 ) 2018-12-01 21:49:24,243 DEBUG    GET - semphore release
+(Thread-29 ) 2018-12-01 21:49:24,243 DEBUG    GET - semphore acquire
+(Thread-28 ) 2018-12-01 21:49:24,244 DEBUG    answer - invalid key
+(Thread-29 ) 2018-12-01 21:49:24,246 DEBUG    GET - semphore release
+(Thread-30 ) 2018-12-01 21:49:24,246 DEBUG    GET - semphore acquire
+(Thread-29 ) 2018-12-01 21:49:24,246 DEBUG    answer - invalid key
+(Thread-30 ) 2018-12-01 21:49:24,246 DEBUG    GET - semphore release
+(Thread-0  ) 2018-12-01 21:49:24,246 DEBUG    SET - semphore acquire
+(Thread-30 ) 2018-12-01 21:49:24,246 DEBUG    answer - the value is - a
+(Thread-0  ) 2018-12-01 21:49:24,256 DEBUG    answer - Value was added
+(Thread-0  ) 2018-12-01 21:49:24,256 DEBUG    SET - semphore release
+(Thread-0  ) 2018-12-01 21:49:24,256 DEBUG    SET - semphore release
+(Thread-0  ) 2018-12-01 21:49:24,256 DEBUG    SET - semphore release
+(Thread-0  ) 2018-12-01 21:49:24,256 DEBUG    SET - semphore release
+(Thread-0  ) 2018-12-01 21:49:24,256 DEBUG    SET - semphore release
+(Thread-0  ) 2018-12-01 21:49:24,256 DEBUG    SET - semphore release
+(Thread-0  ) 2018-12-01 21:49:24,256 DEBUG    SET - semphore release
+(Thread-0  ) 2018-12-01 21:49:24,256 DEBUG    SET - semphore release
+(Thread-0  ) 2018-12-01 21:49:24,256 DEBUG    SET - semphore release
+(Thread-0  ) 2018-12-01 21:49:24,256 DEBUG    SET - semphore release
+(Thread-0  ) 2018-12-01 21:49:24,257 DEBUG    SET - lock relese
+(Thread-10 ) 2018-12-01 21:49:24,257 DEBUG    SET - lock acquire
+(Thread-10 ) 2018-12-01 21:49:24,257 DEBUG    SET - semphore acquire
+(Thread-10 ) 2018-12-01 21:49:24,259 DEBUG    SET - semphore acquire
+(Thread-10 ) 2018-12-01 21:49:24,259 DEBUG    SET - semphore acquire
+(Thread-10 ) 2018-12-01 21:49:24,259 DEBUG    SET - semphore acquire
+(Thread-10 ) 2018-12-01 21:49:24,259 DEBUG    SET - semphore acquire
+(Thread-10 ) 2018-12-01 21:49:24,259 DEBUG    SET - semphore acquire
+(Thread-10 ) 2018-12-01 21:49:24,259 DEBUG    SET - semphore acquire
+(Thread-10 ) 2018-12-01 21:49:24,259 DEBUG    SET - semphore acquire
+(Thread-10 ) 2018-12-01 21:49:24,259 DEBUG    SET - semphore acquire
+(Thread-10 ) 2018-12-01 21:49:24,259 DEBUG    SET - semphore acquire
+(Thread-10 ) 2018-12-01 21:49:24,263 DEBUG    answer - Value was added
+(Thread-10 ) 2018-12-01 21:49:24,263 DEBUG    SET - semphore release
+(Thread-10 ) 2018-12-01 21:49:24,263 DEBUG    SET - semphore release
+(Thread-10 ) 2018-12-01 21:49:24,263 DEBUG    SET - semphore release
+(Thread-10 ) 2018-12-01 21:49:24,263 DEBUG    SET - semphore release
+(Thread-10 ) 2018-12-01 21:49:24,263 DEBUG    SET - semphore release
+(Thread-10 ) 2018-12-01 21:49:24,263 DEBUG    SET - semphore release
+(Thread-10 ) 2018-12-01 21:49:24,263 DEBUG    SET - semphore release
+(Thread-10 ) 2018-12-01 21:49:24,263 DEBUG    SET - semphore release
+(Thread-10 ) 2018-12-01 21:49:24,263 DEBUG    SET - semphore release
+(Thread-10 ) 2018-12-01 21:49:24,265 DEBUG    SET - semphore release
+(Thread-10 ) 2018-12-01 21:49:24,265 DEBUG    SET - lock relese
+(Thread-11 ) 2018-12-01 21:49:24,265 DEBUG    SET - lock acquire
+(Thread-11 ) 2018-12-01 21:49:24,266 DEBUG    SET - semphore acquire
+(Thread-11 ) 2018-12-01 21:49:24,266 DEBUG    SET - semphore acquire
+(Thread-11 ) 2018-12-01 21:49:24,266 DEBUG    SET - semphore acquire
+(Thread-11 ) 2018-12-01 21:49:24,266 DEBUG    SET - semphore acquire
+(Thread-11 ) 2018-12-01 21:49:24,266 DEBUG    SET - semphore acquire
+(Thread-11 ) 2018-12-01 21:49:24,266 DEBUG    SET - semphore acquire
+(Thread-11 ) 2018-12-01 21:49:24,266 DEBUG    SET - semphore acquire
+(Thread-11 ) 2018-12-01 21:49:24,266 DEBUG    SET - semphore acquire
+(Thread-11 ) 2018-12-01 21:49:24,266 DEBUG    SET - semphore acquire
+(Thread-11 ) 2018-12-01 21:49:24,266 DEBUG    SET - semphore acquire
+(Thread-11 ) 2018-12-01 21:49:24,269 DEBUG    answer - Value was added
+(Thread-11 ) 2018-12-01 21:49:24,269 DEBUG    SET - semphore release
+(Thread-11 ) 2018-12-01 21:49:24,269 DEBUG    SET - semphore release
+(Thread-11 ) 2018-12-01 21:49:24,269 DEBUG    SET - semphore release
+(Thread-11 ) 2018-12-01 21:49:24,269 DEBUG    SET - semphore release
+(Thread-11 ) 2018-12-01 21:49:24,269 DEBUG    SET - semphore release
+(Thread-11 ) 2018-12-01 21:49:24,270 DEBUG    SET - semphore release
+(Thread-11 ) 2018-12-01 21:49:24,270 DEBUG    SET - semphore release
+(Thread-11 ) 2018-12-01 21:49:24,270 DEBUG    SET - semphore release
+(Thread-11 ) 2018-12-01 21:49:24,270 DEBUG    SET - semphore release
+(Thread-11 ) 2018-12-01 21:49:24,270 DEBUG    SET - semphore release
+(Thread-11 ) 2018-12-01 21:49:24,270 DEBUG    SET - lock relese
+(Thread-21 ) 2018-12-01 21:49:24,270 DEBUG    SET - lock acquire
+(Thread-21 ) 2018-12-01 21:49:24,272 DEBUG    SET - semphore acquire
+(Thread-21 ) 2018-12-01 21:49:24,272 DEBUG    SET - semphore acquire
+(Thread-21 ) 2018-12-01 21:49:24,272 DEBUG    SET - semphore acquire
+(Thread-21 ) 2018-12-01 21:49:24,273 DEBUG    SET - semphore acquire
+(Thread-21 ) 2018-12-01 21:49:24,273 DEBUG    SET - semphore acquire
+(Thread-21 ) 2018-12-01 21:49:24,273 DEBUG    SET - semphore acquire
+(Thread-21 ) 2018-12-01 21:49:24,273 DEBUG    SET - semphore acquire
+(Thread-21 ) 2018-12-01 21:49:24,273 DEBUG    SET - semphore acquire
+(Thread-21 ) 2018-12-01 21:49:24,273 DEBUG    SET - semphore acquire
+(Thread-21 ) 2018-12-01 21:49:24,273 DEBUG    SET - semphore acquire
+(Thread-21 ) 2018-12-01 21:49:24,276 DEBUG    answer - Value was added
+(Thread-21 ) 2018-12-01 21:49:24,276 DEBUG    SET - semphore release
+(Thread-21 ) 2018-12-01 21:49:24,276 DEBUG    SET - semphore release
+(Thread-21 ) 2018-12-01 21:49:24,276 DEBUG    SET - semphore release
+(Thread-21 ) 2018-12-01 21:49:24,276 DEBUG    SET - semphore release
+(Thread-21 ) 2018-12-01 21:49:24,276 DEBUG    SET - semphore release
+(Thread-21 ) 2018-12-01 21:49:24,276 DEBUG    SET - semphore release
+(Thread-21 ) 2018-12-01 21:49:24,276 DEBUG    SET - semphore release
+(Thread-21 ) 2018-12-01 21:49:24,276 DEBUG    SET - semphore release
+(Thread-21 ) 2018-12-01 21:49:24,276 DEBUG    SET - semphore release
+(Thread-21 ) 2018-12-01 21:49:24,278 DEBUG    SET - semphore release
+(Thread-21 ) 2018-12-01 21:49:24,278 DEBUG    SET - lock relese
+(Thread-1  ) 2018-12-01 21:49:26,197 DEBUG    Exiting
+(Thread-2  ) 2018-12-01 21:49:26,200 DEBUG    Exiting
+(Thread-3  ) 2018-12-01 21:49:26,206 DEBUG    Exiting
+(Thread-4  ) 2018-12-01 21:49:26,207 DEBUG    Exiting
+(Thread-5  ) 2018-12-01 21:49:26,210 DEBUG    Exiting
+(Thread-6  ) 2018-12-01 21:49:26,213 DEBUG    Exiting
+(Thread-7  ) 2018-12-01 21:49:26,217 DEBUG    Exiting
+(Thread-8  ) 2018-12-01 21:49:26,219 DEBUG    Exiting
+(Thread-9  ) 2018-12-01 21:49:26,220 DEBUG    Exiting
+(Thread-12 ) 2018-12-01 21:49:26,223 DEBUG    Exiting
+(Thread-13 ) 2018-12-01 21:49:26,224 DEBUG    Exiting
+(Thread-20 ) 2018-12-01 21:49:26,229 DEBUG    Exiting
+(Thread-15 ) 2018-12-01 21:49:26,230 DEBUG    Exiting
+(Thread-16 ) 2018-12-01 21:49:26,232 DEBUG    Exiting
+(Thread-17 ) 2018-12-01 21:49:26,233 DEBUG    Exiting
+(Thread-18 ) 2018-12-01 21:49:26,234 DEBUG    Exiting
+(Thread-19 ) 2018-12-01 21:49:26,236 DEBUG    Exiting
+(Thread-14 ) 2018-12-01 21:49:26,236 DEBUG    Exiting
+(Thread-22 ) 2018-12-01 21:49:26,237 DEBUG    Exiting
+(Thread-23 ) 2018-12-01 21:49:26,240 DEBUG    Exiting
+(Thread-24 ) 2018-12-01 21:49:26,240 DEBUG    Exiting
+(Thread-25 ) 2018-12-01 21:49:26,243 DEBUG    Exiting
+(Thread-26 ) 2018-12-01 21:49:26,243 DEBUG    Exiting
+(Thread-27 ) 2018-12-01 21:49:26,244 DEBUG    Exiting
+(Thread-28 ) 2018-12-01 21:49:26,246 DEBUG    Exiting
+(Thread-29 ) 2018-12-01 21:49:26,247 DEBUG    Exiting
+(Thread-30 ) 2018-12-01 21:49:26,249 DEBUG    Exiting
+(Thread-0  ) 2018-12-01 21:49:26,259 DEBUG    Exiting
+(Thread-10 ) 2018-12-01 21:49:26,266 DEBUG    Exiting
+(Thread-11 ) 2018-12-01 21:49:26,273 DEBUG    Exiting
+(Thread-21 ) 2018-12-01 21:49:26,279 DEBUG    Exiting
+(MainThread) 2018-12-01 21:58:02,522 DEBUG    starting
+(MainThread) 2018-12-01 21:58:02,528 DEBUG    starting
+(MainThread) 2018-12-01 21:58:02,532 DEBUG    starting
+(MainThread) 2018-12-01 21:58:02,558 DEBUG    starting
+(MainThread) 2018-12-01 21:58:04,523 DEBUG    Exiting
+(MainThread) 2018-12-01 21:58:04,528 DEBUG    Exiting
+(MainThread) 2018-12-01 21:58:04,532 DEBUG    Exiting
+(MainThread) 2018-12-01 21:58:04,558 DEBUG    Exiting
+(MainThread) 2018-12-01 22:00:45,071 DEBUG    starting
+(MainThread) 2018-12-01 22:00:45,072 DEBUG    starting
+(MainThread) 2018-12-01 22:00:45,072 DEBUG    starting
+(MainThread) 2018-12-01 22:00:45,076 DEBUG    starting
+(MainThread) 2018-12-01 22:00:47,072 DEBUG    Exiting
+(MainThread) 2018-12-01 22:00:47,072 DEBUG    Exiting
+(MainThread) 2018-12-01 22:00:47,076 DEBUG    Exiting
+(MainThread) 2018-12-01 22:01:50,082 DEBUG    starting
+(MainThread) 2018-12-01 22:01:50,094 DEBUG    starting
+(MainThread) 2018-12-01 22:01:50,096 DEBUG    starting
+(MainThread) 2018-12-01 22:01:50,096 DEBUG    starting
+(MainThread) 2018-12-01 22:01:52,084 DEBUG    Exiting
+(MainThread) 2018-12-01 22:01:52,095 DEBUG    Exiting
+(MainThread) 2018-12-01 22:01:52,098 DEBUG    Exiting
+(MainThread) 2018-12-01 22:01:52,098 DEBUG    Exiting
+(MainThread) 2018-12-01 22:02:21,798 DEBUG    starting
+(MainThread) 2018-12-01 22:02:21,799 DEBUG    starting
+(MainThread) 2018-12-01 22:02:21,801 DEBUG    starting
+(MainThread) 2018-12-01 22:02:21,803 DEBUG    starting
+(MainThread) 2018-12-01 22:02:23,799 DEBUG    Exiting
+(MainThread) 2018-12-01 22:02:23,799 DEBUG    Exiting
+(MainThread) 2018-12-01 22:02:23,802 DEBUG    Exiting
+(MainThread) 2018-12-01 22:02:23,805 DEBUG    Exiting
+(MainThread) 2018-12-01 22:03:02,571 DEBUG    starting
+(MainThread) 2018-12-01 22:03:02,584 DEBUG    starting
+(MainThread) 2018-12-01 22:03:02,585 DEBUG    starting
+(MainThread) 2018-12-01 22:03:02,585 DEBUG    starting
+(MainThread) 2018-12-01 22:03:04,572 DEBUG    Exiting
+(MainThread) 2018-12-01 22:03:04,585 DEBUG    Exiting
+(MainThread) 2018-12-01 22:03:04,586 DEBUG    Exiting
+(MainThread) 2018-12-01 22:03:15,903 DEBUG    starting
+(MainThread) 2018-12-01 22:03:15,913 DEBUG    starting
+(MainThread) 2018-12-01 22:03:15,921 DEBUG    starting
+(MainThread) 2018-12-01 22:03:15,928 DEBUG    starting
+(MainThread) 2018-12-01 22:03:17,904 DEBUG    Exiting
+(MainThread) 2018-12-01 22:03:17,914 DEBUG    Exiting
+(MainThread) 2018-12-01 22:03:17,923 DEBUG    Exiting
+(MainThread) 2018-12-01 22:03:17,930 DEBUG    Exiting
+(MainThread) 2018-12-01 22:03:34,342 DEBUG    starting
+(MainThread) 2018-12-01 22:03:34,348 DEBUG    starting
+(MainThread) 2018-12-01 22:03:34,358 DEBUG    starting
+(MainThread) 2018-12-01 22:03:34,361 DEBUG    starting
+(MainThread) 2018-12-01 22:03:36,342 DEBUG    Exiting
+(MainThread) 2018-12-01 22:03:36,348 DEBUG    Exiting
+(MainThread) 2018-12-01 22:03:36,358 DEBUG    Exiting
+(MainThread) 2018-12-01 22:03:36,361 DEBUG    Exiting
+(MainThread) 2018-12-01 22:03:58,161 DEBUG    starting
+(MainThread) 2018-12-01 22:03:58,161 DEBUG    starting
+(MainThread) 2018-12-01 22:03:58,161 DEBUG    SET - lock acquire
+(MainThread) 2018-12-01 22:03:58,161 DEBUG    starting
+(MainThread) 2018-12-01 22:03:58,161 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:03:58,161 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:03:58,161 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:03:58,161 DEBUG    starting
+hore acquire
+(MainThread) 2018-12-01 22:03:58,161 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:03:58,161 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:03:58,161 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:03:58,163 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:03:58,163 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:03:58,163 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:03:58,167 DEBUG    answer - Value was added
+(MainThread) 2018-12-01 22:03:58,167 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:03:58,167 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:03:58,167 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:03:58,167 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:03:58,167 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:03:58,167 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:03:58,167 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:03:58,167 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:03:58,167 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:03:58,167 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:03:58,167 DEBUG    SET - lock relese
+(MainThread) 2018-12-01 22:03:58,167 DEBUG    SET - lock acquire
+(MainThread) 2018-12-01 22:03:58,167 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:03:58,167 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:03:58,167 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:03:58,167 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:03:58,167 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:03:58,167 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:03:58,167 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:03:58,167 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:03:58,167 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:03:58,167 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:03:58,171 DEBUG    answer - Value was added
+(MainThread) 2018-12-01 22:03:58,171 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:03:58,171 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:03:58,173 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:03:58,173 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:03:58,173 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:03:58,173 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:03:58,173 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:03:58,173 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:03:58,173 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:03:58,173 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:03:58,173 DEBUG    SET - lock relese
+(MainThread) 2018-12-01 22:03:58,173 DEBUG    SET - lock acquire
+(MainThread) 2018-12-01 22:03:58,173 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:03:58,173 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:03:58,173 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:03:58,173 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:03:58,174 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:03:58,174 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:03:58,174 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:03:58,174 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:03:58,174 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:03:58,174 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:03:58,176 DEBUG    answer - Value was added
+(MainThread) 2018-12-01 22:03:58,176 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:03:58,176 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:03:58,176 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:03:58,176 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:03:58,176 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:03:58,176 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:03:58,176 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:03:58,176 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:03:58,176 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:03:58,176 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:03:58,176 DEBUG    SET - lock relese
+(MainThread) 2018-12-01 22:03:58,176 DEBUG    SET - lock acquire
+(MainThread) 2018-12-01 22:03:58,177 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:03:58,177 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:03:58,177 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:03:58,177 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:03:58,177 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:03:58,177 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:03:58,177 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:03:58,177 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:03:58,177 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:03:58,177 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:03:58,180 DEBUG    answer - Value was added
+(MainThread) 2018-12-01 22:03:58,181 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:03:58,181 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:03:58,181 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:03:58,181 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:03:58,181 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:03:58,181 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:03:58,181 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:03:58,181 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:03:58,181 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:03:58,181 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:03:58,181 DEBUG    SET - lock relese
+(MainThread) 2018-12-01 22:04:00,167 DEBUG    Exiting
+(MainThread) 2018-12-01 22:04:00,174 DEBUG    Exiting
+(MainThread) 2018-12-01 22:04:00,177 DEBUG    Exiting
+(MainThread) 2018-12-01 22:04:00,183 DEBUG    Exiting
+(MainThread) 2018-12-01 22:05:47,907 DEBUG    starting
+(MainThread) 2018-12-01 22:05:47,907 DEBUG    SET - lock acquire
+(MainThread) 2018-12-01 22:05:47,907 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:05:47,907 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:05:47,907 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:05:47,907 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:05:47,907 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:05:47,907 DEBUG    starting
+(MainThread) 2018-12-01 22:05:47,907 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:05:47,907 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:05:47,907 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:05:47,907 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:05:47,907 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:05:47,910 DEBUG    answer - Value was added
+(MainThread) 2018-12-01 22:05:47,910 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:05:47,910 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:05:47,910 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:05:47,910 DEBUG    starting
+(MainThread) 2018-12-01 22:05:47,910 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:05:47,910 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:05:47,910 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:05:47,910 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:05:47,910 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:05:47,910 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:05:47,910 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:05:47,910 DEBUG    SET - lock relese
+(MainThread) 2018-12-01 22:05:47,911 DEBUG    SET - lock acquire
+(MainThread) 2018-12-01 22:05:47,911 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:05:47,911 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:05:47,911 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:05:47,911 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:05:47,911 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:05:47,911 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:05:47,911 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:05:47,911 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:05:47,911 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:05:47,911 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:05:47,911 DEBUG    starting
+(MainThread) 2018-12-01 22:05:47,913 DEBUG    answer - Value was added
+(MainThread) 2018-12-01 22:05:47,913 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:05:47,913 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:05:47,913 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:05:47,913 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:05:47,913 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:05:47,914 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:05:47,914 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:05:47,914 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:05:47,914 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:05:47,914 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:05:47,914 DEBUG    SET - lock relese
+(MainThread) 2018-12-01 22:05:47,914 DEBUG    SET - lock acquire
+(MainThread) 2018-12-01 22:05:47,914 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:05:47,914 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:05:47,914 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:05:47,914 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:05:47,914 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:05:47,914 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:05:47,914 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:05:47,914 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:05:47,914 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:05:47,914 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:05:47,915 DEBUG    answer - Value was added
+(MainThread) 2018-12-01 22:05:47,915 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:05:47,915 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:05:47,915 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:05:47,915 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:05:47,917 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:05:47,917 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:05:47,917 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:05:47,917 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:05:47,917 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:05:47,917 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:05:47,917 DEBUG    SET - lock relese
+(MainThread) 2018-12-01 22:05:47,917 DEBUG    SET - lock acquire
+(MainThread) 2018-12-01 22:05:47,917 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:05:47,917 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:05:47,917 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:05:47,917 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:05:47,917 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:05:47,917 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:05:47,917 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:05:47,917 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:05:47,917 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:05:47,917 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:05:47,918 DEBUG    answer - Value was added
+(MainThread) 2018-12-01 22:05:47,918 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:05:47,918 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:05:47,918 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:05:47,918 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:05:47,920 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:05:47,920 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:05:47,920 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:05:47,920 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:05:47,920 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:05:47,920 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:05:47,920 DEBUG    SET - lock relese
+(MainThread) 2018-12-01 22:05:49,911 DEBUG    Exiting
+(MainThread) 2018-12-01 22:05:49,914 DEBUG    Exiting
+(MainThread) 2018-12-01 22:05:49,917 DEBUG    Exiting
+(MainThread) 2018-12-01 22:05:49,921 DEBUG    Exiting
+(MainThread) 2018-12-01 22:06:34,568 DEBUG    starting
+(MainThread) 2018-12-01 22:06:34,568 DEBUG    SET - lock acquire
+(MainThread) 2018-12-01 22:06:34,568 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:06:34,568 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:06:34,569 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:06:34,569 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:06:34,569 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:06:34,569 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:06:34,569 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:06:34,569 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:06:34,569 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:06:34,569 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:06:34,569 DEBUG    starting
+(MainThread) 2018-12-01 22:06:34,571 DEBUG    answer - Value was added
+(MainThread) 2018-12-01 22:06:34,571 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:06:34,571 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:06:34,571 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:06:34,571 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:06:34,571 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:06:34,571 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:06:34,571 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:06:34,571 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:06:34,571 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:06:34,571 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:06:34,572 DEBUG    SET - lock relese
+(MainThread) 2018-12-01 22:06:34,572 DEBUG    SET - lock acquire
+(MainThread) 2018-12-01 22:06:34,572 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:06:34,572 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:06:34,572 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:06:34,572 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:06:34,572 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:06:34,572 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:06:34,572 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:06:34,572 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:06:34,572 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:06:34,572 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:06:34,573 DEBUG    answer - Value was added
+(MainThread) 2018-12-01 22:06:34,573 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:06:34,573 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:06:34,573 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:06:34,573 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:06:34,573 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:06:34,573 DEBUG    starting
+(MainThread) 2018-12-01 22:06:34,575 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:06:34,575 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:06:34,575 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:06:34,575 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:06:34,575 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:06:34,575 DEBUG    SET - lock relese
+(MainThread) 2018-12-01 22:06:34,575 DEBUG    SET - lock acquire
+(MainThread) 2018-12-01 22:06:34,575 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:06:34,575 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:06:34,575 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:06:34,575 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:06:34,575 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:06:34,575 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:06:34,575 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:06:34,575 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:06:34,575 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:06:34,575 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:06:34,576 DEBUG    answer - Value was added
+(MainThread) 2018-12-01 22:06:34,578 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:06:34,578 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:06:34,578 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:06:34,578 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:06:34,578 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:06:34,578 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:06:34,578 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:06:34,578 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:06:34,578 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:06:34,578 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:06:34,578 DEBUG    SET - lock relese
+(MainThread) 2018-12-01 22:06:34,584 DEBUG    starting
+(MainThread) 2018-12-01 22:06:34,585 DEBUG    SET - lock acquire
+(MainThread) 2018-12-01 22:06:34,585 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:06:34,585 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:06:34,585 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:06:34,585 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:06:34,585 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:06:34,585 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:06:34,585 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:06:34,585 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:06:34,585 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:06:34,585 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:06:34,586 DEBUG    answer - Value was added
+(MainThread) 2018-12-01 22:06:34,586 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:06:34,586 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:06:34,586 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:06:34,586 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:06:34,586 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:06:34,586 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:06:34,586 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:06:34,586 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:06:34,588 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:06:34,588 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:06:34,588 DEBUG    SET - lock relese
+(MainThread) 2018-12-01 22:06:36,572 DEBUG    Exiting
+(MainThread) 2018-12-01 22:06:36,575 DEBUG    Exiting
+(MainThread) 2018-12-01 22:06:36,578 DEBUG    Exiting
+(MainThread) 2018-12-01 22:06:36,588 DEBUG    Exiting
+(MainThread) 2018-12-01 22:06:57,322 DEBUG    starting
+(MainThread) 2018-12-01 22:06:57,322 DEBUG    starting
+(MainThread) 2018-12-01 22:06:57,322 DEBUG    SET - lock acquire
+(MainThread) 2018-12-01 22:06:57,322 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:06:57,322 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:06:57,322 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:06:57,322 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:06:57,322 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:06:57,322 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:06:57,322 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:06:57,322 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:06:57,322 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:06:57,322 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:06:57,322 DEBUG    starting
+(MainThread) 2018-12-01 22:06:57,326 DEBUG    answer - Value was added
+(MainThread) 2018-12-01 22:06:57,326 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:06:57,326 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:06:57,326 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:06:57,326 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:06:57,326 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:06:57,326 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:06:57,328 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:06:57,328 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:06:57,328 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:06:57,328 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:06:57,328 DEBUG    SET - lock relese
+(MainThread) 2018-12-01 22:06:57,328 DEBUG    SET - lock acquire
+(MainThread) 2018-12-01 22:06:57,328 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:06:57,328 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:06:57,328 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:06:57,328 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:06:57,328 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:06:57,328 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:06:57,328 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:06:57,328 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:06:57,328 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:06:57,328 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:06:57,328 DEBUG    starting
+(MainThread) 2018-12-01 22:06:57,332 DEBUG    answer - Value was added
+(MainThread) 2018-12-01 22:06:57,332 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:06:57,332 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:06:57,332 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:06:57,332 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:06:57,332 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:06:57,332 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:06:57,332 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:06:57,332 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:06:57,334 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:06:57,334 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:06:57,334 DEBUG    SET - lock relese
+(MainThread) 2018-12-01 22:06:57,334 DEBUG    SET - lock acquire
+(MainThread) 2018-12-01 22:06:57,334 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:06:57,334 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:06:57,334 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:06:57,334 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:06:57,334 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:06:57,334 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:06:57,334 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:06:57,334 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:06:57,334 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:06:57,334 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:06:57,338 DEBUG    answer - Value was added
+(MainThread) 2018-12-01 22:06:57,338 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:06:57,338 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:06:57,338 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:06:57,338 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:06:57,338 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:06:57,338 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:06:57,338 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:06:57,338 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:06:57,338 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:06:57,338 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:06:57,339 DEBUG    SET - lock relese
+(MainThread) 2018-12-01 22:06:57,339 DEBUG    SET - lock acquire
+(MainThread) 2018-12-01 22:06:57,339 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:06:57,339 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:06:57,339 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:06:57,339 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:06:57,339 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:06:57,339 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:06:57,339 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:06:57,339 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:06:57,339 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:06:57,339 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:06:57,342 DEBUG    answer - Value was added
+(MainThread) 2018-12-01 22:06:57,342 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:06:57,342 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:06:57,342 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:06:57,342 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:06:57,342 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:06:57,342 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:06:57,342 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:06:57,342 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:06:57,342 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:06:57,342 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:06:57,342 DEBUG    SET - lock relese
+(MainThread) 2018-12-01 22:06:59,328 DEBUG    Exiting
+(MainThread) 2018-12-01 22:06:59,335 DEBUG    Exiting
+(MainThread) 2018-12-01 22:06:59,341 DEBUG    Exiting
+(MainThread) 2018-12-01 22:06:59,344 DEBUG    Exiting
+(MainThread) 2018-12-01 22:07:07,420 DEBUG    starting
+(MainThread) 2018-12-01 22:07:07,420 DEBUG    SET - lock acquire
+(MainThread) 2018-12-01 22:07:07,420 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:07:07,420 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:07:07,420 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:07:07,421 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:07:07,421 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:07:07,421 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:07:07,421 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:07:07,421 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:07:07,421 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:07:07,421 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:07:07,421 DEBUG    starting
+(MainThread) 2018-12-01 22:07:07,476 DEBUG    starting
+(MainThread) 2018-12-01 22:07:07,476 DEBUG    starting
+(MainThread) 2018-12-01 22:07:07,490 DEBUG    answer - Value was added
+(MainThread) 2018-12-01 22:07:07,490 DEBUG    GET - semphore acquire
+(MainThread) 2018-12-01 22:07:07,490 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:07:07,490 DEBUG    GET - semphore acquire
+(MainThread) 2018-12-01 22:07:07,490 DEBUG    GET - semphore release
+(MainThread) 2018-12-01 22:07:07,490 DEBUG    answer - the value is - a
+(MainThread) 2018-12-01 22:07:07,490 DEBUG    GET - semphore acquire
+(MainThread) 2018-12-01 22:07:07,490 DEBUG    GET - semphore release
+(MainThread) 2018-12-01 22:07:07,490 DEBUG    GET - semphore release
+(MainThread) 2018-12-01 22:07:07,492 DEBUG    answer - the value is - c
+(MainThread) 2018-12-01 22:07:07,492 DEBUG    answer - the value is - d
+(MainThread) 2018-12-01 22:07:07,492 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:07:07,492 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:07:07,492 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:07:07,492 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:07:07,492 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:07:07,492 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:07:07,492 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:07:07,492 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:07:07,492 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:07:07,492 DEBUG    SET - lock relese
+(MainThread) 2018-12-01 22:07:07,637 DEBUG    starting
+(MainThread) 2018-12-01 22:07:07,637 DEBUG    GET - semphore acquire
+(MainThread) 2018-12-01 22:07:07,638 DEBUG    GET - semphore release
+(MainThread) 2018-12-01 22:07:07,638 DEBUG    answer - the value is - b
+(MainThread) 2018-12-01 22:07:08,670 DEBUG    starting
+(MainThread) 2018-12-01 22:07:08,670 DEBUG    GET - semphore acquire
+(MainThread) 2018-12-01 22:07:08,671 DEBUG    GET - semphore release
+(MainThread) 2018-12-01 22:07:08,671 DEBUG    answer - the value is - a
+(MainThread) 2018-12-01 22:07:08,678 DEBUG    starting
+(MainThread) 2018-12-01 22:07:08,678 DEBUG    SET - lock acquire
+(MainThread) 2018-12-01 22:07:08,678 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:07:08,678 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:07:08,678 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:07:08,678 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:07:08,680 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:07:08,680 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:07:08,680 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:07:08,680 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:07:08,680 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:07:08,680 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:07:08,680 DEBUG    starting
+(MainThread) 2018-12-01 22:07:08,684 DEBUG    starting
+(MainThread) 2018-12-01 22:07:08,684 DEBUG    starting
+(MainThread) 2018-12-01 22:07:08,686 DEBUG    starting
+(MainThread) 2018-12-01 22:07:08,687 DEBUG    starting
+(MainThread) 2018-12-01 22:07:08,690 DEBUG    starting
+(MainThread) 2018-12-01 22:07:08,690 DEBUG    starting
+(MainThread) 2018-12-01 22:07:08,691 DEBUG    starting
+(MainThread) 2018-12-01 22:07:08,693 DEBUG    starting
+(MainThread) 2018-12-01 22:07:08,693 DEBUG    starting
+(MainThread) 2018-12-01 22:07:08,694 DEBUG    starting
+(MainThread) 2018-12-01 22:07:08,696 DEBUG    starting
+(MainThread) 2018-12-01 22:07:08,719 DEBUG    starting
+(MainThread) 2018-12-01 22:07:08,730 DEBUG    starting
+(MainThread) 2018-12-01 22:07:08,730 DEBUG    starting
+(MainThread) 2018-12-01 22:07:08,730 DEBUG    starting
+(MainThread) 2018-12-01 22:07:08,740 DEBUG    starting
+(MainThread) 2018-12-01 22:07:08,756 DEBUG    starting
+(MainThread) 2018-12-01 22:07:08,756 DEBUG    starting
+(MainThread) 2018-12-01 22:07:08,757 DEBUG    starting
+(MainThread) 2018-12-01 22:07:08,759 DEBUG    starting
+(MainThread) 2018-12-01 22:07:08,759 DEBUG    answer - Value was added
+(MainThread) 2018-12-01 22:07:08,759 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:07:08,759 DEBUG    GET - semphore acquire
+(MainThread) 2018-12-01 22:07:08,759 DEBUG    GET - semphore acquire
+(MainThread) 2018-12-01 22:07:08,760 DEBUG    GET - semphore release
+(MainThread) 2018-12-01 22:07:08,760 DEBUG    GET - semphore acquire
+(MainThread) 2018-12-01 22:07:08,760 DEBUG    GET - semphore release
+(MainThread) 2018-12-01 22:07:08,760 DEBUG    answer - the value is - c
+(MainThread) 2018-12-01 22:07:08,760 DEBUG    answer - the value is - e
+(MainThread) 2018-12-01 22:07:08,760 DEBUG    GET - semphore acquire
+(MainThread) 2018-12-01 22:07:08,762 DEBUG    GET - semphore release
+(MainThread) 2018-12-01 22:07:08,762 DEBUG    GET - semphore acquire
+(MainThread) 2018-12-01 22:07:08,762 DEBUG    answer - invalid key
+(MainThread) 2018-12-01 22:07:08,762 DEBUG    GET - semphore release
+(MainThread) 2018-12-01 22:07:08,762 DEBUG    answer - the value is - f
+(MainThread) 2018-12-01 22:07:08,762 DEBUG    GET - semphore release
+(MainThread) 2018-12-01 22:07:08,763 DEBUG    answer - invalid key
+(MainThread) 2018-12-01 22:07:08,763 DEBUG    GET - semphore release
+(MainThread) 2018-12-01 22:07:08,763 DEBUG    answer - the value is - b
+(MainThread) 2018-12-01 22:07:08,763 DEBUG    GET - semphore acquire
+(MainThread) 2018-12-01 22:07:08,763 DEBUG    GET - semphore release
+(MainThread) 2018-12-01 22:07:08,763 DEBUG    GET - semphore acquire
+(MainThread) 2018-12-01 22:07:08,763 DEBUG    answer - the value is - e
+(MainThread) 2018-12-01 22:07:08,763 DEBUG    GET - semphore acquire
+(MainThread) 2018-12-01 22:07:08,763 DEBUG    GET - semphore release
+(MainThread) 2018-12-01 22:07:08,763 DEBUG    answer - the value is - d
+(MainThread) 2018-12-01 22:07:08,763 DEBUG    GET - semphore release
+(MainThread) 2018-12-01 22:07:08,763 DEBUG    GET - semphore acquire
+(MainThread) 2018-12-01 22:07:08,763 DEBUG    answer - the value is - c
+(MainThread) 2018-12-01 22:07:08,763 DEBUG    answer - the value is - c
+(MainThread) 2018-12-01 22:07:08,763 DEBUG    GET - semphore acquire
+(MainThread) 2018-12-01 22:07:08,765 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:07:08,765 DEBUG    GET - semphore acquire
+(MainThread) 2018-12-01 22:07:08,765 DEBUG    GET - semphore release
+(MainThread) 2018-12-01 22:07:08,765 DEBUG    GET - semphore release
+(MainThread) 2018-12-01 22:07:08,765 DEBUG    answer - the value is - b
+(MainThread) 2018-12-01 22:07:08,765 DEBUG    answer - the value is - a
+(MainThread) 2018-12-01 22:07:08,765 DEBUG    GET - semphore acquire
+(MainThread) 2018-12-01 22:07:08,765 DEBUG    GET - semphore acquire
+(MainThread) 2018-12-01 22:07:08,766 DEBUG    GET - semphore release
+(MainThread) 2018-12-01 22:07:08,766 DEBUG    answer - the value is - a
+(MainThread) 2018-12-01 22:07:08,766 DEBUG    GET - semphore acquire
+(MainThread) 2018-12-01 22:07:08,766 DEBUG    GET - semphore release
+(MainThread) 2018-12-01 22:07:08,766 DEBUG    answer - the value is - e
+(MainThread) 2018-12-01 22:07:08,766 DEBUG    GET - semphore release
+(MainThread) 2018-12-01 22:07:08,766 DEBUG    GET - semphore acquire
+(MainThread) 2018-12-01 22:07:08,766 DEBUG    GET - semphore release
+(MainThread) 2018-12-01 22:07:08,766 DEBUG    answer - the value is - d
+(MainThread) 2018-12-01 22:07:08,766 DEBUG    answer - the value is - b
+(MainThread) 2018-12-01 22:07:08,766 DEBUG    GET - semphore acquire
+(MainThread) 2018-12-01 22:07:08,766 DEBUG    GET - semphore acquire
+(MainThread) 2018-12-01 22:07:08,766 DEBUG    starting
+(MainThread) 2018-12-01 22:07:08,766 DEBUG    GET - semphore release
+(MainThread) 2018-12-01 22:07:08,766 DEBUG    answer - the value is - c
+(MainThread) 2018-12-01 22:07:08,766 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:07:08,766 DEBUG    GET - semphore release
+(MainThread) 2018-12-01 22:07:08,767 DEBUG    answer - the value is - d
+(MainThread) 2018-12-01 22:07:08,767 DEBUG    GET - semphore release
+(MainThread) 2018-12-01 22:07:08,766 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:07:08,767 DEBUG    answer - the value is - a
+(MainThread) 2018-12-01 22:07:08,767 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:07:08,767 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:07:08,767 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:07:08,767 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:07:08,767 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:07:08,767 DEBUG    GET - semphore release
+(MainThread) 2018-12-01 22:07:08,767 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:07:08,767 DEBUG    answer - the value is - f
+(MainThread) 2018-12-01 22:07:08,767 DEBUG    SET - lock relese
+(MainThread) 2018-12-01 22:07:08,767 DEBUG    SET - lock acquire
+(MainThread) 2018-12-01 22:07:08,767 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:07:08,767 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:07:08,767 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:07:08,767 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:07:08,769 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:07:08,769 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:07:08,769 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:07:08,769 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:07:08,769 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:07:08,769 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:07:08,776 DEBUG    answer - Value was added
+(MainThread) 2018-12-01 22:07:08,776 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:07:08,776 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:07:08,776 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:07:08,776 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:07:08,776 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:07:08,776 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:07:08,776 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:07:08,776 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:07:08,776 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:07:08,776 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:07:08,776 DEBUG    SET - lock relese
+(MainThread) 2018-12-01 22:07:08,776 DEBUG    SET - lock acquire
+(MainThread) 2018-12-01 22:07:08,776 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:07:08,776 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:07:08,776 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:07:08,776 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:07:08,776 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:07:08,776 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:07:08,776 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:07:08,776 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:07:08,776 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:07:08,776 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:07:08,779 DEBUG    answer - Value was added
+(MainThread) 2018-12-01 22:07:08,779 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:07:08,779 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:07:08,779 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:07:08,779 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:07:08,779 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:07:08,779 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:07:08,779 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:07:08,779 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:07:08,779 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:07:08,779 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:07:08,779 DEBUG    SET - lock relese
+(MainThread) 2018-12-01 22:07:08,786 DEBUG    starting
+(MainThread) 2018-12-01 22:07:08,786 DEBUG    GET - semphore acquire
+(MainThread) 2018-12-01 22:07:08,786 DEBUG    starting
+(MainThread) 2018-12-01 22:07:08,786 DEBUG    GET - semphore acquire
+(MainThread) 2018-12-01 22:07:08,788 DEBUG    GET - semphore release
+(MainThread) 2018-12-01 22:07:08,788 DEBUG    answer - the value is - g
+(MainThread) 2018-12-01 22:07:08,788 DEBUG    GET - semphore release
+(MainThread) 2018-12-01 22:07:08,788 DEBUG    answer - the value is - d
+(MainThread) 2018-12-01 22:07:09,492 DEBUG    Exiting
+(MainThread) 2018-12-01 22:07:09,493 DEBUG    Exiting
+(MainThread) 2018-12-01 22:07:09,493 DEBUG    Exiting
+(MainThread) 2018-12-01 22:07:09,493 DEBUG    Exiting
+(MainThread) 2018-12-01 22:07:09,638 DEBUG    Exiting
+(MainThread) 2018-12-01 22:07:10,671 DEBUG    Exiting
+(MainThread) 2018-12-01 22:07:10,762 DEBUG    Exiting
+(MainThread) 2018-12-01 22:07:10,763 DEBUG    Exiting
+(MainThread) 2018-12-01 22:07:10,763 DEBUG    Exiting
+(MainThread) 2018-12-01 22:07:10,763 DEBUG    Exiting
+(MainThread) 2018-12-01 22:07:10,763 DEBUG    Exiting
+(MainThread) 2018-12-01 22:07:10,765 DEBUG    Exiting
+(MainThread) 2018-12-01 22:07:10,765 DEBUG    Exiting
+(MainThread) 2018-12-01 22:07:10,766 DEBUG    Exiting
+(MainThread) 2018-12-01 22:07:10,766 DEBUG    Exiting
+(MainThread) 2018-12-01 22:07:10,766 DEBUG    Exiting
+(MainThread) 2018-12-01 22:07:10,766 DEBUG    Exiting
+(MainThread) 2018-12-01 22:07:10,766 DEBUG    Exiting
+(MainThread) 2018-12-01 22:07:10,767 DEBUG    Exiting
+(MainThread) 2018-12-01 22:07:10,767 DEBUG    Exiting
+(MainThread) 2018-12-01 22:07:10,767 DEBUG    Exiting
+(MainThread) 2018-12-01 22:07:10,769 DEBUG    Exiting
+(MainThread) 2018-12-01 22:07:10,769 DEBUG    Exiting
+(MainThread) 2018-12-01 22:07:10,769 DEBUG    Exiting
+(MainThread) 2018-12-01 22:07:10,769 DEBUG    Exiting
+(MainThread) 2018-12-01 22:07:10,789 DEBUG    Exiting
+(MainThread) 2018-12-01 22:07:10,796 DEBUG    Exiting
+(MainThread) 2018-12-01 22:07:10,796 DEBUG    Exiting
+(MainThread) 2018-12-01 22:07:47,078 DEBUG    starting
+(MainThread) 2018-12-01 22:07:47,078 DEBUG    SET - lock acquire
+(MainThread) 2018-12-01 22:07:47,078 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:07:47,078 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:07:47,078 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:07:47,078 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:07:47,078 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:07:47,078 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:07:47,078 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:07:47,078 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:07:47,078 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:07:47,078 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:07:47,079 DEBUG    answer - Value was added
+(MainThread) 2018-12-01 22:07:47,079 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:07:47,081 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:07:47,081 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:07:47,081 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:07:47,081 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:07:47,081 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:07:47,081 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:07:47,081 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:07:47,081 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:07:47,081 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:07:47,081 DEBUG    SET - lock relese
+(MainThread) 2018-12-01 22:07:47,085 DEBUG    starting
+(MainThread) 2018-12-01 22:07:47,085 DEBUG    SET - lock acquire
+(MainThread) 2018-12-01 22:07:47,085 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:07:47,085 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:07:47,085 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:07:47,085 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:07:47,085 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:07:47,085 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:07:47,085 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:07:47,085 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:07:47,085 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:07:47,085 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:07:47,085 DEBUG    starting
+(MainThread) 2018-12-01 22:07:47,086 DEBUG    starting
+(MainThread) 2018-12-01 22:07:47,086 DEBUG    answer - Value was added
+(MainThread) 2018-12-01 22:07:47,086 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:07:47,088 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:07:47,088 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:07:47,088 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:07:47,088 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:07:47,088 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:07:47,088 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:07:47,088 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:07:47,088 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:07:47,088 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:07:47,088 DEBUG    SET - lock relese
+(MainThread) 2018-12-01 22:07:47,088 DEBUG    SET - lock acquire
+(MainThread) 2018-12-01 22:07:47,088 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:07:47,088 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:07:47,088 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:07:47,088 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:07:47,088 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:07:47,088 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:07:47,088 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:07:47,088 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:07:47,088 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:07:47,088 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:07:47,094 DEBUG    answer - Value was added
+(MainThread) 2018-12-01 22:07:47,094 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:07:47,094 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:07:47,094 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:07:47,094 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:07:47,094 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:07:47,094 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:07:47,094 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:07:47,094 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:07:47,095 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:07:47,095 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:07:47,095 DEBUG    SET - lock relese
+(MainThread) 2018-12-01 22:07:47,095 DEBUG    SET - lock acquire
+(MainThread) 2018-12-01 22:07:47,095 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:07:47,095 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:07:47,095 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:07:47,095 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:07:47,095 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:07:47,095 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:07:47,095 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:07:47,095 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:07:47,095 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:07:47,095 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:07:47,096 DEBUG    answer - Value was added
+(MainThread) 2018-12-01 22:07:47,096 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:07:47,096 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:07:47,096 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:07:47,096 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:07:47,096 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:07:47,096 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:07:47,098 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:07:47,098 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:07:47,098 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:07:47,098 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:07:47,098 DEBUG    SET - lock relese
+(MainThread) 2018-12-01 22:07:49,082 DEBUG    Exiting
+(MainThread) 2018-12-01 22:07:49,088 DEBUG    Exiting
+(MainThread) 2018-12-01 22:07:49,095 DEBUG    Exiting
+(MainThread) 2018-12-01 22:07:49,098 DEBUG    Exiting
+(MainThread) 2018-12-01 22:07:57,186 DEBUG    starting
+(MainThread) 2018-12-01 22:07:57,186 DEBUG    starting
+(MainThread) 2018-12-01 22:07:57,186 DEBUG    SET - lock acquire
+(MainThread) 2018-12-01 22:07:57,186 DEBUG    GET - semphore acquire
+(MainThread) 2018-12-01 22:07:57,186 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:07:57,186 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:07:57,186 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:07:57,186 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:07:57,186 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:07:57,186 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:07:57,187 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:07:57,187 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:07:57,187 DEBUG    GET - semphore release
+(MainThread) 2018-12-01 22:07:57,187 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:07:57,187 DEBUG    answer - the value is - b
+(MainThread) 2018-12-01 22:07:57,187 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:07:57,188 DEBUG    answer - Value was added
+(MainThread) 2018-12-01 22:07:57,188 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:07:57,188 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:07:57,188 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:07:57,188 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:07:57,188 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:07:57,188 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:07:57,188 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:07:57,188 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:07:57,188 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:07:57,188 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:07:57,188 DEBUG    SET - lock relese
+(MainThread) 2018-12-01 22:07:57,226 DEBUG    starting
+(MainThread) 2018-12-01 22:07:57,226 DEBUG    GET - semphore acquire
+(MainThread) 2018-12-01 22:07:57,226 DEBUG    starting
+(MainThread) 2018-12-01 22:07:57,226 DEBUG    GET - semphore acquire
+(MainThread) 2018-12-01 22:07:57,226 DEBUG    GET - semphore release
+(MainThread) 2018-12-01 22:07:57,226 DEBUG    answer - the value is - a
+(MainThread) 2018-12-01 22:07:57,226 DEBUG    GET - semphore release
+(MainThread) 2018-12-01 22:07:57,226 DEBUG    answer - the value is - c
+(MainThread) 2018-12-01 22:07:57,453 DEBUG    starting
+(MainThread) 2018-12-01 22:07:57,453 DEBUG    GET - semphore acquire
+(MainThread) 2018-12-01 22:07:57,453 DEBUG    GET - semphore release
+(MainThread) 2018-12-01 22:07:57,454 DEBUG    answer - the value is - b
+(MainThread) 2018-12-01 22:07:57,461 DEBUG    starting
+(MainThread) 2018-12-01 22:07:57,461 DEBUG    SET - lock acquire
+(MainThread) 2018-12-01 22:07:57,461 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:07:57,461 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:07:57,461 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:07:57,461 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:07:57,461 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:07:57,463 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:07:57,463 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:07:57,463 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:07:57,463 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:07:57,463 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:07:57,470 DEBUG    starting
+(MainThread) 2018-12-01 22:07:57,578 DEBUG    starting
+(MainThread) 2018-12-01 22:07:57,579 DEBUG    starting
+(MainThread) 2018-12-01 22:07:57,584 DEBUG    starting
+(MainThread) 2018-12-01 22:07:57,671 DEBUG    starting
+(MainThread) 2018-12-01 22:07:57,674 DEBUG    starting
+(MainThread) 2018-12-01 22:07:57,746 DEBUG    starting
+(MainThread) 2018-12-01 22:07:57,819 DEBUG    starting
+(MainThread) 2018-12-01 22:07:57,825 DEBUG    starting
+(MainThread) 2018-12-01 22:07:57,828 DEBUG    starting
+(MainThread) 2018-12-01 22:07:57,829 DEBUG    starting
+(MainThread) 2018-12-01 22:07:57,832 DEBUG    starting
+(MainThread) 2018-12-01 22:07:57,842 DEBUG    starting
+(MainThread) 2018-12-01 22:07:57,845 DEBUG    answer - Value was added
+(MainThread) 2018-12-01 22:07:57,845 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:07:57,845 DEBUG    GET - semphore acquire
+(MainThread) 2018-12-01 22:07:57,845 DEBUG    GET - semphore acquire
+(MainThread) 2018-12-01 22:07:57,845 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:07:57,845 DEBUG    GET - semphore acquire
+(MainThread) 2018-12-01 22:07:57,845 DEBUG    GET - semphore release
+(MainThread) 2018-12-01 22:07:57,845 DEBUG    answer - the value is - a
+(MainThread) 2018-12-01 22:07:57,845 DEBUG    GET - semphore acquire
+(MainThread) 2018-12-01 22:07:57,845 DEBUG    GET - semphore acquire
+(MainThread) 2018-12-01 22:07:57,845 DEBUG    GET - semphore release
+(MainThread) 2018-12-01 22:07:57,845 DEBUG    GET - semphore release
+c
+(MainThread) 2018-12-01 22:07:57,846 DEBUG    answer - the value is - e
+(MainThread) 2018-12-01 22:07:57,846 DEBUG    GET - semphore acquire
+(MainThread) 2018-12-01 22:07:57,846 DEBUG    GET - semphore release
+(MainThread) 2018-12-01 22:07:57,846 DEBUG    answer - invalid key
+(MainThread) 2018-12-01 22:07:57,846 DEBUG    GET - semphore release
+(MainThread) 2018-12-01 22:07:57,848 DEBUG    answer - the value is - c
+(MainThread) 2018-12-01 22:07:57,848 DEBUG    GET - semphore release
+(MainThread) 2018-12-01 22:07:57,848 DEBUG    answer - the value is - h
+(MainThread) 2018-12-01 22:07:57,848 DEBUG    GET - semphore acquire
+(MainThread) 2018-12-01 22:07:57,848 DEBUG    GET - semphore acquire
+(MainThread) 2018-12-01 22:07:57,848 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:07:57,848 DEBUG    GET - semphore acquire
+(MainThread) 2018-12-01 22:07:57,848 DEBUG    GET - semphore release
+(MainThread) 2018-12-01 22:07:57,848 DEBUG    GET - semphore release
+(MainThread) 2018-12-01 22:07:57,848 DEBUG    answer - the value is - e
+(MainThread) 2018-12-01 22:07:57,848 DEBUG    GET - semphore release
+d
+(MainThread) 2018-12-01 22:07:57,848 DEBUG    answer - the value is - d
+(MainThread) 2018-12-01 22:07:57,848 DEBUG    GET - semphore acquire
+(MainThread) 2018-12-01 22:07:57,848 DEBUG    GET - semphore acquire
+(MainThread) 2018-12-01 22:07:57,848 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:07:57,848 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:07:57,848 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:07:57,848 DEBUG    GET - semphore release
+(MainThread) 2018-12-01 22:07:57,848 DEBUG    answer - invalid key
+(MainThread) 2018-12-01 22:07:57,849 DEBUG    GET - semphore release
+(MainThread) 2018-12-01 22:07:57,849 DEBUG    answer - invalid key
+(MainThread) 2018-12-01 22:07:57,849 DEBUG    GET - semphore release
+(MainThread) 2018-12-01 22:07:57,849 DEBUG    answer - the value is - d
+(MainThread) 2018-12-01 22:07:57,848 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:07:57,849 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:07:57,849 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:07:57,849 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:07:57,849 DEBUG    SET - lock relese
+(MainThread) 2018-12-01 22:07:57,849 DEBUG    SET - lock acquire
+(MainThread) 2018-12-01 22:07:57,851 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:07:57,851 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:07:57,851 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:07:57,851 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:07:57,851 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:07:57,851 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:07:57,851 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:07:57,851 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:07:57,851 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:07:57,851 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:07:57,852 DEBUG    answer - Value was added
+(MainThread) 2018-12-01 22:07:57,852 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:07:57,852 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:07:57,852 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:07:57,854 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:07:57,854 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:07:57,854 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:07:57,854 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:07:57,854 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:07:57,854 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:07:57,854 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:07:57,854 DEBUG    SET - lock relese
+(MainThread) 2018-12-01 22:07:57,861 DEBUG    starting
+(MainThread) 2018-12-01 22:07:57,861 DEBUG    GET - semphore acquire
+(MainThread) 2018-12-01 22:07:57,861 DEBUG    GET - semphore release
+(MainThread) 2018-12-01 22:07:57,861 DEBUG    answer - the value is - a
+(MainThread) 2018-12-01 22:07:57,869 DEBUG    starting
+(MainThread) 2018-12-01 22:07:57,869 DEBUG    GET - semphore acquire
+(MainThread) 2018-12-01 22:07:57,871 DEBUG    GET - semphore release
+(MainThread) 2018-12-01 22:07:57,871 DEBUG    answer - the value is - a
+(MainThread) 2018-12-01 22:07:57,882 DEBUG    starting
+(MainThread) 2018-12-01 22:07:57,882 DEBUG    GET - semphore acquire
+(MainThread) 2018-12-01 22:07:57,884 DEBUG    GET - semphore release
+(MainThread) 2018-12-01 22:07:57,884 DEBUG    answer - the value is - g
+(MainThread) 2018-12-01 22:07:57,898 DEBUG    starting
+(MainThread) 2018-12-01 22:07:57,898 DEBUG    GET - semphore acquire
+(MainThread) 2018-12-01 22:07:57,900 DEBUG    GET - semphore release
+(MainThread) 2018-12-01 22:07:57,900 DEBUG    answer - the value is - c
+(MainThread) 2018-12-01 22:07:58,197 DEBUG    starting
+(MainThread) 2018-12-01 22:07:58,197 DEBUG    GET - semphore acquire
+(MainThread) 2018-12-01 22:07:58,197 DEBUG    starting
+(MainThread) 2018-12-01 22:07:58,197 DEBUG    GET - semphore acquire
+(MainThread) 2018-12-01 22:07:58,198 DEBUG    GET - semphore release
+(MainThread) 2018-12-01 22:07:58,198 DEBUG    answer - the value is - a
+(MainThread) 2018-12-01 22:07:58,198 DEBUG    GET - semphore release
+(MainThread) 2018-12-01 22:07:58,198 DEBUG    answer - the value is - b
+(MainThread) 2018-12-01 22:07:58,398 DEBUG    starting
+(MainThread) 2018-12-01 22:07:58,398 DEBUG    GET - semphore acquire
+(MainThread) 2018-12-01 22:07:58,398 DEBUG    GET - semphore release
+(MainThread) 2018-12-01 22:07:58,398 DEBUG    answer - the value is - e
+(MainThread) 2018-12-01 22:07:58,404 DEBUG    starting
+(MainThread) 2018-12-01 22:07:58,404 DEBUG    GET - semphore acquire
+(MainThread) 2018-12-01 22:07:58,404 DEBUG    starting
+(MainThread) 2018-12-01 22:07:58,404 DEBUG    SET - lock acquire
+(MainThread) 2018-12-01 22:07:58,404 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:07:58,405 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:07:58,405 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:07:58,405 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:07:58,405 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:07:58,405 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:07:58,405 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:07:58,405 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:07:58,405 DEBUG    SET - semphore acquire
+(MainThread) 2018-12-01 22:07:58,405 DEBUG    answer - the value is - d
+(MainThread) 2018-12-01 22:07:58,407 DEBUG    starting
+(MainThread) 2018-12-01 22:07:58,407 DEBUG    starting
+(MainThread) 2018-12-01 22:07:58,407 DEBUG    starting
+(MainThread) 2018-12-01 22:07:58,407 DEBUG    answer - Value was added
+(MainThread) 2018-12-01 22:07:58,407 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:07:58,407 DEBUG    GET - semphore acquire
+(MainThread) 2018-12-01 22:07:58,407 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:07:58,407 DEBUG    GET - semphore acquire
+(MainThread) 2018-12-01 22:07:58,407 DEBUG    GET - semphore acquire
+(MainThread) 2018-12-01 22:07:58,407 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:07:58,408 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:07:58,408 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:07:58,408 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:07:58,408 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:07:58,408 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:07:58,408 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:07:58,408 DEBUG    SET - semphore release
+(MainThread) 2018-12-01 22:07:58,408 DEBUG    GET - semphore release
+(MainThread) 2018-12-01 22:07:58,408 DEBUG    SET - lock relese
+(MainThread) 2018-12-01 22:07:58,408 DEBUG    answer - the value is - d
+(MainThread) 2018-12-01 22:07:58,408 DEBUG    GET - semphore release
+(MainThread) 2018-12-01 22:07:58,408 DEBUG    answer - the value is - c
+(MainThread) 2018-12-01 22:07:58,410 DEBUG    GET - semphore release
+(MainThread) 2018-12-01 22:07:58,410 DEBUG    answer - the value is - b
+(MainThread) 2018-12-01 22:07:59,187 DEBUG    Exiting
+(MainThread) 2018-12-01 22:07:59,190 DEBUG    Exiting
+(MainThread) 2018-12-01 22:07:59,227 DEBUG    Exiting
+(MainThread) 2018-12-01 22:07:59,456 DEBUG    Exiting
+(MainThread) 2018-12-01 22:07:59,845 DEBUG    Exiting
+(MainThread) 2018-12-01 22:07:59,846 DEBUG    Exiting
+(MainThread) 2018-12-01 22:07:59,848 DEBUG    Exiting
+(MainThread) 2018-12-01 22:07:59,848 DEBUG    Exiting
+(MainThread) 2018-12-01 22:07:59,848 DEBUG    Exiting
+(MainThread) 2018-12-01 22:07:59,848 DEBUG    Exiting
+(MainThread) 2018-12-01 22:07:59,848 DEBUG    Exiting
+(MainThread) 2018-12-01 22:07:59,849 DEBUG    Exiting
+(MainThread) 2018-12-01 22:07:59,849 DEBUG    Exiting
+(MainThread) 2018-12-01 22:07:59,851 DEBUG    Exiting
+(MainThread) 2018-12-01 22:07:59,851 DEBUG    Exiting
+(MainThread) 2018-12-01 22:07:59,851 DEBUG    Exiting
+(MainThread) 2018-12-01 22:07:59,854 DEBUG    Exiting
+(MainThread) 2018-12-01 22:07:59,865 DEBUG    Exiting
+(MainThread) 2018-12-01 22:07:59,871 DEBUG    Exiting
+(MainThread) 2018-12-01 22:07:59,884 DEBUG    Exiting
+(MainThread) 2018-12-01 22:07:59,900 DEBUG    Exiting
+(MainThread) 2018-12-01 22:08:00,198 DEBUG    Exiting
+(MainThread) 2018-12-01 22:08:00,198 DEBUG    Exiting
+(MainThread) 2018-12-01 22:08:00,398 DEBUG    Exiting
+(MainThread) 2018-12-01 22:08:00,405 DEBUG    Exiting
+(MainThread) 2018-12-01 22:08:00,408 DEBUG    Exiting
+(MainThread) 2018-12-01 22:08:00,408 DEBUG    Exiting
+(MainThread) 2018-12-01 22:08:00,408 DEBUG    Exiting
+(MainThread) 2018-12-01 22:08:00,410 DEBUG    Exiting

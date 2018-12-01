@@ -11,4 +11,16 @@ p3
 sI4
 S'd'
 p4
+sI5
+S'e'
+p5
+sI6
+S'f'
+p6
+sI7
+S'g'
+p7
+sI8
+S'h'
+p8
 s.

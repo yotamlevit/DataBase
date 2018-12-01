@@ -1,60 +1,53 @@
 # -*- coding: utf-8 -*-
-
+"""
+author: Yotam Levit
+project: DataBase Readers and Writers sync
+"""
 from File_Serialization import File_serialization
-import threading
+
 
 class File_Sync(File_serialization):
-    def __init__(self, processes):
+    """
+    closest stage from the sync
+    the class converts the answers from the database to the log
+    """
+    def __init__(self):
+        """
+        class initializer
+        son`s of the File_serialization class
+        """
         super(File_Sync, self).__init__()
-        self.lock = None
-        self.semaphore = None
-        if not processes:
-            self.semaphore = threading.BoundedSemaphore(10)
-            self.lock = threading.Lock()
 
     def set_value(self, key, val):
-        self.lock.acquire()
-        self.lock.locked()
-        x = 0
-        while x < 10:
-            self.semaphore.acquire()
-            x+=1
+        """
+        sets a value and it`s key in the database
+        ;key: the value`s key in the database
+        ;val: the key`s value in the database
+        ;return: Value was added if succeed can't
+         add value or key alredy exist if not
+        """
         ans = super(File_Sync, self).set_value(key, val)
-        x = 0
-        while x < 10:
-            self.semaphore.release()
-            x+=1
-        self.lock.release()
         if ans:
             return "Value was added"
         return "can't add value or key alredy exist"
 
     def get_value(self, key):
-        self.semaphore.acquire()
+        """
+        ;key: the key of the wanted value
+        ;return: the key`s value if found
+        if not returns Warning - Empty database or invalid value
+        """
         val = super(File_Sync, self).get_value(key)
-        self.semaphore.release()
         if val != "invalid key":
             return 'the value is - ' + val
         return val
 
     def delete_value(self, key):
-        self.lock.acquire()
-        x = 0
-        while x < 10:
-            self.semaphore.acquire()
-        ans = super(File_Sync, self).delete_value(key)
-        while x < 10:
-            self.semaphore.release()
-        self.lock.release()
-        return ans
-
-
-def main():
-    """
-    Add Documentation here
-    """
-    pass  # Replace Pass with Your Code
-
-
-if __name__ == '__main__':
-    main()
+        """
+        deletes a key and it`s value from the database
+        ;key: the key that is going to be deleted
+        ;return: the value of the key if the key and the
+        value were deleted and invalid key if not
+        if the database is empty returns Empty database
+        """
+        return super(File_Sync, self).delete_value(key)
